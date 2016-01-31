@@ -1,0 +1,8560 @@
+1
+00:00:00,337 --> 00:00:01,980
+{\an1}Previously on "Arrow"...
+
+2
+00:00:00,337 --> 00:00:01,980
+{\an1}Trước đó vào \
+
+3
+00:00:01,982 --> 00:00:03,415
+{\an1}So my brother's
+a Ghost?
+
+4
+00:00:01,982 --> 00:00:03,415
+{\an1}Vì vậy, anh trai tôi 
+Ghost?
+
+5
+00:00:03,417 --> 00:00:04,862
+{\an1}10 years ago, I found
+out you were dealing.
+
+6
+00:00:03,417 --> 00:00:04,862
+{\an1}10 năm trước đây, tôi thấy 
+ra bạn đã được giải quyết.
+
+7
+00:00:04,962 --> 00:00:07,463
+{\an1}Yeah. You convinced
+me to enlist.
+
+8
+00:00:04,962 --> 00:00:07,463
+{\an1}Yeah. Bạn thuyết phục 
+tôi lên đường nhập ngũ.
+
+9
+00:00:07,563 --> 00:00:09,196
+{\an1}John, voice-over: You saw what kind
+of man my brother was,
+
+10
+00:00:07,563 --> 00:00:09,196
+{\an1}John, voice-over: Bạn đã thấy những gì loại 
+của người đàn ông anh tôi là,
+
+11
+00:00:09,198 --> 00:00:10,764
+{\an1}what kind of man he is.
+
+12
+00:00:09,198 --> 00:00:10,764
+{\an1}những loại người như ông ta.
+
+13
+00:00:10,766 --> 00:00:12,266
+{\an1}He's your family.
+You said he was a good man.
+
+14
+00:00:10,766 --> 00:00:12,266
+{\an1}Anh ấy là gia đình của bạn. [Escapcode_n] Bạn nói rằng ông là một người đàn ông tốt.
+
+15
+00:00:12,268 --> 00:00:13,534
+{\an1}Maybe part of him
+still is.
+
+16
+00:00:12,268 --> 00:00:13,534
+{\an1}Có lẽ một phần của anh ấy 
+vẫn là.
+
+17
+00:00:13,536 --> 00:00:14,868
+{\an1}I don't know.
+
+18
+00:00:13,536 --> 00:00:14,868
+{\an1}Tôi không biết.
+
+19
+00:00:15,871 --> 00:00:17,071
+{\an1}Get down.
+
+20
+00:00:15,871 --> 00:00:17,071
+{\an1}Cúi xuống.
+
+21
+00:00:19,241 --> 00:00:22,076
+{\an1}The damage
+to her spinal cord, it's permanent.
+
+22
+00:00:19,241 --> 00:00:22,076
+{\an1}Các thiệt hại 
+để tủy sống của mình, đó là vĩnh viễn.
+
+23
+00:00:22,078 --> 00:00:23,877
+{\an1}She's never gonna
+walk again.
+
+24
+00:00:22,078 --> 00:00:23,877
+{\an1}Cô ấy không bao giờ sẽ 
+đi lại được nữa.
+
+25
+00:00:26,415 --> 00:00:28,015
+{\an1}If we don't get
+home soon,
+
+26
+00:00:26,415 --> 00:00:28,015
+{\an1}Nếu chúng ta không có được 
+nhà sớm,
+
+27
+00:00:28,017 --> 00:00:30,184
+{\an1}the sitter's gonna
+charge us an extra hour.
+
+28
+00:00:28,017 --> 00:00:30,184
+{\an1}sẽ của sitter 
+phí chúng tôi thêm một giờ.
+
+29
+00:00:30,186 --> 00:00:31,919
+{\an1}We should have
+taken the car.
+
+30
+00:00:30,186 --> 00:00:31,919
+{\an1}Chúng ta nên có 
+lấy xe.
+
+31
+00:00:31,921 --> 00:00:35,789
+{\an1}Sitter's what, another 15 bucks
+for half an hour?
+
+32
+00:00:31,921 --> 00:00:35,789
+{\an1}Sitter là những gì, một 15 Bucks 
+trong nửa giờ?
+
+33
+00:00:35,791 --> 00:00:38,125
+{\an1}It's a bargain
+at twice the price.
+
+34
+00:00:35,791 --> 00:00:38,125
+{\an1}Đó là một món hời 
+gấp đôi giá.
+
+35
+00:00:41,664 --> 00:00:42,796
+{\an1}Lyla.
+
+36
+00:00:41,664 --> 00:00:42,796
+{\an1}Lyla.
+
+37
+00:00:42,798 --> 00:00:44,698
+{\an1}- Dear God.
+- Alan?
+
+38
+00:00:42,798 --> 00:00:44,698
+{\an1}- Lạy Chúa 
+-. Alan?
+
+39
+00:00:44,700 --> 00:00:46,233
+{\an1}Sorry to crash
+your evening.
+
+40
+00:00:44,700 --> 00:00:46,233
+{\an1}Xin lỗi sụp đổ 
+tối của bạn.
+
+41
+00:00:46,235 --> 00:00:47,601
+{\an1}Then don't. Just call
+like normal people.
+
+42
+00:00:46,235 --> 00:00:47,601
+{\an1}Sau đó thì không. Chỉ cần gọi 
+như người bình thường.
+
+43
+00:00:47,603 --> 00:00:49,169
+{\an1}I don't have
+a normal job,
+
+44
+00:00:47,603 --> 00:00:49,169
+{\an1}Tôi không có 
+một công việc bình thường,
+
+45
+00:00:49,171 --> 00:00:50,471
+{\an1}and I've been compromised.
+
+46
+00:00:49,171 --> 00:00:50,471
+{\an1}và tôi đã bị xâm nhập.
+
+47
+00:00:50,473 --> 00:00:51,805
+{\an1}I'm not Argus
+anymore.
+
+48
+00:00:50,473 --> 00:00:51,805
+{\an1}Tôi không Argus 
+nữa.
+
+49
+00:00:51,807 --> 00:00:53,440
+{\an1}Which makes you
+the only person I can trust.
+
+50
+00:00:51,807 --> 00:00:53,440
+{\an1}Mà làm cho bạn 
+là người duy nhất tôi có thể tin tưởng.
+
+51
+00:00:53,442 --> 00:00:54,975
+{\an1}I need you to
+tell Waller--
+
+52
+00:00:53,442 --> 00:00:54,975
+{\an1}Tôi cần bạn 
+nói Waller--
+
+53
+00:00:54,977 --> 00:00:56,243
+{\an1}Get down!
+
+54
+00:00:54,977 --> 00:00:56,243
+{\an1}Nằm xuống!
+
+55
+00:00:58,547 --> 00:01:00,247
+{\an1}-You're hit!
+-Ugh.
+
+56
+00:00:58,547 --> 00:01:00,247
+{\an1}-You're Hit! [Escapcode_n] -Ugh.
+
+57
+00:01:02,418 --> 00:01:03,650
+{\an1}Alan!
+
+58
+00:01:02,418 --> 00:01:03,650
+{\an1}Alan!
+
+59
+00:01:16,665 --> 00:01:17,698
+{\an1}Unh!
+
+60
+00:01:16,665 --> 00:01:17,698
+{\an1}Unh!
+
+61
+00:01:17,700 --> 00:01:19,833
+{\an1}Johnnie!
+
+62
+00:01:17,700 --> 00:01:19,833
+{\an1}Johnnie!
+
+63
+00:01:19,835 --> 00:01:21,602
+{\an1}Are you ok?
+
+64
+00:01:19,835 --> 00:01:21,602
+{\an1}Bạn ổn chứ?
+
+65
+00:01:21,604 --> 00:01:22,803
+{\an1}You were right.
+
+66
+00:01:21,604 --> 00:01:22,803
+{\an1}Bạn đa đung.
+
+67
+00:01:22,805 --> 00:01:24,238
+{\an1}We should have taken
+the car.
+
+68
+00:01:22,805 --> 00:01:24,238
+{\an1}Chúng ta nên đã lấy 
+xe.
+
+69
+00:01:24,239 --> 00:01:28,239
+{\an1}<font color=#00FF00>♪ Arrow 4x11 ♪</font>
+<font color=#00FFFF>A.W.O.L.</font>
+Original Air Date on January 27, 2016
+
+70
+00:01:24,239 --> 00:01:28,239
+{\an1}♪ mũi tên 4x11 ♪ 
+A.W.O.L. 
+Original Ngày Air trên 27 tháng 1 2016
+
+71
+00:01:28,240 --> 00:01:31,240
+{\an1}== sync, corrected by <font color=#00FF00>elderman</font> ==
+<font color=#00FFFF>@elder_man</font>
+
+72
+00:01:28,240 --> 00:01:31,240
+{\an1}== Đồng bộ, điều chỉnh bằng cách elderman == 
+elder_man
+
+73
+00:01:31,247 --> 00:01:32,980
+{\an1}Just be careful.
+Slow down, slow down.
+
+74
+00:01:31,247 --> 00:01:32,980
+{\an1}Chỉ cần cẩn thận. [Escapcode_n] Làm chậm, làm chậm.
+
+75
+00:01:32,982 --> 00:01:34,481
+{\an1}Careful, careful, careful.
+
+76
+00:01:32,982 --> 00:01:34,481
+{\an1}Cẩn thận, cẩn thận, cẩn thận.
+
+77
+00:01:34,483 --> 00:01:36,250
+{\an1}Do you want me
+to be careful?
+
+78
+00:01:34,483 --> 00:01:36,250
+{\an1}Bạn có muốn tôi 
+phải cẩn thận?
+
+79
+00:01:36,252 --> 00:01:38,418
+{\an1}Oh, this is more
+Oliver 2.0, isn't it?
+
+80
+00:01:36,252 --> 00:01:38,418
+{\an1}Oh, đây là thêm 
+Oliver 2.0, phải không?
+
+81
+00:01:38,420 --> 00:01:40,654
+{\an1}You think being cute
+is gonna distract me?
+
+82
+00:01:38,420 --> 00:01:40,654
+{\an1}Bạn nghĩ được dễ thương 
+là gonna phân tâm tôi?
+
+83
+00:01:40,656 --> 00:01:42,856
+{\an1}Mission
+accomplished.
+
+84
+00:01:40,656 --> 00:01:42,856
+{\an1}Sứ mệnh 
+hoàn thành.
+
+85
+00:01:42,858 --> 00:01:44,458
+{\an1}You don't
+have to wait on me
+
+86
+00:01:42,858 --> 00:01:44,458
+{\an1}Bạn không 
+phải đợi vào tôi
+
+87
+00:01:44,460 --> 00:01:46,126
+{\an1}hand and foot,
+
+88
+00:01:44,460 --> 00:01:46,126
+{\an1}bàn tay và bàn chân,
+
+89
+00:01:46,128 --> 00:01:48,295
+{\an1}though I wouldn't say
+no to a blanket.
+
+90
+00:01:46,128 --> 00:01:48,295
+{\an1}mặc dù tôi sẽ không nói 
+không với một tấm chăn.
+
+91
+00:01:48,297 --> 00:01:50,464
+{\an1}The doctor says
+stick
+
+92
+00:01:48,297 --> 00:01:50,464
+{\an1}Các bác sĩ nói rằng 
+thanh
+
+93
+00:01:50,466 --> 00:01:52,199
+{\an1}with the two tablets
+
+94
+00:01:50,466 --> 00:01:52,199
+{\an1}với hai máy tính bảng
+
+95
+00:01:52,201 --> 00:01:53,634
+{\an1}to keep with your
+current
+
+96
+00:01:52,201 --> 00:01:53,634
+{\an1}để giữ với bạn 
+hiện tại
+
+97
+00:01:53,636 --> 00:01:56,436
+{\an1}pain management
+regimen.
+
+98
+00:01:53,636 --> 00:01:56,436
+{\an1}quản lý đau 
+phác đồ.
+
+99
+00:01:56,438 --> 00:01:58,005
+{\an1}You know, I really
+appreciate what you're doing,
+
+100
+00:01:56,438 --> 00:01:58,005
+{\an1}Bạn biết đấy, tôi thực sự 
+đánh giá cao những gì bạn đang làm,
+
+101
+00:01:58,007 --> 00:01:59,406
+{\an1}but you have
+a city to save,
+
+102
+00:01:58,007 --> 00:01:59,406
+{\an1}nhưng bạn có 
+một thành phố để tiết kiệm,
+
+103
+00:01:59,408 --> 00:02:01,008
+{\an1}a mayoral campaign,
+
+104
+00:01:59,408 --> 00:02:01,008
+{\an1}một chiến dịch thị trưởng,
+
+105
+00:02:01,010 --> 00:02:02,476
+{\an1}a freaky superbad
+who can move things
+
+106
+00:02:01,010 --> 00:02:02,476
+{\an1}một Superbad freaky 
+người có thể di chuyển mọi thứ
+
+107
+00:02:02,478 --> 00:02:03,677
+{\an1}with his mind.
+
+108
+00:02:02,478 --> 00:02:03,677
+{\an1}với tâm trí của mình.
+
+109
+00:02:03,679 --> 00:02:06,013
+{\an1}None of which are
+nearly as important
+
+110
+00:02:03,679 --> 00:02:06,013
+{\an1}Không ai trong số đó là 
+gần như là quan trọng
+
+111
+00:02:06,015 --> 00:02:07,514
+{\an1}as your recovery.
+
+112
+00:02:06,015 --> 00:02:07,514
+{\an1}như phục hồi của bạn.
+
+113
+00:02:07,516 --> 00:02:08,682
+{\an1}Thank you.
+
+114
+00:02:07,516 --> 00:02:08,682
+{\an1}Cảm ơn bạn.
+
+115
+00:02:08,684 --> 00:02:10,117
+{\an1}I think the people
+in the city
+
+116
+00:02:08,684 --> 00:02:10,117
+{\an1}Tôi nghĩ rằng mọi người 
+trong thành phố
+
+117
+00:02:10,119 --> 00:02:11,618
+{\an1}that Darhk wants to
+destroy might disagree.
+
+118
+00:02:10,119 --> 00:02:11,618
+{\an1}rằng Darhk muốn 
+phá hủy có thể không đồng ý.
+
+119
+00:02:11,620 --> 00:02:12,886
+{\an1}Well, those people
+should know that
+
+120
+00:02:11,620 --> 00:02:12,886
+{\an1}Vâng, những người 
+nên biết rằng
+
+121
+00:02:12,888 --> 00:02:14,354
+{\an1}I stand no chance
+of stopping Damien Darhk
+
+122
+00:02:12,888 --> 00:02:14,354
+{\an1}Tôi đứng không có cơ hội 
+dừng Damien Darhk
+
+123
+00:02:14,356 --> 00:02:15,455
+{\an1}without your help.
+
+124
+00:02:14,356 --> 00:02:15,455
+{\an1}mà không cần sự giúp đỡ của bạn.
+
+125
+00:02:15,457 --> 00:02:18,225
+{\an1}Well, you might
+have to.
+
+126
+00:02:15,457 --> 00:02:18,225
+{\an1}Vâng, bạn có thể 
+phải.
+
+127
+00:02:18,227 --> 00:02:19,893
+{\an1}I have a spinal cord injury.
+
+128
+00:02:18,227 --> 00:02:19,893
+{\an1}Tôi có một chấn thương tủy sống.
+
+129
+00:02:19,895 --> 00:02:23,664
+{\an1}I might never make
+a full recovery ever.
+
+130
+00:02:19,895 --> 00:02:23,664
+{\an1}Tôi có thể không bao giờ làm cho 
+hồi phục hoàn toàn bao giờ hết.
+
+131
+00:02:23,666 --> 00:02:25,566
+{\an1}That is worst case
+scenario,
+
+132
+00:02:23,666 --> 00:02:25,566
+{\an1}Đó là trường hợp xấu nhất 
+kịch bản,
+
+133
+00:02:25,568 --> 00:02:26,900
+{\an1}and either way,
+you are still
+
+134
+00:02:25,568 --> 00:02:26,900
+{\an1}và một trong hai cách, 
+bạn vẫn còn
+
+135
+00:02:26,902 --> 00:02:28,502
+{\an1}a vital member
+of the team.
+
+136
+00:02:26,902 --> 00:02:28,502
+{\an1}một thành viên quan trọng 
+của đội.
+
+137
+00:02:28,504 --> 00:02:33,640
+{\an1}Your superpower
+is right there.
+
+138
+00:02:28,504 --> 00:02:33,640
+{\an1}ưu điểm của bạn 
+là phải có.
+
+139
+00:02:33,642 --> 00:02:35,442
+{\an1}Maybe my new code name
+could be Hot Wheels.
+
+140
+00:02:33,642 --> 00:02:35,442
+{\an1}Có lẽ tên mã mới của tôi 
+có thể là Hot Wheels.
+
+141
+00:02:35,444 --> 00:02:39,079
+{\an1}Keep pitching on that.
+
+142
+00:02:35,444 --> 00:02:39,079
+{\an1}Giữ bày trên đó.
+
+143
+00:02:39,081 --> 00:02:40,614
+{\an1}All jokes aside,
+
+144
+00:02:39,081 --> 00:02:40,614
+{\an1}Tất cả các câu chuyện cười sang một bên,
+
+145
+00:02:40,616 --> 00:02:41,915
+{\an1}like you said,
+
+146
+00:02:40,616 --> 00:02:41,915
+{\an1}như bạn nói,
+
+147
+00:02:41,917 --> 00:02:43,350
+{\an1}what I do bring
+to the team is my mind,
+
+148
+00:02:41,917 --> 00:02:43,350
+{\an1}những gì tôi mang 
+để nhóm nghiên cứu là tâm trí của tôi,
+
+149
+00:02:43,352 --> 00:02:45,686
+{\an1}and there's a lot
+on it.
+
+150
+00:02:43,352 --> 00:02:45,686
+{\an1}và có rất nhiều 
+trên nó.
+
+151
+00:02:45,688 --> 00:02:47,387
+{\an1}So talk to me.
+
+152
+00:02:45,688 --> 00:02:47,387
+{\an1}Vì vậy, nói chuyện với tôi.
+
+153
+00:02:47,389 --> 00:02:49,156
+{\an1}I just don't think
+I'm ready to come back yet,
+
+154
+00:02:47,389 --> 00:02:49,156
+{\an1}Tôi chỉ không nghĩ rằng 
+tôi đã sẵn sàng để trở lại nào,
+
+155
+00:02:49,158 --> 00:02:50,591
+{\an1}and the last thing
+you need
+
+156
+00:02:49,158 --> 00:02:50,591
+{\an1}và điều cuối cùng 
+bạn cần
+
+157
+00:02:50,593 --> 00:02:52,559
+{\an1}in a life-or-limb
+situation is me.
+
+158
+00:02:50,593 --> 00:02:52,559
+{\an1}trong một cuộc sống-hay-chi 
+tình hình là tôi.
+
+159
+00:02:52,561 --> 00:02:54,494
+{\an1}Wow. We are going to
+agree to disagree
+
+160
+00:02:52,561 --> 00:02:54,494
+{\an1}Wow. Chúng tôi sẽ 
+đồng ý hay không đồng ý
+
+161
+00:02:54,496 --> 00:02:56,263
+{\an1}on that one
+for the moment.
+
+162
+00:02:54,496 --> 00:02:56,263
+{\an1}trên một trong những 
+cho thời điểm này.
+
+163
+00:02:58,467 --> 00:02:59,433
+{\an1}What's going on?
+
+164
+00:02:58,467 --> 00:02:59,433
+{\an1}Những gì đang xảy ra?
+
+165
+00:02:59,435 --> 00:03:00,901
+{\an1}John and Lyla
+were attacked.
+
+166
+00:02:59,435 --> 00:03:00,901
+{\an1}John và Lyla 
+đã bị tấn công.
+
+167
+00:03:00,903 --> 00:03:02,202
+{\an1}Oh, my God!
+Are they ok?
+
+168
+00:03:00,903 --> 00:03:02,202
+{\an1}Ôi, Chúa ơi! [Escapcode_n] Có phải họ ok?
+
+169
+00:03:02,204 --> 00:03:03,737
+{\an1}John was shot.
+It was a flesh wound.
+
+170
+00:03:02,204 --> 00:03:03,737
+{\an1}John bị bắn. [Escapcode_n] Đó là một vết thương da thịt.
+
+171
+00:03:03,739 --> 00:03:05,205
+{\an1}I should go see them.
+
+172
+00:03:03,739 --> 00:03:05,205
+{\an1}Tôi nên đi gặp họ.
+
+173
+00:03:05,207 --> 00:03:06,940
+{\an1}We should go see them.
+
+174
+00:03:05,207 --> 00:03:06,940
+{\an1}Chúng ta nên đi gặp họ.
+
+175
+00:03:06,942 --> 00:03:09,543
+{\an1}Nice try.
+
+176
+00:03:06,942 --> 00:03:09,543
+{\an1}Nice thử.
+
+177
+00:03:09,545 --> 00:03:10,744
+{\an1}Dinner is in the fridge.
+
+178
+00:03:09,545 --> 00:03:10,744
+{\an1}Ăn tối là trong tủ lạnh.
+
+179
+00:03:10,746 --> 00:03:14,414
+{\an1}Reheat in the oven
+at 425 degrees.
+
+180
+00:03:10,746 --> 00:03:14,414
+{\an1}Hâm nóng trong lò nướng 
+ở 425 độ.
+
+181
+00:03:14,416 --> 00:03:15,582
+{\an1}I love you.
+
+182
+00:03:14,416 --> 00:03:15,582
+{\an1}Anh yêu em.
+
+183
+00:03:15,584 --> 00:03:16,950
+{\an1}I love you, too.
+
+184
+00:03:15,584 --> 00:03:16,950
+{\an1}Anh cũng yêu em.
+
+185
+00:03:22,558 --> 00:03:24,358
+{\an1}And they just
+left you there?
+
+186
+00:03:22,558 --> 00:03:24,358
+{\an1}Và họ chỉ 
+bên trái bạn có?
+
+187
+00:03:24,360 --> 00:03:26,093
+{\an1}Yeah, but not before
+leaving me with this.
+
+188
+00:03:24,360 --> 00:03:26,093
+{\an1}Yeah, nhưng không phải trước 
+để lại cho tôi với điều này.
+
+189
+00:03:26,095 --> 00:03:28,595
+{\an1}We are sure that
+this wasn't HIVE?
+
+190
+00:03:26,095 --> 00:03:28,595
+{\an1}Chúng tôi chắc chắn rằng 
+này đã không được tổ?
+
+191
+00:03:28,597 --> 00:03:30,530
+{\an1}These men looked
+military.
+
+192
+00:03:28,597 --> 00:03:30,530
+{\an1}Những người đàn ông nhìn 
+quân sự.
+
+193
+00:03:30,532 --> 00:03:32,432
+{\an1}Right, but you said that Chang
+said he was compromised,
+
+194
+00:03:30,532 --> 00:03:32,432
+{\an1}Phải, nhưng bạn nói rằng Chang 
+cho biết ông đã bị xâm nhập,
+
+195
+00:03:32,434 --> 00:03:34,902
+{\an1}and he specifically told you
+to go and speak with Waller.
+
+196
+00:03:32,434 --> 00:03:34,902
+{\an1}và ông chỉ định bạn 
+để đi và nói chuyện với Waller.
+
+197
+00:03:34,904 --> 00:03:36,203
+{\an1}Knowing her, she had
+Alan working
+
+198
+00:03:34,904 --> 00:03:36,203
+{\an1}Biết mình, cô đã 
+Alan làm việc
+
+199
+00:03:36,205 --> 00:03:38,038
+{\an1}on something
+off the books.
+
+200
+00:03:36,205 --> 00:03:38,038
+{\an1}trên một cái gì đó 
+ra khỏi sổ sách.
+
+201
+00:03:38,040 --> 00:03:39,139
+{\an1}I need to call
+the sitter.
+
+202
+00:03:38,040 --> 00:03:39,139
+{\an1}Tôi cần phải gọi 
+người ngồi.
+
+203
+00:03:39,141 --> 00:03:40,474
+{\an1}Ok.
+
+204
+00:03:39,141 --> 00:03:40,474
+{\an1}Được.
+
+205
+00:03:40,476 --> 00:03:42,075
+{\an1}We need to find
+Chang before
+
+206
+00:03:40,476 --> 00:03:42,075
+{\an1}Chúng ta cần tìm 
+Chang trước
+
+207
+00:03:42,077 --> 00:03:43,777
+{\an1}this kidnapping
+becomes something worse.
+
+208
+00:03:42,077 --> 00:03:43,777
+{\an1}vụ bắt cóc này 
+trở thành một cái gì đó tồi tệ hơn.
+
+209
+00:03:43,779 --> 00:03:45,412
+{\an1}Yeah, well, the van didn't
+have any plates on them,
+
+210
+00:03:43,779 --> 00:03:45,412
+{\an1}Yeah, well, các van không 
+có bất kỳ tấm trên chúng,
+
+211
+00:03:45,414 --> 00:03:47,381
+{\an1}and Chang's phone is
+Argus-issued,
+
+212
+00:03:45,414 --> 00:03:47,381
+{\an1}và điện thoại của Chang là 
+Argus cấp,
+
+213
+00:03:47,383 --> 00:03:48,982
+{\an1}which means it will be
+untraceable.
+
+214
+00:03:47,383 --> 00:03:48,982
+{\an1}có nghĩa là nó sẽ là 
+untraceable.
+
+215
+00:03:48,984 --> 00:03:51,251
+{\an1}We could really use
+Felicity's help right now.
+
+216
+00:03:48,984 --> 00:03:51,251
+{\an1}Chúng tôi thực sự có thể sử dụng 
+Felicity của sự giúp đỡ ngay bây giờ.
+
+217
+00:03:51,253 --> 00:03:53,553
+{\an1}Yeah. She's not
+up for it yet.
+
+218
+00:03:51,253 --> 00:03:53,553
+{\an1}Yeah. Cô không phải là 
+lên cho nó chưa.
+
+219
+00:03:53,555 --> 00:03:55,956
+{\an1}I can have SCPD
+see if John's bullet
+
+220
+00:03:53,555 --> 00:03:55,956
+{\an1}Tôi có thể có SCPD 
+xem đạn của John
+
+221
+00:03:55,958 --> 00:03:57,591
+{\an1}is connected to any
+open cases.
+
+222
+00:03:55,958 --> 00:03:57,591
+{\an1}được kết nối với bất kỳ 
+trường mở.
+
+223
+00:03:57,593 --> 00:03:58,792
+{\an1}Yeah.
+
+224
+00:03:57,593 --> 00:03:58,792
+{\an1}Yeah.
+
+225
+00:03:58,794 --> 00:04:00,127
+{\an1}I can go check
+the crime scene
+
+226
+00:03:58,794 --> 00:04:00,127
+{\an1}Tôi có thể đi kiểm tra 
+hiện trường vụ án
+
+227
+00:04:00,129 --> 00:04:02,963
+{\an1}for any leftover
+evidence.
+
+228
+00:04:00,129 --> 00:04:02,963
+{\an1}cho bất kỳ 
+bằng chứng còn sót lại.
+
+229
+00:04:02,965 --> 00:04:04,398
+{\an1}You should go
+to Starling General
+
+230
+00:04:02,965 --> 00:04:04,398
+{\an1}Bạn nên đi 
+để Starling chung
+
+231
+00:04:04,400 --> 00:04:05,966
+{\an1}and have that
+looked at.
+
+232
+00:04:04,400 --> 00:04:05,966
+{\an1}và có mà 
+nhìn.
+
+233
+00:04:05,968 --> 00:04:07,234
+{\an1}I'll be fine.
+
+234
+00:04:05,968 --> 00:04:07,234
+{\an1}Tôi sẽ ổn thôi.
+
+235
+00:04:07,236 --> 00:04:08,802
+{\an1}Why? Because eating
+a cheeseburger
+
+236
+00:04:07,236 --> 00:04:08,802
+{\an1}Tại sao? Bởi vì ăn 
+một cheeseburger
+
+237
+00:04:08,804 --> 00:04:10,237
+{\an1}is a better option?
+
+238
+00:04:08,804 --> 00:04:10,237
+{\an1}là một lựa chọn tốt hơn?
+
+239
+00:04:10,239 --> 00:04:12,639
+{\an1}This isn't for me.
+It's for Andy.
+
+240
+00:04:10,239 --> 00:04:12,639
+{\an1}Đây không phải là dành cho tôi. [Escapcode_n] Nó cho Andy.
+
+241
+00:04:16,845 --> 00:04:20,447
+{\an1}Mmm. Mm-hmm.
+
+242
+00:04:16,845 --> 00:04:20,447
+{\an1}Mmm. Mm-hmm.
+
+243
+00:04:20,449 --> 00:04:23,850
+{\an1}Hey. What happened
+to your arm?
+
+244
+00:04:20,449 --> 00:04:23,850
+{\an1}Ê. Những gì xảy ra 
+để cánh tay của bạn?
+
+245
+00:04:23,852 --> 00:04:25,552
+{\an1}Nothing. It's
+an occupational hazard.
+
+246
+00:04:23,852 --> 00:04:25,552
+{\an1}K có gì. Đó là 
+một nguy cơ nghề nghiệp.
+
+247
+00:04:25,554 --> 00:04:28,121
+{\an1}I never pegged you
+for the masked vigilante type.
+
+248
+00:04:25,554 --> 00:04:28,121
+{\an1}Tôi không bao giờ cố định bạn 
+cho các loại vigilante đeo mặt nạ.
+
+249
+00:04:28,123 --> 00:04:31,558
+{\an1}Yeah? Well, I guess
+we're both full of surprises, Andy.
+
+250
+00:04:28,123 --> 00:04:31,558
+{\an1}Yeah? Vâng, tôi đoán 
+chúng tôi cả hai đầy bất ngờ, Andy.
+
+251
+00:04:31,560 --> 00:04:34,494
+{\an1}You know what?
+
+252
+00:04:31,560 --> 00:04:34,494
+{\an1}Bạn biết gì?
+
+253
+00:04:34,496 --> 00:04:35,696
+{\an1}You keep coming down here,
+
+254
+00:04:34,496 --> 00:04:35,696
+{\an1}Bạn tiếp tục đi xuống đây,
+
+255
+00:04:35,698 --> 00:04:37,798
+{\an1}asking me
+all these questions,
+
+256
+00:04:35,698 --> 00:04:37,798
+{\an1}hỏi tôi 
+tất cả những câu hỏi này,
+
+257
+00:04:37,800 --> 00:04:41,868
+{\an1}but I never get
+to ask them back.
+
+258
+00:04:37,800 --> 00:04:41,868
+{\an1}nhưng tôi không bao giờ có được 
+để yêu cầu họ trở lại.
+
+259
+00:04:41,870 --> 00:04:43,770
+{\an1}What do you want
+to know?
+
+260
+00:04:41,870 --> 00:04:43,770
+{\an1}Bạn muốn 
+để biết những gì?
+
+261
+00:04:43,772 --> 00:04:47,140
+{\an1}Uh, how do you end up
+working out of a basement
+
+262
+00:04:43,772 --> 00:04:47,140
+{\an1}Uh, làm thế nào để bạn kết thúc 
+làm việc ra một tầng hầm
+
+263
+00:04:47,142 --> 00:04:49,209
+{\an1}or wherever we are
+
+264
+00:04:47,142 --> 00:04:49,209
+{\an1}hoặc bất cứ nơi nào chúng tôi
+
+265
+00:04:49,211 --> 00:04:51,278
+{\an1}and fighting crime
+with a guy
+
+266
+00:04:49,211 --> 00:04:51,278
+{\an1}và tội phạm chiến đấu 
+với một anh chàng
+
+267
+00:04:51,280 --> 00:04:52,612
+{\an1}who wears
+a green hoodie?
+
+268
+00:04:51,280 --> 00:04:52,612
+{\an1}người mặc 
+một áo màu xanh lá cây?
+
+269
+00:04:52,614 --> 00:04:54,014
+{\an1}Well, he's
+a good man,
+
+270
+00:04:52,614 --> 00:04:54,014
+{\an1}Vâng, anh ấy 
+một người đàn ông tốt,
+
+271
+00:04:54,016 --> 00:04:56,917
+{\an1}and we're not
+fighting crime, Andy.
+
+272
+00:04:54,016 --> 00:04:56,917
+{\an1}và chúng tôi không 
+chống tội phạm, Andy.
+
+273
+00:04:56,919 --> 00:04:58,719
+{\an1}We're taking a city
+that's holding itself together,
+
+274
+00:04:56,919 --> 00:04:58,719
+{\an1}Chúng tôi đang tham gia một thành phố 
+đó là giữ thân với nhau,
+
+275
+00:04:58,721 --> 00:05:01,488
+{\an1}and we are helping.
+
+276
+00:04:58,721 --> 00:05:01,488
+{\an1}và chúng tôi đang giúp đỡ.
+
+277
+00:05:01,490 --> 00:05:03,390
+{\an1}Don't you remember
+when that was your mission?
+
+278
+00:05:01,490 --> 00:05:03,390
+{\an1}Cậu không nhớ 
+khi đó là nhiệm vụ của bạn?
+
+279
+00:05:09,865 --> 00:05:12,299
+{\an1}Appreciate you two
+volunteering for this mission.
+
+280
+00:05:09,865 --> 00:05:12,299
+{\an1}Đánh giá cao bạn hai 
+tình nguyện cho sứ mệnh này.
+
+281
+00:05:12,301 --> 00:05:14,067
+{\an1}Chance to ride
+with my little brother?
+
+282
+00:05:12,301 --> 00:05:14,067
+{\an1}Cơ hội để đi xe 
+với em trai của tôi?
+
+283
+00:05:14,069 --> 00:05:15,168
+{\an1}Wouldn't miss it.
+
+284
+00:05:14,069 --> 00:05:15,168
+{\an1}Sẽ không bỏ lỡ nó.
+
+285
+00:05:15,170 --> 00:05:16,503
+{\an1}Yeah. The Taliban's
+not ready
+
+286
+00:05:15,170 --> 00:05:16,503
+{\an1}Yeah. Của Taliban 
+chưa sẵn sàng
+
+287
+00:05:16,505 --> 00:05:17,838
+{\an1}for the Diggle brothers.
+
+288
+00:05:16,505 --> 00:05:17,838
+{\an1}cho anh em Diggle.
+
+289
+00:05:17,840 --> 00:05:19,639
+{\an1}HQ's got eyes on
+a primo opium shipment
+
+290
+00:05:17,840 --> 00:05:19,639
+{\an1}HQ đã mắt trên 
+một lô hàng primo thuốc phiện
+
+291
+00:05:19,641 --> 00:05:21,375
+{\an1}that's been funding the local
+arms trade.
+
+292
+00:05:19,641 --> 00:05:21,375
+{\an1}đó là được tài trợ các địa phương buôn bán vũ khí 
+.
+
+293
+00:05:21,377 --> 00:05:23,176
+{\an1}We cut them off,
+the terrorists
+
+294
+00:05:21,377 --> 00:05:23,176
+{\an1}Chúng tôi cắt chúng ra, 
+những kẻ khủng bố
+
+295
+00:05:23,178 --> 00:05:24,311
+{\an1}will be left
+with nothing but
+
+296
+00:05:23,178 --> 00:05:24,311
+{\an1}sẽ bị bỏ lại 
+có gì, nhưng
+
+297
+00:05:24,313 --> 00:05:25,512
+{\an1}rocks and sticks
+to fight us.
+
+298
+00:05:24,313 --> 00:05:25,512
+{\an1}đá và gậy 
+để chống lại chúng ta.
+
+299
+00:05:25,514 --> 00:05:27,247
+{\an1}Copy that, sir.
+You ready for this?
+
+300
+00:05:25,514 --> 00:05:27,247
+{\an1}Sao chép, thưa ngài. [Escapcode_n] Bạn đã sẵn sàng cho điều này?
+
+301
+00:05:27,249 --> 00:05:28,682
+{\an1}Yeah.
+
+302
+00:05:27,249 --> 00:05:28,682
+{\an1}Yeah.
+
+303
+00:05:48,904 --> 00:05:50,937
+{\an1}Incoming.
+Stay frosty, boys.
+
+304
+00:05:48,904 --> 00:05:50,937
+{\an1}Đến. [Escapcode_n] Giữ giá lạnh, bé trai.
+
+305
+00:05:50,939 --> 00:05:52,105
+{\an1}Copy that.
+
+306
+00:05:50,939 --> 00:05:52,105
+{\an1}Sao chép cái đó.
+
+307
+00:05:57,212 --> 00:05:58,445
+{\an1}RPG!
+
+308
+00:05:57,212 --> 00:05:58,445
+{\an1}RPG!
+
+309
+00:06:07,656 --> 00:06:08,722
+{\an1}Perimeter!
+
+310
+00:06:07,656 --> 00:06:08,722
+{\an1}Chu vi!
+
+311
+00:06:08,724 --> 00:06:10,757
+{\an1}Go! Go, go, go!
+
+312
+00:06:08,724 --> 00:06:10,757
+{\an1}Đi! Đi đi đi!
+
+313
+00:06:10,759 --> 00:06:12,426
+{\an1}Move, move,
+move, move, move!
+
+314
+00:06:10,759 --> 00:06:12,426
+{\an1}Di chuyển, di chuyển, 
+di chuyển, di chuyển, di chuyển!
+
+315
+00:06:14,663 --> 00:06:17,597
+{\an1}We're screwed if
+they come around the other side.
+
+316
+00:06:14,663 --> 00:06:17,597
+{\an1}Chúng tôi đang hơi say nếu 
+họ đến xung quanh phía bên kia.
+
+317
+00:06:17,599 --> 00:06:19,099
+{\an1}I'll see if I can
+buy us some time.
+
+318
+00:06:17,599 --> 00:06:19,099
+{\an1}Tôi sẽ xem liệu tôi có thể 
+mua chúng tôi một thời gian.
+
+319
+00:06:19,101 --> 00:06:20,467
+{\an1}Move, move.
+
+320
+00:06:19,101 --> 00:06:20,467
+{\an1}Di chuyển, di chuyển.
+
+321
+00:06:23,205 --> 00:06:24,538
+{\an1}I have to draw
+them to it.
+
+322
+00:06:23,205 --> 00:06:24,538
+{\an1}Tôi có để vẽ 
+họ với nó.
+
+323
+00:06:24,540 --> 00:06:25,939
+{\an1}I got you.
+I'll cover.
+
+324
+00:06:24,540 --> 00:06:25,939
+{\an1}Tôi đã có em. [Escapcode_n] tôi sẽ giới thiệu.
+
+325
+00:06:40,722 --> 00:06:42,155
+{\an1}Come on,
+come on, come on!
+
+326
+00:06:40,722 --> 00:06:42,155
+{\an1}Nào, 
+đi về, đi về!
+
+327
+00:06:42,157 --> 00:06:43,490
+{\an1}It's in!
+
+328
+00:06:42,157 --> 00:06:43,490
+{\an1}Nó vào trong rồi!
+
+329
+00:06:45,994 --> 00:06:47,094
+{\an1}Andy!
+
+330
+00:06:45,994 --> 00:06:47,094
+{\an1}Andy!
+
+331
+00:06:47,096 --> 00:06:48,395
+{\an1}Hey!
+
+332
+00:06:47,096 --> 00:06:48,395
+{\an1}Ê!
+
+333
+00:06:56,038 --> 00:06:58,371
+{\an1}Andy!
+
+334
+00:06:56,038 --> 00:06:58,371
+{\an1}Andy!
+
+335
+00:06:58,373 --> 00:06:59,406
+{\an1}Talk to me, man.
+
+336
+00:06:58,373 --> 00:06:59,406
+{\an1}Nói chuyện với tôi, người đàn ông.
+
+337
+00:06:59,408 --> 00:07:01,007
+{\an1}You ok?
+
+338
+00:06:59,408 --> 00:07:01,007
+{\an1}Bạn ổn không?
+
+339
+00:07:01,009 --> 00:07:02,242
+{\an1}Did we get them?
+
+340
+00:07:01,009 --> 00:07:02,242
+{\an1}chúng tôi đã nhận được chúng?
+
+341
+00:07:02,244 --> 00:07:03,877
+{\an1}You got them, brother.
+Let's go.
+
+342
+00:07:02,244 --> 00:07:03,877
+{\an1}Bạn nhận được chúng, người anh em. [Escapcode_n] Chúng ta hãy đi.
+
+343
+00:07:28,237 --> 00:07:31,805
+{\an1}Aw. Why didn't I
+get invited to this pity party?
+
+344
+00:07:28,237 --> 00:07:31,805
+{\an1}Aw. Tại sao tôi không 
+được mời đến bữa tiệc đáng tiếc này?
+
+345
+00:07:31,807 --> 00:07:34,040
+{\an1}Hello?
+
+346
+00:07:31,807 --> 00:07:34,040
+{\an1}Chào bạn?
+
+347
+00:07:34,042 --> 00:07:36,042
+{\an1}At least you found
+the right party favors.
+
+348
+00:07:34,042 --> 00:07:36,042
+{\an1}Ít nhất bạn tìm thấy 
+sự ủng hộ đảng phải.
+
+349
+00:07:36,044 --> 00:07:38,378
+{\an1}3 pills is a bit much,
+
+350
+00:07:36,044 --> 00:07:38,378
+{\an1}3 viên thuốc là một chút nhiều,
+
+351
+00:07:38,380 --> 00:07:40,547
+{\an1}but who am I to judge?
+
+352
+00:07:38,380 --> 00:07:40,547
+{\an1}nhưng tôi là ai để phán xét?
+
+353
+00:07:40,549 --> 00:07:42,082
+{\an1}Ok. Whoever you are,
+you picked
+
+354
+00:07:40,549 --> 00:07:42,082
+{\an1}Được. Dù bạn là ai 
+bạn chọn
+
+355
+00:07:42,084 --> 00:07:43,683
+{\an1}the wrong woman
+on the wrong night to mess with.
+
+356
+00:07:42,084 --> 00:07:43,683
+{\an1}người phụ nữ sai 
+vào đêm sai để gây rối với.
+
+357
+00:07:43,685 --> 00:07:45,685
+{\an1}Please.
+We both know
+
+358
+00:07:43,685 --> 00:07:45,685
+{\an1}Xin vui lòng. [Escapcode_n] Chúng ta đều biết
+
+359
+00:07:45,687 --> 00:07:47,120
+{\an1}you're in no position
+to do anything.
+
+360
+00:07:45,687 --> 00:07:47,120
+{\an1}bạn đang ở vị trí không có 
+để làm bất cứ điều gì.
+
+361
+00:07:47,122 --> 00:07:49,222
+{\an1}If you did, you'd be
+back out in the world
+
+362
+00:07:47,122 --> 00:07:49,222
+{\an1}Nếu bạn đã làm, bạn muốn được 
+trở ra trên thế giới
+
+363
+00:07:49,224 --> 00:07:50,524
+{\an1}instead of holed up here.
+
+364
+00:07:49,224 --> 00:07:50,524
+{\an1}thay vì ẩn náu ở đây.
+
+365
+00:07:50,526 --> 00:07:53,560
+{\an1}Oh, my God.
+What is going on?
+
+366
+00:07:50,526 --> 00:07:53,560
+{\an1}Ôi, Chúa ơi. [Escapcode_n] Những gì đang xảy ra?
+
+367
+00:07:53,562 --> 00:07:55,162
+{\an1}What is going on?
+
+368
+00:07:53,562 --> 00:07:55,162
+{\an1}Chuyện gì đang diễn ra?
+
+369
+00:07:55,164 --> 00:07:58,965
+{\an1}Oh, my God. Ha ha!
+
+370
+00:07:55,164 --> 00:07:58,965
+{\an1}Ôi trời ơi. Ha ha!
+
+371
+00:07:58,967 --> 00:08:00,600
+{\an1}Oh, my God.
+I am losing it.
+
+372
+00:07:58,967 --> 00:08:00,600
+{\an1}Ôi, Chúa ơi. [Escapcode_n] Tôi mất nó.
+
+373
+00:08:00,602 --> 00:08:01,801
+{\an1}I am completely
+and utterly losing it.
+
+374
+00:08:00,602 --> 00:08:01,801
+{\an1}Tôi hoàn toàn 
+và hoàn toàn mất nó.
+
+375
+00:08:01,803 --> 00:08:05,172
+{\an1}Agh! Now I'm talking
+to myself.
+
+376
+00:08:01,803 --> 00:08:05,172
+{\an1}Agh! Bây giờ tôi đang nói 
+để bản thân mình.
+
+377
+00:08:05,174 --> 00:08:06,640
+{\an1}Not exactly.
+
+378
+00:08:05,174 --> 00:08:06,640
+{\an1}Không chính xác.
+
+379
+00:08:12,581 --> 00:08:16,383
+{\an1}Laurel Lance,
+district attorney's office.
+
+380
+00:08:12,581 --> 00:08:16,383
+{\an1}Laurel Lance, 
+văn phòng chưởng lý hạt.
+
+381
+00:08:16,385 --> 00:08:17,751
+{\an1}What do we
+have here?
+
+382
+00:08:16,385 --> 00:08:17,751
+{\an1}chúng ta 
+có gì ở đây?
+
+383
+00:08:17,753 --> 00:08:20,253
+{\an1}Deceased male,
+around 35, Asian,
+
+384
+00:08:17,753 --> 00:08:20,253
+{\an1}Đã chết nam giới, 
+khoảng 35, Châu Á,
+
+385
+00:08:20,255 --> 00:08:22,522
+{\an1}multiple lacerations,
+contusions,
+
+386
+00:08:20,255 --> 00:08:22,522
+{\an1}nhiều vết rách, 
+contusions,
+
+387
+00:08:22,524 --> 00:08:23,590
+{\an1}and blunt force trauma.
+
+388
+00:08:22,524 --> 00:08:23,590
+{\an1}và cùn lực chấn thương.
+
+389
+00:08:23,592 --> 00:08:24,925
+{\an1}You canvass
+the area yet?
+
+390
+00:08:23,592 --> 00:08:24,925
+{\an1}Bạn vận 
+khu vực này chưa?
+
+391
+00:08:24,927 --> 00:08:26,593
+{\an1}There could be
+a witness who saw something.
+
+392
+00:08:24,927 --> 00:08:26,593
+{\an1}Có thể có 
+một nhân chứng đã nhìn thấy một cái gì đó.
+
+393
+00:08:26,595 --> 00:08:29,829
+{\an1}I don't need an ADA to
+tell me how to do my job.
+
+394
+00:08:26,595 --> 00:08:29,829
+{\an1}Tôi không cần một ADA 
+cho tôi biết làm thế nào để làm công việc của tôi.
+
+395
+00:08:29,831 --> 00:08:31,364
+{\an1}Well, I'm sure
+there's a murderer
+
+396
+00:08:29,831 --> 00:08:31,364
+{\an1}Vâng, tôi chắc chắn 
+có một kẻ giết người
+
+397
+00:08:31,366 --> 00:08:34,167
+{\an1}out there who appreciates your
+lack of initiative.
+
+398
+00:08:31,366 --> 00:08:34,167
+{\an1}ra có những người đánh giá cao của bạn 
+thiếu sáng kiến.
+
+399
+00:08:37,973 --> 00:08:39,306
+{\an1}Ahem.
+
+400
+00:08:37,973 --> 00:08:39,306
+{\an1}E hèm.
+
+401
+00:08:42,311 --> 00:08:43,777
+{\an1}Go ahead.
+
+402
+00:08:42,311 --> 00:08:43,777
+{\an1}Đi trước.
+
+403
+00:08:45,948 --> 00:08:47,247
+{\an1}Private security
+found him
+
+404
+00:08:45,948 --> 00:08:47,247
+{\an1}an ninh tư nhân 
+tìm thấy anh
+
+405
+00:08:47,249 --> 00:08:48,615
+{\an1}at the start of
+a graveyard shift.
+
+406
+00:08:47,249 --> 00:08:48,615
+{\an1}lúc bắt đầu 
+một ca đêm.
+
+407
+00:08:48,617 --> 00:08:50,083
+{\an1}That's Chang.
+
+408
+00:08:48,617 --> 00:08:50,083
+{\an1}Đó là Chang.
+
+409
+00:08:50,085 --> 00:08:51,585
+{\an1}Whoever did this
+took their time.
+
+410
+00:08:50,085 --> 00:08:51,585
+{\an1}Bất cứ ai đã làm điều này 
+mất thời gian của họ.
+
+411
+00:08:51,587 --> 00:08:53,320
+{\an1}Multiple lacerations
+to the knees,
+
+412
+00:08:51,587 --> 00:08:53,320
+{\an1}Nhiều vết rách 
+đến đầu gối,
+
+413
+00:08:53,322 --> 00:08:56,990
+{\an1}a broken arm,
+at least 3 pulled fingernails.
+
+414
+00:08:53,322 --> 00:08:56,990
+{\an1}một cánh tay bị gãy, 
+ít nhất 3 kéo móng tay.
+
+415
+00:08:56,992 --> 00:08:59,292
+{\an1}They were torturing
+him for something.
+
+416
+00:08:56,992 --> 00:08:59,292
+{\an1}Họ bị tra tấn 
+anh cho một cái gì đó.
+
+417
+00:08:59,294 --> 00:09:01,795
+{\an1}Information wasn't
+the only thing they wanted.
+
+418
+00:08:59,294 --> 00:09:01,795
+{\an1}Thông tin không được 
+điều duy nhất họ muốn.
+
+419
+00:09:09,120 --> 00:09:11,204
+{\an1}I told you. What Agent Chang
+was working on
+
+420
+00:09:09,120 --> 00:09:11,204
+{\an1}Tôi đa bảo bạn. Những chất độc Chang 
+đã làm việc trên
+
+421
+00:09:11,205 --> 00:09:13,481
+{\an1}is none of your concern,
+and it's even less of yours.
+
+422
+00:09:11,205 --> 00:09:13,481
+{\an1}không ai quan tâm của bạn, 
+và nó thậm chí còn ít hơn của bạn.
+
+423
+00:09:13,581 --> 00:09:15,181
+{\an1}Thought would change once you
+found out Chang was mutilated,
+
+424
+00:09:13,581 --> 00:09:15,181
+{\an1}Tư tưởng sẽ thay đổi một khi bạn 
+phát hiện ra Chang đã bị cắt xén,
+
+425
+00:09:15,183 --> 00:09:17,083
+{\an1}tortured, and killed.
+
+426
+00:09:15,183 --> 00:09:17,083
+{\an1}tra tấn, và giết chết.
+
+427
+00:09:17,085 --> 00:09:19,452
+{\an1}I'm afraid you've overextended
+your welcome, Mr. Diggle.
+
+428
+00:09:17,085 --> 00:09:19,452
+{\an1}Tôi sợ rằng bạn đã mở rộng quá mức 
+chào mừng, ông Diggle.
+
+429
+00:09:19,454 --> 00:09:21,153
+{\an1}Which is Argus-speak for
+get the hell out of here.
+
+430
+00:09:19,454 --> 00:09:21,153
+{\an1}Đó là Argus-nói cho 
+cút ra khỏi đây.
+
+431
+00:09:21,155 --> 00:09:23,889
+{\an1}You always were
+a quick study.
+
+432
+00:09:21,155 --> 00:09:23,889
+{\an1}Bạn luôn được 
+một nghiên cứu nhanh chóng.
+
+433
+00:09:23,891 --> 00:09:25,391
+{\an1}I mean this
+with all sincerity.
+
+434
+00:09:23,891 --> 00:09:25,391
+{\an1}Tôi có nghĩa là đây 
+với tất cả sự chân thành.
+
+435
+00:09:25,393 --> 00:09:28,294
+{\an1}Your presence has
+truly been missed.
+
+436
+00:09:25,393 --> 00:09:28,294
+{\an1}sự hiện diện của bạn đã 
+thực sự bị bỏ qua.
+
+437
+00:09:28,296 --> 00:09:31,564
+{\an1}Even if I don't show it,
+I am deeply regretful
+
+438
+00:09:28,296 --> 00:09:31,564
+{\an1}Ngay cả nếu tôi không thấy nó, 
+Tôi vô cùng hối hận
+
+439
+00:09:31,566 --> 00:09:33,165
+{\an1}for Mr. Chang's death.
+
+440
+00:09:31,566 --> 00:09:33,165
+{\an1}cho cái chết của ông Chang.
+
+441
+00:09:33,167 --> 00:09:34,400
+{\an1}Hopefully we'll
+meet again
+
+442
+00:09:33,167 --> 00:09:34,400
+{\an1}Hy vọng rằng chúng tôi sẽ 
+gặp lại
+
+443
+00:09:34,402 --> 00:09:36,569
+{\an1}under happier
+circumstances.
+
+444
+00:09:34,402 --> 00:09:36,569
+{\an1}trong hoàn cảnh hạnh phúc hơn 
+.
+
+445
+00:09:36,571 --> 00:09:37,903
+{\an1}Of course.
+
+446
+00:09:36,571 --> 00:09:37,903
+{\an1}Chắc chắn là như vậy rồi.
+
+447
+00:09:48,483 --> 00:09:50,349
+{\an1}Hey. What was that
+look all about?
+
+448
+00:09:48,483 --> 00:09:50,349
+{\an1}Ê. Gì là 
+tìm tất cả về?
+
+449
+00:09:53,988 --> 00:09:55,763
+{\an1}"Ketorolac. Possible
+side effects include
+
+450
+00:09:53,988 --> 00:09:55,763
+{\an1}\
+
+451
+00:09:55,764 --> 00:09:57,096
+{\an1}"swelling of the hands
+and feet,
+
+452
+00:09:55,764 --> 00:09:57,096
+{\an1}\
+
+453
+00:09:57,098 --> 00:09:58,297
+{\an1}increased appetite,
+risk of infection."
+
+454
+00:09:57,098 --> 00:09:58,297
+{\an1}tăng sự thèm ăn, 
+nguy cơ lây nhiễm. \
+
+455
+00:09:58,299 --> 00:09:59,899
+{\an1}Oh, good, good, good.
+Hallucinations.
+
+456
+00:09:58,299 --> 00:09:59,899
+{\an1}Oh, tốt, tốt, tốt. [Escapcode_n] Ảo giác.
+
+457
+00:09:59,901 --> 00:10:02,835
+{\an1}I really thought
+I was smarter than this.
+
+458
+00:09:59,901 --> 00:10:02,835
+{\an1}Tôi thực sự nghĩ rằng 
+Tôi đã thông minh hơn này.
+
+459
+00:10:02,837 --> 00:10:06,172
+{\an1}You are not me,
+and you're definitely not real.
+
+460
+00:10:02,837 --> 00:10:06,172
+{\an1}Bạn không phải là tôi, 
+và bạn chắc chắn không có thật.
+
+461
+00:10:06,174 --> 00:10:07,640
+{\an1}I used to be you,
+
+462
+00:10:06,174 --> 00:10:07,640
+{\an1}Tôi đã từng là bạn,
+
+463
+00:10:07,642 --> 00:10:08,975
+{\an1}or you used to be me--
+
+464
+00:10:07,642 --> 00:10:08,975
+{\an1}hoặc bạn sử dụng để được tôi--
+
+465
+00:10:08,977 --> 00:10:14,347
+{\an1}strong, confident,
+brunette--
+
+466
+00:10:08,977 --> 00:10:14,347
+{\an1}mạnh mẽ, tự tin, 
+brunette--
+
+467
+00:10:14,349 --> 00:10:19,318
+{\an1}but you wasted
+all that away to go play superhero,
+
+468
+00:10:14,349 --> 00:10:19,318
+{\an1}nhưng bạn lãng phí 
+tất cả mà đi để đi chơi siêu anh hùng,
+
+469
+00:10:19,320 --> 00:10:21,621
+{\an1}and look where
+that got you.
+
+470
+00:10:19,320 --> 00:10:21,621
+{\an1}và tìm nơi 
+đó có bạn.
+
+471
+00:10:23,892 --> 00:10:26,759
+{\an1}Ok. So wait.
+This Waller person said
+
+472
+00:10:23,892 --> 00:10:26,759
+{\an1}Được. Vì vậy, chờ đợi. [Escapcode_n] người Waller này nói
+
+473
+00:10:26,761 --> 00:10:28,394
+{\an1}that she couldn't
+tell you anything
+
+474
+00:10:26,761 --> 00:10:28,394
+{\an1}rằng cô có thể không 
+nói với bạn bất cứ điều gì
+
+475
+00:10:28,396 --> 00:10:29,962
+{\an1}and then gave you
+that flash drive?
+
+476
+00:10:28,396 --> 00:10:29,962
+{\an1}và sau đó đã cho bạn 
+flash lái xe?
+
+477
+00:10:29,964 --> 00:10:32,498
+{\an1}Argus has 24/7
+internal surveillance.
+
+478
+00:10:29,964 --> 00:10:32,498
+{\an1}Argus có 24/7 
+giám sát nội bộ.
+
+479
+00:10:32,500 --> 00:10:33,833
+{\an1}She didn't want anyone
+to know she was giving me
+
+480
+00:10:32,500 --> 00:10:33,833
+{\an1}Cô ấy không muốn bất cứ ai 
+để biết cô ấy đã đem lại cho tôi
+
+481
+00:10:33,835 --> 00:10:35,101
+{\an1}what she was giving me.
+
+482
+00:10:33,835 --> 00:10:35,101
+{\an1}những gì cô ấy đã đem lại cho tôi.
+
+483
+00:10:35,103 --> 00:10:38,571
+{\an1}The question is
+what did she give you?
+
+484
+00:10:35,103 --> 00:10:38,571
+{\an1}Câu hỏi đặt ra là 
+những gì cô ấy cho bạn?
+
+485
+00:10:38,573 --> 00:10:40,106
+{\an1}I've seen
+that symbol before.
+
+486
+00:10:38,573 --> 00:10:40,106
+{\an1}Tôi đã nhìn thấy 
+biểu tượng đó trước.
+
+487
+00:10:40,108 --> 00:10:41,574
+{\an1}It's a logo actually.
+
+488
+00:10:40,108 --> 00:10:41,574
+{\an1}Đó là một biểu tượng thực sự.
+
+489
+00:10:41,576 --> 00:10:43,776
+{\an1}Shadowspire is a U.S. army
+special forces unit.
+
+490
+00:10:41,576 --> 00:10:43,776
+{\an1}Shadowspire là một Hoa Kỳ quân đội 
+lực lượng đặc biệt đơn vị.
+
+491
+00:10:43,778 --> 00:10:45,478
+{\an1}Argus took them down
+3 years ago
+
+492
+00:10:43,778 --> 00:10:45,478
+{\an1}Argus đã đưa họ xuống 
+3 năm trước
+
+493
+00:10:45,480 --> 00:10:46,946
+{\an1}when they were exposed
+as war profiteers
+
+494
+00:10:45,480 --> 00:10:46,946
+{\an1}khi họ được tiếp xúc với 
+như trục lợi chiến tranh
+
+495
+00:10:46,948 --> 00:10:48,681
+{\an1}in an Op run
+by Alan Chang.
+
+496
+00:10:46,948 --> 00:10:48,681
+{\an1}trong một cuộc chạy Op 
+Alan Chang.
+
+497
+00:10:48,683 --> 00:10:50,650
+{\an1}What about those
+other two guys?
+
+498
+00:10:48,683 --> 00:10:50,650
+{\an1}Điều gì về những 
+Hai kẻ khác?
+
+499
+00:10:50,652 --> 00:10:52,518
+{\an1}They've been reported
+missing for two days.
+
+500
+00:10:50,652 --> 00:10:52,518
+{\an1}Họ đã được báo cáo 
+mất tích trong hai ngày.
+
+501
+00:10:52,520 --> 00:10:53,786
+{\an1}If those were
+the missing agents
+
+502
+00:10:52,520 --> 00:10:53,786
+{\an1}Nếu đó là những 
+các đại lý mất tích
+
+503
+00:10:53,788 --> 00:10:55,288
+{\an1}that were a part
+of Shadowspire, then--
+
+504
+00:10:53,788 --> 00:10:55,288
+{\an1}đó là một phần 
+của Shadowspire, then--
+
+505
+00:10:55,290 --> 00:10:56,722
+{\an1}then the rest of Shadowspire
+is gonna be
+
+506
+00:10:55,290 --> 00:10:56,722
+{\an1}sau đó phần còn lại của Shadowspire 
+là gonna được
+
+507
+00:10:56,724 --> 00:10:58,357
+{\an1}on a payback mission.
+
+508
+00:10:56,724 --> 00:10:58,357
+{\an1}một nhiệm vụ hoàn vốn.
+
+509
+00:10:58,359 --> 00:10:59,592
+{\an1}We need to find
+the other two agents
+
+510
+00:10:58,359 --> 00:10:59,592
+{\an1}Chúng ta cần tìm 
+hai đại lý khác
+
+511
+00:10:59,594 --> 00:11:01,594
+{\an1}before they end up
+like Alan.
+
+512
+00:10:59,594 --> 00:11:01,594
+{\an1}trước khi họ kết thúc 
+như Alan.
+
+513
+00:11:01,596 --> 00:11:03,329
+{\an1}Hey. I think
+I found something.
+
+514
+00:11:01,596 --> 00:11:03,329
+{\an1}Ê. Tôi nghĩ rằng 
+Tôi tìm thấy một cái gì đó.
+
+515
+00:11:03,331 --> 00:11:05,164
+{\an1}That logo that was on the flash drive
+that Waller gave you.
+
+516
+00:11:03,331 --> 00:11:05,164
+{\an1}logo đó là trên ổ đĩa flash 
+mà Waller đã cho bạn.
+
+517
+00:11:05,166 --> 00:11:06,599
+{\an1}Shadowspire.
+
+518
+00:11:05,166 --> 00:11:06,599
+{\an1}Shadowspire.
+
+519
+00:11:06,601 --> 00:11:08,334
+{\an1}I thought I recognized
+that from someplace.
+
+520
+00:11:06,601 --> 00:11:08,334
+{\an1}Tôi nghĩ tôi nhận ra 
+mà từ một nơi nào đó.
+
+521
+00:11:08,336 --> 00:11:09,635
+{\an1}I ran into alot of those guys back
+in the 'Stan.
+
+522
+00:11:08,336 --> 00:11:09,635
+{\an1}Tôi chạy vào rất nhiều những chàng trai trở lại 
+trong 'Stan.
+
+523
+00:11:09,637 --> 00:11:11,471
+{\an1}I need to talk
+to my brother again.
+
+524
+00:11:09,637 --> 00:11:11,471
+{\an1}Tôi cần nói chuyện 
+để anh trai của tôi một lần nữa.
+
+525
+00:11:13,274 --> 00:11:15,775
+{\an1}Who would think
+the reward for confiscating
+
+526
+00:11:13,274 --> 00:11:15,775
+{\an1}Ai sẽ nghĩ 
+phần thưởng cho tịch thu
+
+527
+00:11:15,777 --> 00:11:18,444
+{\an1}an opium shipment would be
+additional duty guarding it?
+
+528
+00:11:15,777 --> 00:11:18,444
+{\an1}một lô hàng thuốc phiện sẽ là 
+thuế bổ sung bảo vệ nó?
+
+529
+00:11:18,446 --> 00:11:21,614
+{\an1}What you expect,
+a kiss from the president?
+
+530
+00:11:18,446 --> 00:11:21,614
+{\an1}Những gì bạn mong đợi, 
+một nụ hôn từ tổng thống?
+
+531
+00:11:21,616 --> 00:11:23,749
+{\an1}How are my two
+conquering heroes?
+
+532
+00:11:21,616 --> 00:11:23,749
+{\an1}Làm thế nào là hai anh hùng 
+chinh phục của tôi không?
+
+533
+00:11:23,751 --> 00:11:25,017
+{\an1}Wet and tired.
+
+534
+00:11:23,751 --> 00:11:25,017
+{\an1}Ẩm ướt và mệt mỏi.
+
+535
+00:11:25,019 --> 00:11:26,519
+{\an1}We are good, sir.
+
+536
+00:11:25,019 --> 00:11:26,519
+{\an1}Chúng tôi là tốt, thưa ông.
+
+537
+00:11:26,521 --> 00:11:27,753
+{\an1}You gentlemen
+did good today.
+
+538
+00:11:26,521 --> 00:11:27,753
+{\an1}Quý ông 
+đã làm tốt ngày hôm nay.
+
+539
+00:11:27,755 --> 00:11:28,955
+{\an1}Thank you, sir.
+
+540
+00:11:27,755 --> 00:11:28,955
+{\an1}Cảm ơn ngài.
+
+541
+00:11:28,957 --> 00:11:30,056
+{\an1}Ever think
+about your future
+
+542
+00:11:28,957 --> 00:11:30,056
+{\an1}Bao giờ nghĩ 
+về tương lai của bạn
+
+543
+00:11:30,058 --> 00:11:31,224
+{\an1}beyond working
+in this hell hole?
+
+544
+00:11:30,058 --> 00:11:31,224
+{\an1}ngoài làm việc 
+trong hố địa ngục này?
+
+545
+00:11:31,226 --> 00:11:32,391
+{\an1}I don't know.
+
+546
+00:11:31,226 --> 00:11:32,391
+{\an1}Tôi không biết.
+
+547
+00:11:32,393 --> 00:11:34,994
+{\an1}Personal security,
+bodyguarding maybe.
+
+548
+00:11:32,393 --> 00:11:34,994
+{\an1}an ninh cá nhân, 
+bodyguarding lẽ.
+
+549
+00:11:34,996 --> 00:11:37,196
+{\an1}You boys are meant
+for better things.
+
+550
+00:11:34,996 --> 00:11:37,196
+{\an1}Bạn trai có nghĩa là 
+cho mọi việc tốt hơn.
+
+551
+00:11:39,134 --> 00:11:41,334
+{\an1}The 3 of us could
+make bank
+
+552
+00:11:39,134 --> 00:11:41,334
+{\an1}Cả 3 chúng tôi có thể 
+làm cho ngân hàng
+
+553
+00:11:41,336 --> 00:11:43,202
+{\an1}if a few bricks of that sweet
+Afghani powder
+
+554
+00:11:41,336 --> 00:11:43,202
+{\an1}nếu một vài viên gạch đó ngọt ngào 
+bột Afghanistan
+
+555
+00:11:43,204 --> 00:11:46,973
+{\an1}happened to go AWOL
+before the morning.
+
+556
+00:11:43,204 --> 00:11:46,973
+{\an1}tình cờ đi AWOL 
+trước khi buổi sáng.
+
+557
+00:11:46,975 --> 00:11:49,308
+{\an1}You know, I'm gonna
+have to decline, sir.
+
+558
+00:11:46,975 --> 00:11:49,308
+{\an1}Bạn biết đấy, tôi sẽ 
+có giảm, thưa ông.
+
+559
+00:11:49,310 --> 00:11:52,745
+{\an1}My mama taught me
+never to trust dirty war profiteers.
+
+560
+00:11:49,310 --> 00:11:52,745
+{\an1}Má tôi dạy tôi 
+không bao giờ tin tưởng trục lợi chiến tranh bẩn.
+
+561
+00:11:58,720 --> 00:12:01,521
+{\an1}You should probably
+watch your tone.
+
+562
+00:11:58,720 --> 00:12:01,521
+{\an1}Bạn nên có lẽ 
+giọng của bạn.
+
+563
+00:12:01,523 --> 00:12:02,855
+{\an1}You might end up
+in worse shape than
+
+564
+00:12:01,523 --> 00:12:02,855
+{\an1}Bạn có thể kết thúc 
+trong tình trạng tồi tệ hơn
+
+565
+00:12:02,857 --> 00:12:04,757
+{\an1}those Talis
+yesterday.
+
+566
+00:12:02,857 --> 00:12:04,757
+{\an1}những Talis 
+ngày hôm qua.
+
+567
+00:12:08,196 --> 00:12:09,729
+{\an1}As you were.
+
+568
+00:12:08,196 --> 00:12:09,729
+{\an1}Như bạn đã.
+
+569
+00:12:15,036 --> 00:12:17,570
+{\an1}- Well, look at you.
+- What you talking about?
+
+570
+00:12:15,036 --> 00:12:17,570
+{\an1}- Vâng, nhìn vào bạn 
+-. Những gì bạn nói về?
+
+571
+00:12:17,572 --> 00:12:19,572
+{\an1}Back in Starling, you would have jumped
+at any opportunity
+
+572
+00:12:17,572 --> 00:12:19,572
+{\an1}Trở lại trong Starling, bạn sẽ nhảy 
+tại bất kỳ cơ hội
+
+573
+00:12:19,574 --> 00:12:22,375
+{\an1}to earn a little
+extra scratch.
+
+574
+00:12:19,574 --> 00:12:22,375
+{\an1}để kiếm được một chút 
+thêm đầu.
+
+575
+00:12:22,377 --> 00:12:24,477
+{\an1}This place has been
+good for you.
+
+576
+00:12:22,377 --> 00:12:24,477
+{\an1}Nơi đây đã được 
+tốt cho bạn.
+
+577
+00:12:24,479 --> 00:12:26,078
+{\an1}I'm proud of you, Andy.
+
+578
+00:12:24,479 --> 00:12:26,078
+{\an1}Tôi tự hào về bạn, Andy.
+
+579
+00:12:27,782 --> 00:12:30,049
+{\an1}So exactly how many
+evil organizations
+
+580
+00:12:27,782 --> 00:12:30,049
+{\an1}Vì vậy, chính xác bao nhiêu 
+tổ chức xấu xa
+
+581
+00:12:30,051 --> 00:12:31,250
+{\an1}are you associated
+with?
+
+582
+00:12:30,051 --> 00:12:31,250
+{\an1}bạn được liên kết 
+với?
+
+583
+00:12:31,252 --> 00:12:32,451
+{\an1}I'm beginning
+to lose count.
+
+584
+00:12:31,252 --> 00:12:32,451
+{\an1}Tôi bắt đầu 
+để mất đếm.
+
+585
+00:12:32,453 --> 00:12:35,087
+{\an1}What are you
+talking about?
+
+586
+00:12:32,453 --> 00:12:35,087
+{\an1}Thế nào là bạn 
+nói về?
+
+587
+00:12:35,089 --> 00:12:36,522
+{\an1}Shadowspire!
+
+588
+00:12:35,089 --> 00:12:36,522
+{\an1}Shadowspire!
+
+589
+00:12:36,524 --> 00:12:38,524
+{\an1}Your old army
+buddies are in Starling City.
+
+590
+00:12:36,524 --> 00:12:38,524
+{\an1}quân đội 
+bạn bè cũ của bạn là trong Starling City.
+
+591
+00:12:38,526 --> 00:12:40,393
+{\an1}Have them to
+thank for this.
+
+592
+00:12:38,526 --> 00:12:40,393
+{\an1}Có họ 
+cảm ơn cho việc này.
+
+593
+00:12:40,395 --> 00:12:43,429
+{\an1}They tortured and killed
+an Argus agent
+
+594
+00:12:40,395 --> 00:12:43,429
+{\an1}Họ tra tấn và giết chết 
+một đại lý Argus
+
+595
+00:12:43,431 --> 00:12:45,231
+{\an1}and abducted
+two others.
+
+596
+00:12:43,431 --> 00:12:45,231
+{\an1}và bắt cóc 
+hai người khác.
+
+597
+00:12:45,233 --> 00:12:47,033
+{\an1}Look. I have nothing
+to do with them anymore.
+
+598
+00:12:45,233 --> 00:12:47,033
+{\an1}Nhìn. Tôi không có gì 
+để làm với họ nữa.
+
+599
+00:12:47,035 --> 00:12:49,068
+{\an1}After I got discharged,
+they cut ties.
+
+600
+00:12:47,035 --> 00:12:49,068
+{\an1}Sau khi tôi giải ngũ, 
+họ cắt đứt quan hệ.
+
+601
+00:12:49,070 --> 00:12:50,903
+{\an1}They only want
+enlisted men.
+
+602
+00:12:49,070 --> 00:12:50,903
+{\an1}Họ chỉ muốn 
+lính tráng.
+
+603
+00:12:50,905 --> 00:12:52,805
+{\an1}How the hell could
+I not see this?
+
+604
+00:12:50,905 --> 00:12:52,805
+{\an1}Làm thế quái nào có thể 
+Tôi không thấy điều này?
+
+605
+00:12:52,807 --> 00:12:54,674
+{\an1}You were with me
+the entire time!
+
+606
+00:12:52,807 --> 00:12:54,674
+{\an1}Bạn đã ở bên tôi 
+toàn bộ thời gian!
+
+607
+00:12:54,676 --> 00:12:56,976
+{\an1}Because you saw
+what you wanted to see.
+
+608
+00:12:54,676 --> 00:12:56,976
+{\an1}Bởi vì bạn đã thấy 
+những gì bạn muốn xem.
+
+609
+00:12:56,978 --> 00:12:58,511
+{\an1}Look. You wanted to believe
+that the army
+
+610
+00:12:56,978 --> 00:12:58,511
+{\an1}Nhìn. Bạn muốn tin 
+rằng quân đội
+
+611
+00:12:58,513 --> 00:13:00,079
+{\an1}had straightened me out.
+
+612
+00:12:58,513 --> 00:13:00,079
+{\an1}đã thẳng tôi ra ngoài.
+
+613
+00:13:00,081 --> 00:13:01,414
+{\an1}Look. I'm your brother,
+
+614
+00:13:00,081 --> 00:13:01,414
+{\an1}Nhìn. Tôi là anh trai của bạn,
+
+615
+00:13:01,416 --> 00:13:03,249
+{\an1}but I'm not
+built like you.
+
+616
+00:13:01,416 --> 00:13:03,249
+{\an1}nhưng tôi không 
+xây dựng như bạn.
+
+617
+00:13:03,251 --> 00:13:05,618
+{\an1}I didn't take to the military
+like you did.
+
+618
+00:13:03,251 --> 00:13:05,618
+{\an1}Tôi đã không đi đến quân đội 
+như bạn đã làm.
+
+619
+00:13:05,620 --> 00:13:07,353
+{\an1}You saw the world
+as something to be fixed.
+
+620
+00:13:05,620 --> 00:13:07,353
+{\an1}Bạn thấy thế giới 
+như một cái gì đó phải được cố định.
+
+621
+00:13:07,355 --> 00:13:09,555
+{\an1}I only saw it as broken,
+
+622
+00:13:07,355 --> 00:13:09,555
+{\an1}Tôi chỉ nhìn thấy nó như là bị hỏng,
+
+623
+00:13:09,557 --> 00:13:11,123
+{\an1}so I made sure
+I had enough
+
+624
+00:13:09,557 --> 00:13:11,123
+{\an1}vì vậy tôi đã chắc chắn 
+Tôi đã có đủ
+
+625
+00:13:11,125 --> 00:13:12,925
+{\an1}to survive in it.
+
+626
+00:13:11,125 --> 00:13:12,925
+{\an1}để tồn tại trong đó.
+
+627
+00:13:12,927 --> 00:13:15,394
+{\an1}So you pretended
+to be
+
+628
+00:13:12,927 --> 00:13:15,394
+{\an1}Vì vậy, bạn giả vờ 
+để được
+
+629
+00:13:15,396 --> 00:13:16,662
+{\an1}a completely
+different person
+
+630
+00:13:15,396 --> 00:13:16,662
+{\an1}một hoàn toàn 
+người khác
+
+631
+00:13:16,664 --> 00:13:19,332
+{\an1}around your
+own brother?
+
+632
+00:13:16,664 --> 00:13:19,332
+{\an1}xung quanh 
+anh trai mình?
+
+633
+00:13:19,334 --> 00:13:21,934
+{\an1}It spared me the look that's
+on your face right now.
+
+634
+00:13:19,334 --> 00:13:21,934
+{\an1}Nó tha cho tôi những cái nhìn đó là 
+trên khuôn mặt của bạn ngay bây giờ.
+
+635
+00:13:25,340 --> 00:13:26,706
+{\an1}But maybe some good
+could come out of this.
+
+636
+00:13:25,340 --> 00:13:26,706
+{\an1}Nhưng có thể một tốt 
+có thể đi ra khỏi này.
+
+637
+00:13:26,708 --> 00:13:28,107
+{\an1}Andy...
+
+638
+00:13:26,708 --> 00:13:28,107
+{\an1}Andy ...
+
+639
+00:13:29,944 --> 00:13:31,377
+{\an1}What are you
+talking about?
+
+640
+00:13:29,944 --> 00:13:31,377
+{\an1}Thế nào là bạn 
+nói về?
+
+641
+00:13:31,379 --> 00:13:32,511
+{\an1}The two missing agents--
+
+642
+00:13:31,379 --> 00:13:32,511
+{\an1}Hai thiếu agents--
+
+643
+00:13:32,513 --> 00:13:33,679
+{\an1}you still think
+they're alive?
+
+644
+00:13:32,513 --> 00:13:33,679
+{\an1}bạn vẫn nghĩ 
+họ vẫn còn sống?
+
+645
+00:13:33,681 --> 00:13:35,848
+{\an1}- I can hope.
+- And I can help.
+
+646
+00:13:33,681 --> 00:13:35,848
+{\an1}- Tôi có thể hy vọng 
+-. Và tôi có thể giúp.
+
+647
+00:13:35,850 --> 00:13:39,018
+{\an1}Look. I know how
+Shadowspire operates.
+
+648
+00:13:35,850 --> 00:13:39,018
+{\an1}Nhìn. Tôi biết làm thế nào 
+Shadowspire hoạt động.
+
+649
+00:13:39,020 --> 00:13:40,653
+{\an1}If they're consistent,
+they'll use
+
+650
+00:13:39,020 --> 00:13:40,653
+{\an1}Nếu họ phù hợp, 
+họ sẽ sử dụng
+
+651
+00:13:40,655 --> 00:13:44,090
+{\an1}the nearest freeport
+as a base of operations.
+
+652
+00:13:40,655 --> 00:13:44,090
+{\an1}các freeport vực gần 
+như là một cơ sở hoạt động.
+
+653
+00:13:44,092 --> 00:13:45,691
+{\an1}The best place to hide
+illicit things
+
+654
+00:13:44,092 --> 00:13:45,691
+{\an1}Nơi tốt nhất để ẩn 
+điều bất hợp pháp
+
+655
+00:13:45,693 --> 00:13:48,327
+{\an1}is right next
+to legitimate ones.
+
+656
+00:13:45,693 --> 00:13:48,327
+{\an1}là ngay bên cạnh 
+với những người hợp pháp.
+
+657
+00:13:51,199 --> 00:13:52,698
+{\an1}It's called
+a freeport
+
+658
+00:13:51,199 --> 00:13:52,698
+{\an1}Nó được gọi là 
+một freeport
+
+659
+00:13:52,700 --> 00:13:54,133
+{\an1}it holds commodities
+while they're in transit
+
+660
+00:13:52,700 --> 00:13:54,133
+{\an1}nó giữ hàng hóa 
+trong khi họ đang trên đường vận chuyển
+
+661
+00:13:54,135 --> 00:13:56,035
+{\an1}between international
+destinations.
+
+662
+00:13:54,135 --> 00:13:56,035
+{\an1}giữa 
+điểm đến quốc tế.
+
+663
+00:13:56,037 --> 00:13:57,136
+{\an1}Pretty low-end.
+
+664
+00:13:56,037 --> 00:13:57,136
+{\an1}Khá thấp.
+
+665
+00:13:57,138 --> 00:13:58,404
+{\an1}Looks like
+somebody upgraded
+
+666
+00:13:57,138 --> 00:13:58,404
+{\an1}Dường như 
+ai đó nâng cấp
+
+667
+00:13:58,406 --> 00:13:59,538
+{\an1}their security system.
+
+668
+00:13:58,406 --> 00:13:59,538
+{\an1}hệ thống an ninh của họ.
+
+669
+00:13:59,540 --> 00:14:02,174
+{\an1}Motion sensors,
+laser tripwires,
+
+670
+00:13:59,540 --> 00:14:02,174
+{\an1}cảm biến chuyển động, 
+tripwires laser,
+
+671
+00:14:02,176 --> 00:14:03,342
+{\an1}digital locks.
+
+672
+00:14:02,176 --> 00:14:03,342
+{\an1}khóa kỹ thuật số.
+
+673
+00:14:03,344 --> 00:14:06,379
+{\an1}I think I know somebody
+who can help.
+
+674
+00:14:03,344 --> 00:14:06,379
+{\an1}Tôi nghĩ rằng tôi biết ai đó 
+những người có thể giúp đỡ.
+
+675
+00:14:09,717 --> 00:14:12,351
+{\an1}Not gonna get that?
+
+676
+00:14:09,717 --> 00:14:12,351
+{\an1}Con sẽ không có được điều đó không?
+
+677
+00:14:12,353 --> 00:14:16,255
+{\an1}Smart move.
+
+678
+00:14:12,353 --> 00:14:16,255
+{\an1}Di chuyển thông minh.
+
+679
+00:14:16,257 --> 00:14:17,556
+{\an1}Oliver?
+
+680
+00:14:16,257 --> 00:14:17,556
+{\an1}Oliver?
+
+681
+00:14:17,558 --> 00:14:19,525
+{\an1}I'm out in
+the field actually.
+
+682
+00:14:17,558 --> 00:14:19,525
+{\an1}Tôi ra trong 
+lĩnh vực thực sự.
+
+683
+00:14:19,527 --> 00:14:20,960
+{\an1}We've come up
+against some tech,
+
+684
+00:14:19,527 --> 00:14:20,960
+{\an1}Chúng tôi đã đi lên 
+chống lại một số công nghệ cao,
+
+685
+00:14:20,962 --> 00:14:22,561
+{\an1}the kind that you
+typically eat for breakfast.
+
+686
+00:14:20,962 --> 00:14:22,561
+{\an1}các loại mà bạn 
+thường ăn vào bữa sáng.
+
+687
+00:14:22,563 --> 00:14:24,964
+{\an1}Now I know that you
+said you're not
+
+688
+00:14:22,563 --> 00:14:24,964
+{\an1}Bây giờ tôi biết rằng bạn 
+nói bạn không
+
+689
+00:14:24,966 --> 00:14:26,365
+{\an1}ready to get back
+in the saddle,
+
+690
+00:14:24,966 --> 00:14:26,365
+{\an1}sẵn sàng để có được trở lại 
+trong yên xe,
+
+691
+00:14:26,367 --> 00:14:28,034
+{\an1}but we could really
+use your help.
+
+692
+00:14:26,367 --> 00:14:28,034
+{\an1}nhưng chúng tôi thực sự có thể 
+sử dụng giúp đỡ của bạn.
+
+693
+00:14:28,036 --> 00:14:30,536
+{\an1}You're not really falling
+for that again, are you?
+
+694
+00:14:28,036 --> 00:14:30,536
+{\an1}Bạn không thực sự rơi 
+cho rằng một lần nữa, phải không?
+
+695
+00:14:30,538 --> 00:14:31,837
+{\an1}Where are you?
+
+696
+00:14:30,538 --> 00:14:31,837
+{\an1}Bạn đang ở đâu?
+
+697
+00:14:31,839 --> 00:14:33,706
+{\an1}Pacific Freeport.
+It's a--
+
+698
+00:14:31,839 --> 00:14:33,706
+{\an1}Thái Bình Dương Freeport. [Escapcode_n] Đó là là--
+
+699
+00:14:33,708 --> 00:14:35,341
+{\an1}security's down.
+
+700
+00:14:33,708 --> 00:14:35,341
+{\an1}xuống an ninh.
+
+701
+00:14:35,343 --> 00:14:36,709
+{\an1}That was amazing.
+
+702
+00:14:35,343 --> 00:14:36,709
+{\an1}Điều đó thật tuyệt vời.
+
+703
+00:14:36,711 --> 00:14:38,844
+{\an1}All you need to
+do is get back in the game.
+
+704
+00:14:36,711 --> 00:14:38,844
+{\an1}Tất cả bạn cần 
+làm là có được trở lại cuộc chơi.
+
+705
+00:14:38,846 --> 00:14:41,914
+{\an1}I thought vomiting inside my mouth
+was just an expression.
+
+706
+00:14:38,846 --> 00:14:41,914
+{\an1}Tôi nghĩ nôn trong miệng của tôi 
+chỉ là một biểu thức.
+
+707
+00:14:43,184 --> 00:14:44,583
+{\an1}I'm inside their
+security system.
+
+708
+00:14:43,184 --> 00:14:44,583
+{\an1}Tôi là bên trong hệ thống an ninh 
+của họ.
+
+709
+00:14:44,585 --> 00:14:47,486
+{\an1}I got eyes on 7
+very menacing-looking fellows
+
+710
+00:14:44,585 --> 00:14:47,486
+{\an1}Mắt tôi trên 7 
+nghiên cứu sinh rất đáng sợ nhìn
+
+711
+00:14:47,488 --> 00:14:50,356
+{\an1}guarding a bunch
+of holding containers.
+
+712
+00:14:47,488 --> 00:14:50,356
+{\an1}bảo vệ một bó 
+giữ container.
+
+713
+00:14:53,728 --> 00:14:55,194
+{\an1}I'm reading
+infrared on one of the containers.
+
+714
+00:14:53,728 --> 00:14:55,194
+{\an1}Tôi đang đọc 
+hồng ngoại vào một trong các container.
+
+715
+00:14:55,196 --> 00:14:56,896
+{\an1}I'm working on opening
+that lock.
+
+716
+00:14:55,196 --> 00:14:56,896
+{\an1}Tôi đang làm việc trên mở 
+khóa đó.
+
+717
+00:14:56,898 --> 00:15:00,032
+{\an1}Go for the hostages.
+We'll take care of Shadowspire.
+
+718
+00:14:56,898 --> 00:15:00,032
+{\an1}Đi cho các con tin. [Escapcode_n] Chúng tôi sẽ chăm sóc Shadowspire.
+
+719
+00:15:06,674 --> 00:15:08,441
+{\an1}Container's open.
+Should be 10 feet in front of you,
+
+720
+00:15:06,674 --> 00:15:08,441
+{\an1}mở container. 
+Nên là 10 feet ở phía trước của bạn,
+
+721
+00:15:08,443 --> 00:15:10,309
+{\an1}second container
+on your right.
+
+722
+00:15:08,443 --> 00:15:10,309
+{\an1}thùng thứ hai 
+trên bên phải của bạn.
+
+723
+00:15:10,311 --> 00:15:11,444
+{\an1}Got it.
+
+724
+00:15:10,311 --> 00:15:11,444
+{\an1}Hiểu rồi.
+
+725
+00:15:17,719 --> 00:15:19,285
+{\an1}We found
+the two Argus agents.
+
+726
+00:15:17,719 --> 00:15:19,285
+{\an1}Chúng tôi tìm thấy 
+hai đại lý Argus.
+
+727
+00:15:19,287 --> 00:15:20,486
+{\an1}They're both dead.
+
+728
+00:15:19,287 --> 00:15:20,486
+{\an1}Chúng tôi cả hai đã chết.
+
+729
+00:15:20,488 --> 00:15:21,587
+{\an1}Get out of here then.
+
+730
+00:15:20,488 --> 00:15:21,587
+{\an1}Ra khỏi đây ngay sau đó.
+
+731
+00:15:21,589 --> 00:15:22,621
+{\an1}What about you
+and Spartan?
+
+732
+00:15:21,589 --> 00:15:22,621
+{\an1}Điều gì về bạn 
+và Spartan?
+
+733
+00:15:22,623 --> 00:15:24,123
+{\an1}We got this. Go!
+
+734
+00:15:22,623 --> 00:15:24,123
+{\an1}Chúng tôi hiểu rồi. Đi!
+
+735
+00:15:32,166 --> 00:15:33,299
+{\an1}Felicity, what's going on?
+
+736
+00:15:32,166 --> 00:15:33,299
+{\an1}Felicity, những gì đang xảy ra?
+
+737
+00:15:33,301 --> 00:15:34,667
+{\an1}I don't know. I, um--
+
+738
+00:15:33,301 --> 00:15:34,667
+{\an1}Tôi không biết. Tôi, um--
+
+739
+00:15:34,669 --> 00:15:36,235
+{\an1}I must have tripped
+some sort of failsafe.
+
+740
+00:15:34,669 --> 00:15:36,235
+{\an1}Tôi phải có vấp 
+một số loại failsafe.
+
+741
+00:15:36,237 --> 00:15:38,170
+{\an1}The system's overloaded
+with too many requests.
+
+742
+00:15:36,237 --> 00:15:38,170
+{\an1}Hệ thống của quá tải 
+với quá nhiều yêu cầu.
+
+743
+00:15:38,172 --> 00:15:39,638
+{\an1}Oopsie.
+
+744
+00:15:38,172 --> 00:15:39,638
+{\an1}Oopsie.
+
+745
+00:15:52,420 --> 00:15:55,054
+{\an1}You hear so much
+about these vigilantes,
+
+746
+00:15:52,420 --> 00:15:55,054
+{\an1}Bạn nghe rất nhiều 
+về những đội giữ gìn,
+
+747
+00:15:55,056 --> 00:15:56,789
+{\an1}but I've never seen one
+in person.
+
+748
+00:15:55,056 --> 00:15:56,789
+{\an1}nhưng tôi chưa bao giờ thấy một 
+trong người.
+
+749
+00:15:56,791 --> 00:15:58,090
+{\an1}Wish I could say
+the same about
+
+750
+00:15:56,791 --> 00:15:58,090
+{\an1}Ước gì có thể nói 
+khoảng cùng
+
+751
+00:15:58,092 --> 00:16:00,292
+{\an1}a cold-blooded
+murderer.
+
+752
+00:15:58,092 --> 00:16:00,292
+{\an1}một người máu lạnh 
+kẻ giết người.
+
+753
+00:16:00,294 --> 00:16:01,761
+{\an1}Have we met before?
+
+754
+00:16:00,294 --> 00:16:01,761
+{\an1}chúng tôi đã gặp nhau trước đây?
+
+755
+00:16:09,270 --> 00:16:11,303
+{\an1}Unh!
+
+756
+00:16:09,270 --> 00:16:11,303
+{\an1}Unh!
+
+757
+00:16:11,305 --> 00:16:12,738
+{\an1}All right. Let's go.
+
+758
+00:16:11,305 --> 00:16:12,738
+{\an1}Được rồi. Đi nào.
+
+759
+00:16:12,740 --> 00:16:15,107
+{\an1}I've got Spartan.
+We're good!
+
+760
+00:16:12,740 --> 00:16:15,107
+{\an1}Tôi đã có Spartan. [Escapcode_n] Chúng tôi đang tốt!
+
+761
+00:16:15,109 --> 00:16:17,476
+{\an1}No thanks to you.
+
+762
+00:16:15,109 --> 00:16:17,476
+{\an1}Không, cảm ơn bạn.
+
+763
+00:16:26,671 --> 00:16:27,904
+{\an1}Hey.
+
+764
+00:16:26,671 --> 00:16:27,904
+{\an1}Ê.
+
+765
+00:16:30,775 --> 00:16:31,941
+{\an1}You ok?
+
+766
+00:16:30,775 --> 00:16:31,941
+{\an1}Bạn ổn không?
+
+767
+00:16:31,943 --> 00:16:33,643
+{\an1}That depends.
+
+768
+00:16:31,943 --> 00:16:33,643
+{\an1}Điều đó phụ thuộc.
+
+769
+00:16:33,645 --> 00:16:34,744
+{\an1}Is John ok?
+
+770
+00:16:33,645 --> 00:16:34,744
+{\an1}Là John ok?
+
+771
+00:16:34,746 --> 00:16:37,447
+{\an1}John's fine,
+
+772
+00:16:34,746 --> 00:16:37,447
+{\an1}Phạt của John,
+
+773
+00:16:37,449 --> 00:16:39,949
+{\an1}but you seem to
+think that
+
+774
+00:16:37,449 --> 00:16:39,949
+{\an1}nhưng bạn dường như 
+nghĩ rằng
+
+775
+00:16:39,951 --> 00:16:41,718
+{\an1}what happened
+tonight is your fault.
+
+776
+00:16:39,951 --> 00:16:41,718
+{\an1}những gì xảy ra 
+đêm nay là lỗi của bạn.
+
+777
+00:16:41,720 --> 00:16:43,386
+{\an1}Well, I'm pretty sure
+I was the one
+
+778
+00:16:41,720 --> 00:16:43,386
+{\an1}Vâng, tôi khá chắc chắn 
+Tôi là một trong những
+
+779
+00:16:43,388 --> 00:16:45,555
+{\an1}who couldn't stop
+the security doors from closing.
+
+780
+00:16:43,388 --> 00:16:45,555
+{\an1}người không thể dừng lại 
+các cửa an ninh từ mức đóng cửa.
+
+781
+00:16:45,557 --> 00:16:47,257
+{\an1}And I'm the one
+who pushed you to get involved
+
+782
+00:16:45,557 --> 00:16:47,257
+{\an1}Và tôi là một trong những 
+người đã đẩy các bạn tham gia
+
+783
+00:16:47,259 --> 00:16:49,125
+{\an1}when you signaled
+pretty hard that you weren't ready.
+
+784
+00:16:47,259 --> 00:16:49,125
+{\an1}khi bạn hiệu 
+khá cứng mà bạn chưa sẵn sàng.
+
+785
+00:16:49,127 --> 00:16:51,961
+{\an1}I wasn't signaling...
+
+786
+00:16:49,127 --> 00:16:51,961
+{\an1}Tôi đã không được hiệu ...
+
+787
+00:16:51,963 --> 00:16:53,730
+{\an1}That hard.
+
+788
+00:16:51,963 --> 00:16:53,730
+{\an1}Đó là khó khăn.
+
+789
+00:16:53,732 --> 00:16:55,765
+{\an1}I'm sorry that
+I pushed.
+
+790
+00:16:53,732 --> 00:16:55,765
+{\an1}Tôi xin lỗi rằng 
+Tôi đẩy.
+
+791
+00:16:55,767 --> 00:16:58,334
+{\an1}I just thought that
+if you got
+
+792
+00:16:55,767 --> 00:16:58,334
+{\an1}Tôi chỉ nghĩ rằng 
+nếu bạn có
+
+793
+00:16:58,336 --> 00:17:00,103
+{\an1}behind a keyboard
+again that things
+
+794
+00:16:58,336 --> 00:17:00,103
+{\an1}phía sau một bàn phím 
+một lần nữa rằng mọi thứ
+
+795
+00:17:00,105 --> 00:17:02,572
+{\an1}would just start
+to feel normal.
+
+796
+00:17:00,105 --> 00:17:02,572
+{\an1}sẽ chỉ bắt đầu 
+để cảm thấy bình thường.
+
+797
+00:17:02,574 --> 00:17:05,141
+{\an1}I love how playing superhero
+is what we consider normal.
+
+798
+00:17:02,574 --> 00:17:05,141
+{\an1}Tôi yêu cách chơi siêu anh hùng 
+là những gì chúng ta xem xét bình thường.
+
+799
+00:17:05,143 --> 00:17:07,777
+{\an1}Heh.
+
+800
+00:17:05,143 --> 00:17:07,777
+{\an1}Heh.
+
+801
+00:17:07,779 --> 00:17:09,746
+{\an1}But there is no going
+back to normal.
+
+802
+00:17:07,779 --> 00:17:09,746
+{\an1}Nhưng cũng không có đi 
+trở lại bình thường.
+
+803
+00:17:09,748 --> 00:17:10,980
+{\an1}You know what
+I mean.
+
+804
+00:17:09,748 --> 00:17:10,980
+{\an1}Bạn biết những gì 
+Tôi có ý nghĩa.
+
+805
+00:17:10,982 --> 00:17:13,249
+{\an1}I know what you mean.
+
+806
+00:17:10,982 --> 00:17:13,249
+{\an1}Tôi biết những gì bạn có ý nghĩa.
+
+807
+00:17:13,251 --> 00:17:17,620
+{\an1}What I mean is that
+I can no longer be a part of the team.
+
+808
+00:17:13,251 --> 00:17:17,620
+{\an1}Những gì tôi có nghĩa là 
+Tôi có thể không còn là một phần của đội bóng.
+
+809
+00:17:17,622 --> 00:17:20,323
+{\an1}Because of your
+injury?
+
+810
+00:17:17,622 --> 00:17:20,323
+{\an1}Bởi vì 
+chấn thương của bạn?
+
+811
+00:17:20,325 --> 00:17:22,325
+{\an1}You can't let that
+stop you.
+
+812
+00:17:20,325 --> 00:17:22,325
+{\an1}Bạn không thể để điều đó 
+ngăn chặn bạn.
+
+813
+00:17:22,327 --> 00:17:24,060
+{\an1}Except it has.
+
+814
+00:17:22,327 --> 00:17:24,060
+{\an1}Ngoại trừ nó có.
+
+815
+00:17:24,062 --> 00:17:26,129
+{\an1}Look at me, Oliver.
+
+816
+00:17:24,062 --> 00:17:26,129
+{\an1}Nhìn tôi, Oliver.
+
+817
+00:17:26,131 --> 00:17:28,298
+{\an1}I've spent the last week and a half
+stuck in this loft.
+
+818
+00:17:26,131 --> 00:17:28,298
+{\an1}Tôi đã dành tuần cuối cùng và một nửa 
+mắc kẹt trong loft này.
+
+819
+00:17:28,300 --> 00:17:32,302
+{\an1}I can't...move.
+I can't drive.
+
+820
+00:17:28,300 --> 00:17:32,302
+{\an1}Tôi không thể ... di chuyển. [Escapcode_n] Tôi không thể lái xe.
+
+821
+00:17:32,304 --> 00:17:33,936
+{\an1}I can't walk
+down the street
+
+822
+00:17:32,304 --> 00:17:33,936
+{\an1}Tôi không thể đi 
+xuống phố
+
+823
+00:17:33,938 --> 00:17:35,972
+{\an1}and get a cup
+of coffee,
+
+824
+00:17:33,938 --> 00:17:35,972
+{\an1}và có được một cốc 
+của cà phê,
+
+825
+00:17:35,974 --> 00:17:38,074
+{\an1}and if tonight is
+any indication,
+
+826
+00:17:35,974 --> 00:17:38,074
+{\an1}và nếu đêm nay là 
+bất kỳ dấu hiệu,
+
+827
+00:17:38,076 --> 00:17:41,477
+{\an1}I can't do the one thing
+that I'm supposed to still be able to do.
+
+828
+00:17:38,076 --> 00:17:41,477
+{\an1}Tôi không thể làm một điều 
+mà tôi phải vẫn có thể làm được.
+
+829
+00:17:41,479 --> 00:17:43,479
+{\an1}You just need to
+give it time.
+
+830
+00:17:41,479 --> 00:17:43,479
+{\an1}Bạn chỉ cần 
+cho nó thời gian.
+
+831
+00:17:47,185 --> 00:17:50,386
+{\an1}Hey. Talk to me.
+
+832
+00:17:47,185 --> 00:17:50,386
+{\an1}Ê. Nói với tôi.
+
+833
+00:17:50,388 --> 00:17:53,156
+{\an1}Go ahead. Tell him.
+
+834
+00:17:50,388 --> 00:17:53,156
+{\an1}Đi trước. Nói với anh ấy.
+
+835
+00:17:53,158 --> 00:17:54,490
+{\an1}Tell him you're
+hallucinating.
+
+836
+00:17:53,158 --> 00:17:54,490
+{\an1}Hãy cho anh ấy bạn đang 
+ảo giác.
+
+837
+00:17:54,492 --> 00:17:56,192
+{\an1}That should go over
+like gangbusters.
+
+838
+00:17:54,492 --> 00:17:56,192
+{\an1}Điều đó sẽ đi qua 
+như tôm tươi.
+
+839
+00:17:56,194 --> 00:17:57,994
+{\an1}I'm not going
+to pretend that I understand...
+
+840
+00:17:56,194 --> 00:17:57,994
+{\an1}Tôi sẽ không 
+để giả vờ rằng tôi hiểu ...
+
+841
+00:17:57,996 --> 00:17:59,162
+{\an1}Come on, Felicity.
+Tell him. Tell him...
+
+842
+00:17:57,996 --> 00:17:59,162
+{\an1}Nào, Felicity. [Escapcode_n] Hãy cho anh ấy. Nói với anh ấy...
+
+843
+00:17:59,164 --> 00:18:00,630
+{\an1}What you're
+going through,
+
+844
+00:17:59,164 --> 00:18:00,630
+{\an1}Những gì bạn đang 
+đi qua,
+
+845
+00:18:00,632 --> 00:18:02,665
+{\an1}but you are the strongest person
+that I know...
+
+846
+00:18:00,632 --> 00:18:02,665
+{\an1}nhưng bạn là người mạnh nhất 
+mà tôi biết ...
+
+847
+00:18:02,667 --> 00:18:04,667
+{\an1}That you're no good for the team anymore,
+that in addition to having
+
+848
+00:18:02,667 --> 00:18:04,667
+{\an1}Đó là bạn đang không tốt cho đội tuyển nữa, 
+rằng ngoài việc có
+
+849
+00:18:04,669 --> 00:18:06,336
+{\an1}legs that don't work,
+you've got a full on case of the crazies...
+
+850
+00:18:04,669 --> 00:18:06,336
+{\an1}chân mà không làm việc, 
+bạn đã có một đầy đủ về trường hợp của Crazies ...
+
+851
+00:18:06,338 --> 00:18:08,338
+{\an1}And we have your back the same way that
+you have our back.
+
+852
+00:18:06,338 --> 00:18:08,338
+{\an1}Và chúng tôi có trở lại của bạn cùng một cách mà 
+bạn có trở lại của chúng tôi.
+
+853
+00:18:08,340 --> 00:18:10,006
+{\an1}We don't stand a chance
+to take down those guards last night--
+
+854
+00:18:08,340 --> 00:18:10,006
+{\an1}Chúng tôi không có cơ hội 
+để lấy xuống những vệ sĩ night-- cuối cùng
+
+855
+00:18:10,008 --> 00:18:12,008
+{\an1}- seeing visions...
+- Just shut up!
+
+856
+00:18:10,008 --> 00:18:12,008
+{\an1}- Nhìn thấy tầm nhìn ... 
+- Chỉ cần im lặng!
+
+857
+00:18:16,181 --> 00:18:17,380
+{\an1}I didn't mean that.
+
+858
+00:18:16,181 --> 00:18:17,380
+{\an1}Tôi không có ý đó.
+
+859
+00:18:17,382 --> 00:18:18,815
+{\an1}I didn't mean
+to upset you.
+
+860
+00:18:17,382 --> 00:18:18,815
+{\an1}Tôi không có nghĩa là 
+để buồn bã bạn.
+
+861
+00:18:18,817 --> 00:18:21,884
+{\an1}No, no, no.
+It's not you, it's not you.
+
+862
+00:18:18,817 --> 00:18:21,884
+{\an1}Không, không, không. [Escapcode_n] Nó không phải bạn, nó không phải là bạn.
+
+863
+00:18:21,886 --> 00:18:24,420
+{\an1}Can I just be alone
+for a little while?
+
+864
+00:18:21,886 --> 00:18:24,420
+{\an1}Tôi có thể chỉ có một mình 
+cho một chút?
+
+865
+00:18:35,200 --> 00:18:36,766
+{\an1}You know,
+I guessed I hoped
+
+866
+00:18:35,200 --> 00:18:36,766
+{\an1}Bạn biết đấy, 
+Tôi đoán tôi hy vọng
+
+867
+00:18:36,768 --> 00:18:38,234
+{\an1}by giving you Intel
+on Shadowspire
+
+868
+00:18:36,768 --> 00:18:38,234
+{\an1}bằng cách cho bạn Intel 
+trên Shadowspire
+
+869
+00:18:38,236 --> 00:18:40,603
+{\an1}you would, um, let
+me out of my cell,
+
+870
+00:18:38,236 --> 00:18:40,603
+{\an1}bạn sẽ, um, để 
+tôi ra khỏi tế bào của tôi,
+
+871
+00:18:40,605 --> 00:18:42,805
+{\an1}but this isn't what
+I had in mine.
+
+872
+00:18:40,605 --> 00:18:42,805
+{\an1}nhưng đây không phải là những gì 
+tôi đã có trong tôi.
+
+873
+00:18:42,807 --> 00:18:45,208
+{\an1}Hey, Lyla.
+It's been a while.
+
+874
+00:18:42,807 --> 00:18:45,208
+{\an1}Hey, Lyla. [Escapcode_n] Nó được một lúc.
+
+875
+00:18:45,210 --> 00:18:46,676
+{\an1}Andy.
+
+876
+00:18:45,210 --> 00:18:46,676
+{\an1}Andy.
+
+877
+00:18:52,283 --> 00:18:53,716
+{\an1}Mr. Diggle.
+
+878
+00:18:52,283 --> 00:18:53,716
+{\an1}Ông Diggle.
+
+879
+00:18:53,718 --> 00:18:55,084
+{\an1}I'm the director of Argus.
+
+880
+00:18:53,718 --> 00:18:55,084
+{\an1}Tôi là giám đốc của Argus.
+
+881
+00:18:55,086 --> 00:18:57,253
+{\an1}Those 3 dead men
+were my agents.
+
+882
+00:18:55,086 --> 00:18:57,253
+{\an1}Những 3 người chết 
+là đại lý của tôi.
+
+883
+00:18:57,255 --> 00:19:00,256
+{\an1}I want to debrief you
+on your relationship to Shadowspire.
+
+884
+00:18:57,255 --> 00:19:00,256
+{\an1}Tôi muốn để phỏng vấn bạn 
+vào mối quan hệ của bạn để Shadowspire.
+
+885
+00:19:00,258 --> 00:19:01,524
+{\an1}Which is interesting
+because you couldn't even
+
+886
+00:19:00,258 --> 00:19:01,524
+{\an1}Đó là thú vị 
+bởi vì bạn có thể thậm chí không
+
+887
+00:19:01,526 --> 00:19:03,426
+{\an1}say Shadowspire
+last time we met.
+
+888
+00:19:01,526 --> 00:19:03,426
+{\an1}nói Shadowspire 
+lần cuối cùng chúng tôi gặp nhau.
+
+889
+00:19:03,428 --> 00:19:05,928
+{\an1}I was taking
+an understandable precaution
+
+890
+00:19:03,428 --> 00:19:05,928
+{\an1}Tôi đã được tham gia 
+Để phòng ngừa dễ hiểu
+
+891
+00:19:05,930 --> 00:19:08,531
+{\an1}in light of a potential
+security breach.
+
+892
+00:19:05,930 --> 00:19:08,531
+{\an1}trong ánh sáng của một tiềm năng 
+vi phạm an ninh.
+
+893
+00:19:08,533 --> 00:19:10,266
+{\an1}The two agents
+you found tonight
+
+894
+00:19:08,533 --> 00:19:10,266
+{\an1}Hai đại lý 
+bạn thấy đêm nay
+
+895
+00:19:10,268 --> 00:19:12,034
+{\an1}were assigned to
+safeguard a shipment
+
+896
+00:19:10,268 --> 00:19:12,034
+{\an1}đã được giao cho 
+bảo vệ một lô hàng
+
+897
+00:19:12,036 --> 00:19:13,469
+{\an1}of confiscated
+railguns.
+
+898
+00:19:12,036 --> 00:19:13,469
+{\an1}của bị tịch thu 
+railguns.
+
+899
+00:19:13,471 --> 00:19:15,938
+{\an1}Heh.
+
+900
+00:19:13,471 --> 00:19:15,938
+{\an1}Heh.
+
+901
+00:19:15,940 --> 00:19:19,375
+{\an1}But that was
+a completely black assignment,
+
+902
+00:19:15,940 --> 00:19:19,375
+{\an1}Nhưng đó là 
+một nhiệm vụ hoàn toàn màu đen,
+
+903
+00:19:19,377 --> 00:19:23,646
+{\an1}so I'd be very interested
+to know how Shadowspire knew about it.
+
+904
+00:19:19,377 --> 00:19:23,646
+{\an1}vì vậy tôi sẽ rất quan tâm 
+để biết làm thế nào Shadowspire biết về nó.
+
+905
+00:19:23,648 --> 00:19:25,915
+{\an1}Amanda, you don't
+see the bigger problem here?
+
+906
+00:19:23,648 --> 00:19:25,915
+{\an1}Amanda, bạn không 
+thấy vấn đề lớn hơn ở đây?
+
+907
+00:19:25,917 --> 00:19:28,217
+{\an1}Those things fire off
+electromagnetic projectiles.
+
+908
+00:19:25,917 --> 00:19:28,217
+{\an1}Những điều đó bắn ra 
+đạn điện từ.
+
+909
+00:19:28,219 --> 00:19:29,986
+{\an1}Just one of them could
+take down a building.
+
+910
+00:19:28,219 --> 00:19:29,986
+{\an1}Chỉ cần một trong số họ có thể 
+lấy xuống một tòa nhà.
+
+911
+00:19:29,988 --> 00:19:32,355
+{\an1}- Your point?
+- My point...
+
+912
+00:19:29,988 --> 00:19:32,355
+{\an1}- Điểm của bạn 
+- Quan điểm của tôi ...
+
+913
+00:19:32,357 --> 00:19:34,090
+{\an1}Is that if Shadowspire's
+looking for that type of ordinance--
+
+914
+00:19:32,357 --> 00:19:34,090
+{\an1}Có phải đó là nếu 
+của Shadowspire tìm kiếm cho rằng loại ordinance--
+
+915
+00:19:34,092 --> 00:19:35,324
+{\an1}I'm far more
+concerned
+
+916
+00:19:34,092 --> 00:19:35,324
+{\an1}Tôi là xa hơn 
+liên quan
+
+917
+00:19:35,326 --> 00:19:36,893
+{\an1}with a catastrophic
+security breach
+
+918
+00:19:35,326 --> 00:19:36,893
+{\an1}với một thảm họa 
+vi phạm an ninh
+
+919
+00:19:36,895 --> 00:19:39,262
+{\an1}in my organization,
+Mr. Diggle.
+
+920
+00:19:36,895 --> 00:19:39,262
+{\an1}trong tổ chức của tôi, 
+Mr. Diggle.
+
+921
+00:19:39,264 --> 00:19:40,963
+{\an1}It doesn't matter.
+
+922
+00:19:39,264 --> 00:19:40,963
+{\an1}Nó không quan trọng.
+
+923
+00:19:40,965 --> 00:19:43,099
+{\an1}Shadowspire's not
+after railguns.
+
+924
+00:19:40,965 --> 00:19:43,099
+{\an1}Shadowspire không 
+sau railguns.
+
+925
+00:19:43,101 --> 00:19:44,600
+{\an1}And what if you're
+wrong, Andy?
+
+926
+00:19:43,101 --> 00:19:44,600
+{\an1}Và nếu bạn đang 
+sai, Andy?
+
+927
+00:19:44,602 --> 00:19:46,102
+{\an1}We thought you
+weren't hooked up
+
+928
+00:19:44,602 --> 00:19:46,102
+{\an1}Chúng tôi nghĩ rằng bạn 
+không được nối
+
+929
+00:19:46,104 --> 00:19:47,470
+{\an1}with Shadowspire
+anymore.
+
+930
+00:19:46,104 --> 00:19:47,470
+{\an1}với Shadowspire 
+nữa.
+
+931
+00:19:47,472 --> 00:19:50,006
+{\an1}I'm not, but I know
+the way they work.
+
+932
+00:19:47,472 --> 00:19:50,006
+{\an1}Tôi không, nhưng tôi biết 
+cách họ làm việc.
+
+933
+00:19:50,008 --> 00:19:52,608
+{\an1}Shadowspire's all about
+misdirection.
+
+934
+00:19:50,008 --> 00:19:52,608
+{\an1}Shadowspire của tất cả về 
+lạc hướng.
+
+935
+00:19:52,610 --> 00:19:55,812
+{\an1}An elite military unit?
+
+936
+00:19:52,610 --> 00:19:55,812
+{\an1}Một đơn vị quân đội ưu tú?
+
+937
+00:19:55,814 --> 00:19:58,247
+{\an1}A cover for a criminal
+organization.
+
+938
+00:19:55,814 --> 00:19:58,247
+{\an1}Một vỏ bọc cho một 
+tổ chức tội phạm.
+
+939
+00:19:58,249 --> 00:20:01,384
+{\an1}A heist of a shipment
+of railguns?
+
+940
+00:19:58,249 --> 00:20:01,384
+{\an1}Một vụ cướp của một lô hàng 
+của railguns?
+
+941
+00:20:01,386 --> 00:20:03,219
+{\an1}No.
+
+942
+00:20:01,386 --> 00:20:03,219
+{\an1}Không.
+
+943
+00:20:03,221 --> 00:20:05,421
+{\an1}Distraction.
+
+944
+00:20:03,221 --> 00:20:05,421
+{\an1}Phân tâm.
+
+945
+00:20:05,423 --> 00:20:07,190
+{\an1}They're
+after something else.
+
+946
+00:20:05,423 --> 00:20:07,190
+{\an1}Họ 
+sau khi một cái gì đó khác.
+
+947
+00:20:13,765 --> 00:20:15,198
+{\an1}You want to
+talk about it?
+
+948
+00:20:13,765 --> 00:20:15,198
+{\an1}Bạn muốn 
+nói về nó?
+
+949
+00:20:15,200 --> 00:20:16,499
+{\an1}What is there
+to talk about?
+
+950
+00:20:15,200 --> 00:20:16,499
+{\an1}Những gì đang có 
+để nói về?
+
+951
+00:20:16,501 --> 00:20:18,301
+{\an1}Felicity's upset,
+
+952
+00:20:16,501 --> 00:20:18,301
+{\an1}Khó chịu của Felicity,
+
+953
+00:20:18,303 --> 00:20:19,669
+{\an1}I don't know how
+to help her.
+
+954
+00:20:18,303 --> 00:20:19,669
+{\an1}Tôi không biết làm thế nào 
+để giúp đỡ cô.
+
+955
+00:20:19,671 --> 00:20:22,839
+{\an1}It seems entirely
+straightforward.
+
+956
+00:20:19,671 --> 00:20:22,839
+{\an1}Có vẻ như hoàn toàn 
+đơn giản.
+
+957
+00:20:22,841 --> 00:20:24,907
+{\an1}As the only other person
+here who's had
+
+958
+00:20:22,841 --> 00:20:24,907
+{\an1}Là người duy nhất 
+ở đây ai đã có
+
+959
+00:20:24,909 --> 00:20:27,376
+{\an1}the privilege of dating you,
+a piece of advice.
+
+960
+00:20:24,909 --> 00:20:27,376
+{\an1}đặc ân khi hẹn hò với bạn, 
+một lời khuyên.
+
+961
+00:20:27,378 --> 00:20:29,879
+{\an1}Ok.
+
+962
+00:20:27,378 --> 00:20:29,879
+{\an1}Được.
+
+963
+00:20:29,881 --> 00:20:31,314
+{\an1}Don't be so hard
+on yourself.
+
+964
+00:20:29,881 --> 00:20:31,314
+{\an1}Đừng quá cứng 
+trên mình.
+
+965
+00:20:31,316 --> 00:20:34,717
+{\an1}Everything that's
+happening is my fault.
+
+966
+00:20:31,316 --> 00:20:34,717
+{\an1}Tất cả mọi thứ 
+xảy ra là lỗi của tôi.
+
+967
+00:20:34,719 --> 00:20:36,452
+{\an1}I knew you were
+gonna say that.
+
+968
+00:20:34,719 --> 00:20:36,452
+{\an1}Tôi biết bạn là 
+sẽ nói rằng.
+
+969
+00:20:36,454 --> 00:20:39,489
+{\an1}Last month when we
+went up against Vandal Savage,
+
+970
+00:20:36,454 --> 00:20:39,489
+{\an1}Tháng trước khi chúng ta 
+đi lên chống lại Vandal Savage,
+
+971
+00:20:39,491 --> 00:20:41,357
+{\an1}Barry traveled
+through time
+
+972
+00:20:39,491 --> 00:20:41,357
+{\an1}Barry đi 
+qua thời gian
+
+973
+00:20:41,359 --> 00:20:42,692
+{\an1}and changed things.
+
+974
+00:20:41,359 --> 00:20:42,692
+{\an1}và thay đổi mọi thứ.
+
+975
+00:20:42,694 --> 00:20:43,726
+{\an1}Uh, what?
+
+976
+00:20:42,694 --> 00:20:43,726
+{\an1}Uh, cái gì?
+
+977
+00:20:43,728 --> 00:20:45,294
+{\an1}Barry can travel
+through time,
+
+978
+00:20:43,728 --> 00:20:45,294
+{\an1}Barry có thể đi du lịch 
+thông qua thời gian,
+
+979
+00:20:45,296 --> 00:20:48,331
+{\an1}and he warned me
+that when you change the past
+
+980
+00:20:45,296 --> 00:20:48,331
+{\an1}và ông cảnh báo tôi 
+rằng khi bạn thay đổi quá khứ
+
+981
+00:20:48,333 --> 00:20:52,535
+{\an1}the past fights back,
+so for the past month,
+
+982
+00:20:48,333 --> 00:20:52,535
+{\an1}quá khứ chiến đấu trở lại, 
+như vậy trong tháng qua,
+
+983
+00:20:52,537 --> 00:20:57,173
+{\an1}I have been tortured
+by the idea
+
+984
+00:20:52,537 --> 00:20:57,173
+{\an1}Tôi đã bị tra tấn 
+bởi ý tưởng
+
+985
+00:20:57,175 --> 00:20:59,475
+{\an1}that what happened
+to Felicity might have happened
+
+986
+00:20:57,175 --> 00:20:59,475
+{\an1}rằng những gì xảy ra 
+để Felicity có thể đã xảy ra
+
+987
+00:20:59,477 --> 00:21:00,810
+{\an1}because I wouldn't
+listen to him.
+
+988
+00:20:59,477 --> 00:21:00,810
+{\an1}bởi vì tôi sẽ không 
+hãy lắng nghe.
+
+989
+00:21:00,812 --> 00:21:02,845
+{\an1}The only person who
+is responsible
+
+990
+00:21:00,812 --> 00:21:02,845
+{\an1}Người duy nhất 
+chịu trách nhiệm
+
+991
+00:21:02,847 --> 00:21:04,747
+{\an1}for what happened
+to Felicity
+
+992
+00:21:02,847 --> 00:21:04,747
+{\an1}cho những gì đã xảy ra 
+để Felicity
+
+993
+00:21:04,749 --> 00:21:06,682
+{\an1}is Damien Darhk.
+
+994
+00:21:04,749 --> 00:21:06,682
+{\an1}là Damien Darhk.
+
+995
+00:21:12,857 --> 00:21:15,024
+{\an1}John.
+
+996
+00:21:12,857 --> 00:21:15,024
+{\an1}John.
+
+997
+00:21:15,026 --> 00:21:17,226
+{\an1}We're on it.
+
+998
+00:21:15,026 --> 00:21:17,226
+{\an1}Chúng tôi đang ở trên nó.
+
+999
+00:21:17,228 --> 00:21:18,427
+{\an1}John thinks
+Shadowspire's going
+
+1000
+00:21:17,228 --> 00:21:18,427
+{\an1}John nghĩ 
+đang triển Shadowspire của
+
+1001
+00:21:18,429 --> 00:21:19,829
+{\an1}after a shipment
+of railguns.
+
+1002
+00:21:18,429 --> 00:21:19,829
+{\an1}sau khi một lô hàng 
+của railguns.
+
+1003
+00:21:19,831 --> 00:21:22,965
+{\an1}- Can you call Thea?
+- Got it.
+
+1004
+00:21:19,831 --> 00:21:22,965
+{\an1}- Bạn có thể gọi Thea 
+- Got nó.
+
+1005
+00:21:22,967 --> 00:21:25,635
+{\an1}Hey, Oliver.
+
+1006
+00:21:22,967 --> 00:21:25,635
+{\an1}Hey, Oliver.
+
+1007
+00:21:25,637 --> 00:21:28,137
+{\an1}Felicity--she makes
+her own choices, you know.
+
+1008
+00:21:25,637 --> 00:21:28,137
+{\an1}Felicity - cô ấy làm cho 
+lựa chọn của riêng mình, bạn biết.
+
+1009
+00:21:28,139 --> 00:21:32,542
+{\an1}I'm sure that's one of the reasons why
+you love her so much.
+
+1010
+00:21:28,139 --> 00:21:32,542
+{\an1}Tôi chắc chắn đó là một trong những lý do tại sao 
+bạn yêu cô ấy rất nhiều.
+
+1011
+00:21:32,544 --> 00:21:33,910
+{\an1}Yeah.
+
+1012
+00:21:32,544 --> 00:21:33,910
+{\an1}Yeah.
+
+1013
+00:21:36,814 --> 00:21:38,281
+{\an1}Wow.
+
+1014
+00:21:36,814 --> 00:21:38,281
+{\an1}Wow.
+
+1015
+00:21:38,283 --> 00:21:40,983
+{\an1}"The Shining."
+
+1016
+00:21:38,283 --> 00:21:40,983
+{\an1}\
+
+1017
+00:21:40,985 --> 00:21:45,121
+{\an1}Not sure if I
+should be flattered or insulted.
+
+1018
+00:21:40,985 --> 00:21:45,121
+{\an1}Không chắc chắn nếu tôi 
+nên được tâng bốc hoặc xúc phạm.
+
+1019
+00:21:45,123 --> 00:21:47,924
+{\an1}Oh, my God. Die.
+Just go away already.
+
+1020
+00:21:45,123 --> 00:21:47,924
+{\an1}Ôi trời ơi. Die. [Escapcode_n] Chỉ cần đi xa rồi.
+
+1021
+00:21:47,926 --> 00:21:49,692
+{\an1}Since I'm you,
+
+1022
+00:21:47,926 --> 00:21:49,692
+{\an1}Vì tôi là bạn,
+
+1023
+00:21:49,694 --> 00:21:52,261
+{\an1}that could be a little difficult,
+don't you think?
+
+1024
+00:21:49,694 --> 00:21:52,261
+{\an1}đó có thể là một chút khó khăn, 
+không bạn nghĩ?
+
+1025
+00:21:52,263 --> 00:21:58,334
+{\an1}Fine. I'm here, you're here,
+so why are we here?
+
+1026
+00:21:52,263 --> 00:21:58,334
+{\an1}Khỏe. Tôi ở đây, bạn đang ở đây, 
+vậy tại sao chúng ta ở đây?
+
+1027
+00:21:58,336 --> 00:21:59,969
+{\an1}Do you have anything
+the least bit interesting to say to me
+
+1028
+00:21:58,336 --> 00:21:59,969
+{\an1}Bạn có bất cứ điều gì 
+chút ít nhất là thú vị để nói với tôi
+
+1029
+00:21:59,971 --> 00:22:01,804
+{\an1}besides the little jabs
+you keep making?
+
+1030
+00:21:59,971 --> 00:22:01,804
+{\an1}bên cạnh chọc chút 
+bạn tiếp tục làm?
+
+1031
+00:22:01,806 --> 00:22:04,273
+{\an1}Those jabs are just to
+get your attention.
+
+1032
+00:22:01,806 --> 00:22:04,273
+{\an1}Những nhát đấm chỉ là để 
+nhận được sự chú ý của bạn.
+
+1033
+00:22:04,275 --> 00:22:05,942
+{\an1}So what do you
+want to tell me?
+
+1034
+00:22:04,275 --> 00:22:05,942
+{\an1}Vậy điều gì làm bạn 
+muốn nói với tôi?
+
+1035
+00:22:05,944 --> 00:22:07,577
+{\an1}I'm not here to tell
+you anything.
+
+1036
+00:22:05,944 --> 00:22:07,577
+{\an1}Tôi không ở đây để nói 
+bạn bất cứ điều gì.
+
+1037
+00:22:07,579 --> 00:22:11,113
+{\an1}I'm here to show you.
+
+1038
+00:22:07,579 --> 00:22:11,113
+{\an1}Tôi ở đây để cho bạn thấy.
+
+1039
+00:22:11,115 --> 00:22:12,448
+{\an1}The last time we
+looked like this,
+
+1040
+00:22:11,115 --> 00:22:12,448
+{\an1}Lần cuối cùng chúng tôi 
+nhìn như thế này,
+
+1041
+00:22:12,450 --> 00:22:13,950
+{\an1}Cooper had just
+fake died.
+
+1042
+00:22:12,450 --> 00:22:13,950
+{\an1}Cooper đã chỉ 
+giả chết.
+
+1043
+00:22:13,952 --> 00:22:15,551
+{\an1}What does this have
+to do with my ex-boyfriend?
+
+1044
+00:22:13,952 --> 00:22:15,551
+{\an1}Điều này không có 
+để làm với bạn trai cũ của tôi?
+
+1045
+00:22:15,553 --> 00:22:18,187
+{\an1}The day we thought
+he died,
+
+1046
+00:22:15,553 --> 00:22:18,187
+{\an1}Ngày mà chúng tôi nghĩ rằng 
+ông qua đời,
+
+1047
+00:22:18,189 --> 00:22:21,657
+{\an1}you broke out the hair dye,
+
+1048
+00:22:18,189 --> 00:22:21,657
+{\an1}bạn nổ ra thuốc nhuộm tóc,
+
+1049
+00:22:21,659 --> 00:22:24,393
+{\an1}ditched the contacts,
+and decided
+
+1050
+00:22:21,659 --> 00:22:24,393
+{\an1}đã bỏ địa chỉ liên lạc, 
+và quyết định
+
+1051
+00:22:24,395 --> 00:22:27,363
+{\an1}you weren't gonna rely
+on anyone else for help
+
+1052
+00:22:24,395 --> 00:22:27,363
+{\an1}bạn không được sẽ dựa 
+trên bất cứ ai khác để được giúp đỡ
+
+1053
+00:22:27,365 --> 00:22:28,831
+{\an1}ever again.
+
+1054
+00:22:27,365 --> 00:22:28,831
+{\an1}bao giờ trở lại.
+
+1055
+00:22:28,833 --> 00:22:30,766
+{\an1}It was just going to be
+you against the world,
+
+1056
+00:22:28,833 --> 00:22:30,766
+{\an1}Nó vừa định là 
+bạn chống lại thế giới,
+
+1057
+00:22:30,768 --> 00:22:32,768
+{\an1}and that was going to
+be your armor.
+
+1058
+00:22:30,768 --> 00:22:32,768
+{\an1}và rằng đã có 
+là áo giáp của bạn.
+
+1059
+00:22:32,770 --> 00:22:34,570
+{\an1}Guess I should have
+chosen Kevlar.
+
+1060
+00:22:32,770 --> 00:22:34,570
+{\an1}Đoán tôi nên có 
+Kevlar chọn.
+
+1061
+00:22:34,572 --> 00:22:37,640
+{\an1}Stop it. Stop feeling
+sorry for yourself
+
+1062
+00:22:34,572 --> 00:22:37,640
+{\an1}Dừng lại đi. Dừng cảm giác 
+xin lỗi cho chính mình
+
+1063
+00:22:37,642 --> 00:22:38,674
+{\an1}and stop pretending!
+
+1064
+00:22:37,642 --> 00:22:38,674
+{\an1}và dừng lại giả vờ!
+
+1065
+00:22:38,676 --> 00:22:39,842
+{\an1}Pretending?!
+
+1066
+00:22:38,676 --> 00:22:39,842
+{\an1}Giả vờ ?!
+
+1067
+00:22:39,844 --> 00:22:42,244
+{\an1}Pretending that this
+is the real you--
+
+1068
+00:22:39,844 --> 00:22:42,244
+{\an1}Giả vờ rằng đây 
+là bạn-- thực
+
+1069
+00:22:42,246 --> 00:22:45,081
+{\an1}the blond hair,
+the glasses,
+
+1070
+00:22:42,246 --> 00:22:45,081
+{\an1}mái tóc vàng, 
+kính,
+
+1071
+00:22:45,083 --> 00:22:46,949
+{\an1}the sensible
+fashion.
+
+1072
+00:22:45,083 --> 00:22:46,949
+{\an1}sự hợp lý 
+thời trang.
+
+1073
+00:22:46,951 --> 00:22:48,651
+{\an1}People wear masks
+for a reason--
+
+1074
+00:22:46,951 --> 00:22:48,651
+{\an1}Người đeo mặt nạ 
+cho một reason--
+
+1075
+00:22:48,653 --> 00:22:50,419
+{\an1}to hide who
+they are--
+
+1076
+00:22:48,653 --> 00:22:50,419
+{\an1}để ẩn những người 
+họ are--
+
+1077
+00:22:50,421 --> 00:22:52,622
+{\an1}just like you have
+been doing for the past 5 years.
+
+1078
+00:22:50,421 --> 00:22:52,622
+{\an1}giống như bạn có 
+được làm trong 5 năm qua.
+
+1079
+00:22:52,624 --> 00:22:53,990
+{\an1}First, you decided
+to sign up for being
+
+1080
+00:22:52,624 --> 00:22:53,990
+{\an1}Trước tiên, bạn quyết định 
+để đăng ký là
+
+1081
+00:22:53,992 --> 00:22:57,193
+{\an1}the world's most
+overqualified I.T. girl,
+
+1082
+00:22:53,992 --> 00:22:57,193
+{\an1}nhất 
+CNTT của thừa năng lực nhất thế giới con gái,
+
+1083
+00:22:57,195 --> 00:23:01,097
+{\an1}and then you decide
+to try being a hero,
+
+1084
+00:22:57,195 --> 00:23:01,097
+{\an1}và sau đó bạn quyết định 
+để thử là một anh hùng,
+
+1085
+00:23:01,099 --> 00:23:03,065
+{\an1}and look what
+it got you,
+
+1086
+00:23:01,099 --> 00:23:03,065
+{\an1}và tìm những gì 
+nó có bạn,
+
+1087
+00:23:03,067 --> 00:23:07,136
+{\an1}a ringside seat
+to the rest of your life.
+
+1088
+00:23:03,067 --> 00:23:07,136
+{\an1}một chỗ ngồi Ring 
+để phần còn lại của cuộc sống của bạn.
+
+1089
+00:23:07,138 --> 00:23:09,639
+{\an1}You thought you were
+such a badass.
+
+1090
+00:23:07,138 --> 00:23:09,639
+{\an1}Bạn nghĩ bạn là 
+một Badass như vậy.
+
+1091
+00:23:17,982 --> 00:23:19,448
+{\an1}Waller says
+the shipment of railguns
+
+1092
+00:23:17,982 --> 00:23:19,448
+{\an1}Waller nói 
+các lô hàng của railguns
+
+1093
+00:23:19,450 --> 00:23:21,050
+{\an1}is in the back
+of that truck,
+
+1094
+00:23:19,450 --> 00:23:21,050
+{\an1}là ở phía sau 
+của xe tải,
+
+1095
+00:23:21,052 --> 00:23:22,985
+{\an1}moving out in less
+than an hour.
+
+1096
+00:23:21,052 --> 00:23:22,985
+{\an1}di chuyển trong ít 
+hơn một giờ.
+
+1097
+00:23:22,987 --> 00:23:25,087
+{\an1}What does Shadowspire
+want with a whole shipment
+
+1098
+00:23:22,987 --> 00:23:25,087
+{\an1}Gì Shadowspire 
+muốn với toàn bộ một lô hàng
+
+1099
+00:23:25,089 --> 00:23:26,856
+{\an1}of railguns?
+
+1100
+00:23:25,089 --> 00:23:26,856
+{\an1}của railguns?
+
+1101
+00:23:26,858 --> 00:23:29,125
+{\an1}Absolutely nothing good.
+
+1102
+00:23:26,858 --> 00:23:29,125
+{\an1}Tuyệt đối không có gì tốt.
+
+1103
+00:23:29,127 --> 00:23:32,728
+{\an1}It's nice to
+have you back, Agent Michaels.
+
+1104
+00:23:29,127 --> 00:23:32,728
+{\an1}Nó là tốt đẹp để 
+có bạn trở lại, chất độc Michaels.
+
+1105
+00:23:32,730 --> 00:23:34,463
+{\an1}Feels like old times.
+
+1106
+00:23:32,730 --> 00:23:34,463
+{\an1}Cảm thấy như ngày xưa.
+
+1107
+00:23:34,465 --> 00:23:36,332
+{\an1}What feels like old times is you
+keeping secrets
+
+1108
+00:23:34,465 --> 00:23:36,332
+{\an1}Những cảm giác như ngày xưa là bạn 
+giữ bí mật
+
+1109
+00:23:36,334 --> 00:23:38,467
+{\an1}that get
+good people killed.
+
+1110
+00:23:36,334 --> 00:23:38,467
+{\an1}mà có được 
+người tốt bị giết.
+
+1111
+00:23:38,469 --> 00:23:40,269
+{\an1}Did it ever occur
+to you that Alan
+
+1112
+00:23:38,469 --> 00:23:40,269
+{\an1}Liệu nó có bao giờ xảy ra 
+với bạn rằng Alan
+
+1113
+00:23:40,271 --> 00:23:41,904
+{\an1}and the other two
+agents might still be alive
+
+1114
+00:23:40,271 --> 00:23:41,904
+{\an1}và hai 
+đại lý khác thể vẫn còn sống
+
+1115
+00:23:41,906 --> 00:23:43,305
+{\an1}if you hadn't tried
+to keep your
+
+1116
+00:23:41,906 --> 00:23:43,305
+{\an1}nếu bạn đã không cố gắng 
+để giữ cho bạn
+
+1117
+00:23:43,307 --> 00:23:45,274
+{\an1}anti-Shadowspire operations
+off the books?
+
+1118
+00:23:43,307 --> 00:23:45,274
+{\an1}hoạt động chống Shadowspire 
+ra khỏi sổ sách?
+
+1119
+00:23:45,276 --> 00:23:47,043
+{\an1}Of course it has,
+
+1120
+00:23:45,276 --> 00:23:47,043
+{\an1}Tất nhiên nó có,
+
+1121
+00:23:47,045 --> 00:23:48,678
+{\an1}but the ugly side
+of our business
+
+1122
+00:23:47,045 --> 00:23:48,678
+{\an1}nhưng mặt xấu xí 
+của kinh doanh của chúng tôi
+
+1123
+00:23:48,680 --> 00:23:51,514
+{\an1}is that sometimes security has to be
+paid for in blood.
+
+1124
+00:23:48,680 --> 00:23:51,514
+{\an1}là đôi khi an ninh phải được 
+trả bằng máu.
+
+1125
+00:23:51,516 --> 00:23:56,118
+{\an1}Thank you.
+I was wondering why I'd left.
+
+1126
+00:23:51,516 --> 00:23:56,118
+{\an1}Cảm ơn bạn. [Escapcode_n] Tôi đã tự hỏi tại sao tôi đã để lại.
+
+1127
+00:23:56,120 --> 00:23:57,520
+{\an1}I don't know what
+you're worried about, man.
+
+1128
+00:23:56,120 --> 00:23:57,520
+{\an1}Tôi không biết những gì 
+bạn đang lo lắng về, người đàn ông.
+
+1129
+00:23:57,522 --> 00:23:59,321
+{\an1}Your team's not
+seeing action tonight.
+
+1130
+00:23:57,522 --> 00:23:59,321
+{\an1}Nhóm của bạn không 
+nhìn thấy hành động tối nay.
+
+1131
+00:23:59,323 --> 00:24:02,024
+{\an1}And I'm not with them
+because I'm here babysitting you.
+
+1132
+00:23:59,323 --> 00:24:02,024
+{\an1}Và tôi không phải với họ 
+bởi vì tôi đang ở đây giữ trẻ em.
+
+1133
+00:24:06,631 --> 00:24:08,064
+{\an1}Where are they?
+
+1134
+00:24:06,631 --> 00:24:08,064
+{\an1}Họ ở đâu?
+
+1135
+00:24:09,734 --> 00:24:11,934
+{\an1}Something's wrong.
+
+1136
+00:24:09,734 --> 00:24:11,934
+{\an1}Một cái gì đó sai.
+
+1137
+00:24:29,253 --> 00:24:31,687
+{\an1}There's no movement
+on the railgun ship--
+
+1138
+00:24:29,253 --> 00:24:31,687
+{\an1}Không có phong trào 
+trên railgun ship--
+
+1139
+00:24:51,409 --> 00:24:54,410
+{\an1}Amanda, it's been ages.
+
+1140
+00:24:51,409 --> 00:24:54,410
+{\an1}Amanda, nó được lứa tuổi.
+
+1141
+00:24:54,412 --> 00:24:58,714
+{\an1}Lieutenant Joyner, wish I could say
+it was a pleasure.
+
+1142
+00:24:54,412 --> 00:24:58,714
+{\an1}Trung úy Joyner, muốn tôi có thể nói 
+đó là một niềm vui.
+
+1143
+00:25:02,920 --> 00:25:04,720
+{\an1}Oh, man.
+Stop moving.
+
+1144
+00:25:02,920 --> 00:25:04,720
+{\an1}Oh, người đàn ông. [Escapcode_n] Dừng di chuyển.
+
+1145
+00:25:04,722 --> 00:25:06,422
+{\an1}You are making
+me dizzy.
+
+1146
+00:25:04,722 --> 00:25:06,422
+{\an1}Bạn đang làm cho 
+tôi chóng mặt.
+
+1147
+00:25:10,695 --> 00:25:14,163
+{\an1}Oh, my God.
+
+1148
+00:25:10,695 --> 00:25:14,163
+{\an1}Ôi trời ơi.
+
+1149
+00:25:14,165 --> 00:25:15,731
+{\an1}I told you, John.
+
+1150
+00:25:14,165 --> 00:25:15,731
+{\an1}Tôi đã nói với bạn, John.
+
+1151
+00:25:15,733 --> 00:25:18,000
+{\an1}The railguns were
+a distraction.
+
+1152
+00:25:15,733 --> 00:25:18,000
+{\an1}Các railguns được 
+một phân tâm.
+
+1153
+00:25:18,002 --> 00:25:20,636
+{\an1}Argus is
+the endgame.
+
+1154
+00:25:18,002 --> 00:25:20,636
+{\an1}Argus là 
+các endgame.
+
+1155
+00:25:25,207 --> 00:25:27,349
+{\an1}If this is retribution
+for the work
+
+1156
+00:25:25,207 --> 00:25:27,349
+{\an1}Nếu đây là sự trừng phạt 
+cho công việc
+
+1157
+00:25:27,449 --> 00:25:29,116
+{\an1}Agent Chang and I did
+crippling Shadowspire,
+
+1158
+00:25:27,449 --> 00:25:29,116
+{\an1}Agent Chang và tôi 
+làm tê liệt Shadowspire,
+
+1159
+00:25:29,118 --> 00:25:30,917
+{\an1}clearly it didn't take.
+
+1160
+00:25:29,118 --> 00:25:30,917
+{\an1}rõ ràng nó đã không mất.
+
+1161
+00:25:31,421 --> 00:25:34,389
+{\an1}Vengeance and retribution
+are useless pursuits.
+
+1162
+00:25:31,421 --> 00:25:34,389
+{\an1}Vengeance và trả thù 
+đang theo đuổi vô ích.
+
+1163
+00:25:34,391 --> 00:25:36,725
+{\an1}For one thing,
+they don't pay.
+
+1164
+00:25:34,391 --> 00:25:36,725
+{\an1}Đối với một điều, 
+họ không trả tiền.
+
+1165
+00:25:36,727 --> 00:25:39,160
+{\an1}I'm here
+for Rubicon,
+
+1166
+00:25:36,727 --> 00:25:39,160
+{\an1}Tôi ở đây 
+cho Rubicon,
+
+1167
+00:25:39,162 --> 00:25:40,428
+{\an1}and you--you're
+gonna give me
+
+1168
+00:25:39,162 --> 00:25:40,428
+{\an1}và bạn - you're 
+sẽ cho tôi
+
+1169
+00:25:40,429 --> 00:25:41,629
+{\an1}the codes to
+access it.
+
+1170
+00:25:40,429 --> 00:25:41,629
+{\an1}các mã để 
+truy cập nó.
+
+1171
+00:25:41,631 --> 00:25:43,197
+{\an1}You know I can't
+do that.
+
+1172
+00:25:41,631 --> 00:25:43,197
+{\an1}Bạn biết tôi không thể 
+làm điều đó.
+
+1173
+00:25:43,199 --> 00:25:46,133
+{\an1}I do. That's why
+I kept all these people alive.
+
+1174
+00:25:43,199 --> 00:25:46,133
+{\an1}Tôi làm. Đó là lý do tại sao 
+Tôi giữ tất cả những người còn sống.
+
+1175
+00:25:51,941 --> 00:25:55,142
+{\an1}I'm gonna give you
+20 minutes,
+
+1176
+00:25:51,941 --> 00:25:55,142
+{\an1}Tôi sẽ cung cấp cho bạn 
+20 phút,
+
+1177
+00:25:55,144 --> 00:25:56,644
+{\an1}and then...
+
+1178
+00:25:55,144 --> 00:25:56,644
+{\an1}và sau đó...
+
+1179
+00:25:59,282 --> 00:26:01,348
+{\an1}I'm gonna ask
+you again.
+
+1180
+00:25:59,282 --> 00:26:01,348
+{\an1}Tôi sẽ hỏi 
+bạn một lần nữa.
+
+1181
+00:26:03,853 --> 00:26:05,452
+{\an1}Damn it!
+
+1182
+00:26:03,853 --> 00:26:05,452
+{\an1}Chết tiệt!
+
+1183
+00:26:05,454 --> 00:26:06,654
+{\an1}They must have
+jammers in here.
+
+1184
+00:26:05,454 --> 00:26:06,654
+{\an1}Họ phải có 
+thiết bị làm nhiễu ở đây.
+
+1185
+00:26:06,656 --> 00:26:09,023
+{\an1}No cell or Wi-Fi service.
+
+1186
+00:26:06,656 --> 00:26:09,023
+{\an1}Không di động hoặc dịch vụ Wi-Fi.
+
+1187
+00:26:09,025 --> 00:26:10,257
+{\an1}Uh, would you like
+to share
+
+1188
+00:26:09,025 --> 00:26:10,257
+{\an1}Uh, bạn muốn 
+để chia sẻ
+
+1189
+00:26:10,259 --> 00:26:11,959
+{\an1}with the rest
+of the class?
+
+1190
+00:26:10,259 --> 00:26:11,959
+{\an1}với phần còn lại 
+của lớp?
+
+1191
+00:26:11,961 --> 00:26:16,063
+{\an1}These monitors work
+just like TVs,
+
+1192
+00:26:11,961 --> 00:26:16,063
+{\an1}Những màn hình làm việc 
+giống như TV,
+
+1193
+00:26:16,065 --> 00:26:19,333
+{\an1}receiving broadcast
+signals on the 700 megahertz band.
+
+1194
+00:26:16,065 --> 00:26:19,333
+{\an1}nhận phát sóng 
+tín hiệu trên dải tần 700 MHz.
+
+1195
+00:26:19,335 --> 00:26:20,801
+{\an1}Um...
+
+1196
+00:26:19,335 --> 00:26:20,801
+{\an1}Um ...
+
+1197
+00:26:20,803 --> 00:26:22,202
+{\an1}I have a friend who's
+into this kind of stuff.
+
+1198
+00:26:20,803 --> 00:26:22,202
+{\an1}Tôi có một người bạn là 
+vào loại công cụ này.
+
+1199
+00:26:22,204 --> 00:26:23,871
+{\an1}Occasionally,
+I listen to her.
+
+1200
+00:26:22,204 --> 00:26:23,871
+{\an1}Thỉnh thoảng, 
+Tôi lắng nghe cô ấy.
+
+1201
+00:26:23,873 --> 00:26:26,240
+{\an1}If I can just switch
+the chipset
+
+1202
+00:26:23,873 --> 00:26:26,240
+{\an1}Nếu tôi chỉ có thể chuyển đổi 
+chipset
+
+1203
+00:26:26,242 --> 00:26:29,710
+{\an1}into transmitting mode,
+
+1204
+00:26:26,242 --> 00:26:29,710
+{\an1}vào chế độ truyền,
+
+1205
+00:26:29,712 --> 00:26:31,779
+{\an1}I should be able
+to contact my team.
+
+1206
+00:26:29,712 --> 00:26:31,779
+{\an1}Tôi sẽ có thể 
+để liên hệ với nhóm của tôi.
+
+1207
+00:26:31,781 --> 00:26:34,381
+{\an1}Oh, man. Lyla does not have time to
+wait on your team.
+
+1208
+00:26:31,781 --> 00:26:34,381
+{\an1}Trời ơi. Lyla không có thời gian để 
+chờ đợi trong nhóm của bạn.
+
+1209
+00:26:34,383 --> 00:26:35,816
+{\an1}We've got to
+do something.
+
+1210
+00:26:34,383 --> 00:26:35,816
+{\an1}Chúng tôi đã có tới 
+làm điều gì đó.
+
+1211
+00:26:35,818 --> 00:26:37,217
+{\an1}Yeah? Well, you're not
+doing anything, Andy.
+
+1212
+00:26:35,818 --> 00:26:37,217
+{\an1}Yeah? Vâng, bạn không 
+làm bất cứ điều gì, Andy.
+
+1213
+00:26:37,219 --> 00:26:38,652
+{\an1}Look, man. Your wife
+is in there!
+
+1214
+00:26:37,219 --> 00:26:38,652
+{\an1}Hãy nhìn xem, người đàn ông. Vợ của bạn 
+đang ở trong đó!
+
+1215
+00:26:38,654 --> 00:26:41,221
+{\an1}Now's not the time
+to not trust me.
+
+1216
+00:26:38,654 --> 00:26:41,221
+{\an1}Bây giờ không phải là thời gian 
+để không tin tưởng tôi.
+
+1217
+00:26:41,223 --> 00:26:43,390
+{\an1}Come on, come on,
+come on.
+
+1218
+00:26:41,223 --> 00:26:43,390
+{\an1}Come on, come on, 
+đi vào.
+
+1219
+00:26:50,166 --> 00:26:51,732
+{\an1}Son of a bitch.
+
+1220
+00:26:50,166 --> 00:26:51,732
+{\an1}Con trai của một chó cái.
+
+1221
+00:26:55,371 --> 00:26:56,704
+{\an1}- Hey.
+- You were just putting on
+
+1222
+00:26:55,371 --> 00:26:56,704
+{\an1}- Hey 
+-. Bạn đã được chỉ cần đặt vào
+
+1223
+00:26:56,706 --> 00:26:57,738
+{\an1}a little show
+for me, huh?
+
+1224
+00:26:56,706 --> 00:26:57,738
+{\an1}một chương trình nhỏ 
+cho tôi, huh?
+
+1225
+00:26:57,740 --> 00:26:58,872
+{\an1}Get your hands
+off me, man.
+
+1226
+00:26:57,740 --> 00:26:58,872
+{\an1}Có được bàn tay của bạn 
+ra khỏi người tôi, người đàn ông.
+
+1227
+00:26:58,874 --> 00:27:00,040
+{\an1}What's wrong with you?
+
+1228
+00:26:58,874 --> 00:27:00,040
+{\an1}Có chuyện gì với bạn vậy?
+
+1229
+00:27:00,042 --> 00:27:01,508
+{\an1}I see you buddying
+up with Joyner,
+
+1230
+00:27:00,042 --> 00:27:01,508
+{\an1}Tôi thấy bạn buddying 
+với Joyner,
+
+1231
+00:27:01,510 --> 00:27:02,743
+{\an1}talking to him,
+thick as thieves.
+
+1232
+00:27:01,510 --> 00:27:02,743
+{\an1}nói chuyện với anh ta, 
+dày như kẻ trộm.
+
+1233
+00:27:02,745 --> 00:27:04,011
+{\an1}Would you relax?
+
+1234
+00:27:02,745 --> 00:27:04,011
+{\an1}bạn sẽ thư giãn?
+
+1235
+00:27:04,013 --> 00:27:05,879
+{\an1}We were talking
+about Blackjack.
+
+1236
+00:27:04,013 --> 00:27:05,879
+{\an1}Chúng tôi đã nói 
+về Blackjack.
+
+1237
+00:27:05,881 --> 00:27:08,148
+{\an1}I was telling him about the card counting
+technique you taught me.
+
+1238
+00:27:05,881 --> 00:27:08,148
+{\an1}Tôi đã nói với anh ấy về việc đếm thẻ 
+kỹ thuật mà bạn đã dạy tôi.
+
+1239
+00:27:08,150 --> 00:27:10,217
+{\an1}- Really, Andy?
+- Yeah, really.
+
+1240
+00:27:08,150 --> 00:27:10,217
+{\an1}- Thực sự, Andy 
+- Vâng, thực sự.
+
+1241
+00:27:12,288 --> 00:27:14,822
+{\an1}Ok, man.
+
+1242
+00:27:12,288 --> 00:27:14,822
+{\an1}Ok, người đàn ông.
+
+1243
+00:27:14,824 --> 00:27:16,623
+{\an1}Because I can't have
+you backsliding, all right?
+
+1244
+00:27:14,824 --> 00:27:16,623
+{\an1}Bởi vì tôi không thể có 
+bạn đi thụt lùi, tất cả phải không?
+
+1245
+00:27:16,625 --> 00:27:19,493
+{\an1}Man, I agreed to go
+through this whole army thing,
+
+1246
+00:27:16,625 --> 00:27:19,493
+{\an1}Man, tôi đồng ý đi 
+thông qua điều này quân đội toàn bộ,
+
+1247
+00:27:19,495 --> 00:27:22,229
+{\an1}and I kept my end
+of the bargain.
+
+1248
+00:27:19,495 --> 00:27:22,229
+{\an1}và tôi giữ kết thúc của tôi 
+của món hời.
+
+1249
+00:27:22,231 --> 00:27:24,031
+{\an1}Now I need you
+to keep yours,
+
+1250
+00:27:22,231 --> 00:27:24,031
+{\an1}Bây giờ tôi cần bạn 
+để giữ cho bạn,
+
+1251
+00:27:24,033 --> 00:27:26,333
+{\an1}and I need you
+to start treating me like a brother
+
+1252
+00:27:24,033 --> 00:27:26,333
+{\an1}và tôi cần bạn 
+để bắt đầu đối xử với tôi như một người anh em
+
+1253
+00:27:26,335 --> 00:27:29,536
+{\an1}and not like
+a criminal.
+
+1254
+00:27:26,335 --> 00:27:29,536
+{\an1}và không thích 
+một tên tội phạm.
+
+1255
+00:27:29,538 --> 00:27:31,972
+{\an1}Ok.
+
+1256
+00:27:29,538 --> 00:27:31,972
+{\an1}Được.
+
+1257
+00:27:31,974 --> 00:27:33,874
+{\an1}I'm sorry.
+
+1258
+00:27:31,974 --> 00:27:33,874
+{\an1}Tôi xin lôi.
+
+1259
+00:27:33,876 --> 00:27:35,242
+{\an1}You're right.
+
+1260
+00:27:33,876 --> 00:27:35,242
+{\an1}Bạn đúng.
+
+1261
+00:27:37,013 --> 00:27:39,847
+{\an1}John, Shadowspire never made
+a move on the shipment,
+
+1262
+00:27:37,013 --> 00:27:39,847
+{\an1}John, Shadowspire không bao giờ thực hiện 
+một di chuyển trên các lô hàng,
+
+1263
+00:27:39,849 --> 00:27:41,715
+{\an1}so whatever their
+next move is, it--
+
+1264
+00:27:39,849 --> 00:27:41,715
+{\an1}vì vậy bất cứ của họ 
+di chuyển tiếp theo là, it--
+
+1265
+00:27:41,717 --> 00:27:43,884
+{\an1}it's not railguns.
+
+1266
+00:27:41,717 --> 00:27:43,884
+{\an1}nó không phải railguns.
+
+1267
+00:27:43,886 --> 00:27:47,654
+{\an1}Just call me when you get
+something new from your brother.
+
+1268
+00:27:43,886 --> 00:27:47,654
+{\an1}Chỉ cần gọi cho tôi khi bạn có 
+một cái gì đó mới từ anh trai của bạn.
+
+1269
+00:27:47,656 --> 00:27:49,056
+{\an1}All right.
+
+1270
+00:27:47,656 --> 00:27:49,056
+{\an1}Được rồi.
+
+1271
+00:27:50,893 --> 00:27:52,259
+{\an1}Ahh.
+
+1272
+00:27:50,893 --> 00:27:52,259
+{\an1}Ahh.
+
+1273
+00:27:52,261 --> 00:27:55,562
+{\an1}I am so glad our new lair has
+elevator access.
+
+1274
+00:27:52,261 --> 00:27:55,562
+{\an1}Tôi rất vui mừng hang ổ mới của chúng tôi có 
+truy cập thang máy.
+
+1275
+00:27:55,564 --> 00:27:57,064
+{\an1}Hi.
+
+1276
+00:27:55,564 --> 00:27:57,064
+{\an1}Chào.
+
+1277
+00:27:57,066 --> 00:27:59,900
+{\an1}Curtis has anointed
+himself my personal chauffeur.
+
+1278
+00:27:57,066 --> 00:27:59,900
+{\an1}Curtis đã xức dầu 
+mình tài xế cá nhân của tôi.
+
+1279
+00:27:59,902 --> 00:28:02,036
+{\an1}Fancy. It's a good
+thing he didn't ask
+
+1280
+00:27:59,902 --> 00:28:02,036
+{\an1}Fancy. Đó là một 
+điều tốt ông đã không hỏi
+
+1281
+00:28:02,038 --> 00:28:03,804
+{\an1}too many questions
+about coming to your campaign office
+
+1282
+00:28:02,038 --> 00:28:03,804
+{\an1}quá nhiều câu hỏi 
+về đến văn phòng chiến dịch của bạn
+
+1283
+00:28:03,806 --> 00:28:05,706
+{\an1}in the middle
+of the night.
+
+1284
+00:28:03,806 --> 00:28:05,706
+{\an1}ở giữa 
+đêm.
+
+1285
+00:28:05,708 --> 00:28:07,775
+{\an1}What are you
+doing here?
+
+1286
+00:28:05,708 --> 00:28:07,775
+{\an1}được bạn 
+làm gì ở đây?
+
+1287
+00:28:07,777 --> 00:28:11,645
+{\an1}Well, I was at home,
+
+1288
+00:28:07,777 --> 00:28:11,645
+{\an1}Vâng, tôi đã ở nhà,
+
+1289
+00:28:11,647 --> 00:28:13,781
+{\an1}feeling more
+self-pity
+
+1290
+00:28:11,647 --> 00:28:13,781
+{\an1}cảm hơn 
+tự thương hại
+
+1291
+00:28:13,783 --> 00:28:17,951
+{\an1}than I have in my entire life
+when it hit me.
+
+1292
+00:28:13,783 --> 00:28:17,951
+{\an1}hơn tôi có trong toàn bộ cuộc sống của tôi 
+khi nó đánh tôi.
+
+1293
+00:28:17,953 --> 00:28:20,087
+{\an1}This is who I am.
+
+1294
+00:28:17,953 --> 00:28:20,087
+{\an1}Đây là chính tôi.
+
+1295
+00:28:20,089 --> 00:28:21,822
+{\an1}I wanted to come
+along on your
+
+1296
+00:28:20,089 --> 00:28:21,822
+{\an1}Tôi muốn đến 
+cùng trên của bạn
+
+1297
+00:28:21,824 --> 00:28:23,991
+{\an1}awesome superhero
+adventure
+
+1298
+00:28:21,824 --> 00:28:23,991
+{\an1}tuyệt vời siêu anh hùng 
+cuộc phiêu lưu
+
+1299
+00:28:23,993 --> 00:28:27,061
+{\an1}because I wanted to
+help people,
+
+1300
+00:28:23,993 --> 00:28:27,061
+{\an1}vì tôi muốn 
+giúp mọi người,
+
+1301
+00:28:27,063 --> 00:28:30,964
+{\an1}and the old me
+was so angry at the world,
+
+1302
+00:28:27,063 --> 00:28:30,964
+{\an1}và tuổi tôi 
+đã rất tức giận thế giới,
+
+1303
+00:28:30,966 --> 00:28:34,501
+{\an1}but that anger
+never accomplished anything.
+
+1304
+00:28:30,966 --> 00:28:34,501
+{\an1}nhưng sự tức giận đó 
+không bao giờ thực hiện bất cứ điều gì.
+
+1305
+00:28:34,503 --> 00:28:38,806
+{\an1}It just created
+more anger
+
+1306
+00:28:34,503 --> 00:28:38,806
+{\an1}Nó vừa tạo 
+hơn sự tức giận
+
+1307
+00:28:38,808 --> 00:28:43,077
+{\an1}and some seriously
+bad personal style choices.
+
+1308
+00:28:38,808 --> 00:28:43,077
+{\an1}và một số nghiêm trọng 
+xấu lựa chọn phong cách cá nhân.
+
+1309
+00:28:43,079 --> 00:28:46,713
+{\an1}I wanted to do
+some good in the world.
+
+1310
+00:28:43,079 --> 00:28:46,713
+{\an1}Tôi muốn làm 
+một số tốt nhất trên thế giới.
+
+1311
+00:28:46,715 --> 00:28:49,483
+{\an1}Hmm.
+
+1312
+00:28:46,715 --> 00:28:49,483
+{\an1}Hừm.
+
+1313
+00:28:49,485 --> 00:28:50,584
+{\an1}Ow.
+
+1314
+00:28:49,485 --> 00:28:50,584
+{\an1}Ow.
+
+1315
+00:28:50,586 --> 00:28:52,119
+{\an1}That was
+a good speech.
+
+1316
+00:28:50,586 --> 00:28:52,119
+{\an1}Đó là 
+một bài phát biểu tốt.
+
+1317
+00:28:52,121 --> 00:28:53,954
+{\an1}I thought you'd be
+a little more impressed.
+
+1318
+00:28:52,121 --> 00:28:53,954
+{\an1}Tôi nghĩ rằng bạn muốn được 
+ấn tượng hơn một chút.
+
+1319
+00:28:53,956 --> 00:28:56,290
+{\an1}It was a good speech,
+but--
+
+1320
+00:28:53,956 --> 00:28:56,290
+{\an1}Đó là một lời nói tốt, 
+nhưng--
+
+1321
+00:28:56,292 --> 00:28:58,659
+{\an1}- but--how did it go again?
+- Felicity.
+
+1322
+00:28:56,292 --> 00:28:58,659
+{\an1}- Nhưng - làm thế nào nó đi một lần nữa 
+- Felicity.
+
+1323
+00:28:58,661 --> 00:29:02,096
+{\an1}"If I know you"--
+and I do--
+
+1324
+00:28:58,661 --> 00:29:02,096
+{\an1}\
+
+1325
+00:29:02,098 --> 00:29:06,133
+{\an1}you're probably thinking
+what happened was your fault."
+
+1326
+00:29:02,098 --> 00:29:06,133
+{\an1}có lẽ bạn đang suy nghĩ 
+những gì đã xảy ra là do lỗi của bạn \
+
+1327
+00:29:06,135 --> 00:29:10,037
+{\an1}I'm here to tell
+you that it's not
+
+1328
+00:29:06,135 --> 00:29:10,037
+{\an1}Tôi ở đây để nói 
+bạn biết rằng nó không
+
+1329
+00:29:10,039 --> 00:29:12,639
+{\an1}and that it's
+not mine either.
+
+1330
+00:29:10,039 --> 00:29:12,639
+{\an1}và rằng nó 
+không khai thác hoặc.
+
+1331
+00:29:12,641 --> 00:29:13,974
+{\an1}It's the fault
+of only one man,
+
+1332
+00:29:12,641 --> 00:29:13,974
+{\an1}Đó là lỗi 
+chỉ có một người đàn ông,
+
+1333
+00:29:13,976 --> 00:29:15,175
+{\an1}and he has
+an extremely
+
+1334
+00:29:13,976 --> 00:29:15,175
+{\an1}và ông đã 
+một cực kỳ
+
+1335
+00:29:15,177 --> 00:29:17,377
+{\an1}on-the-nose
+and alliterative name.
+
+1336
+00:29:15,177 --> 00:29:17,377
+{\an1}on-the-mũi 
+và tên lặp âm.
+
+1337
+00:29:17,379 --> 00:29:18,512
+{\an1}Heh.
+
+1338
+00:29:17,379 --> 00:29:18,512
+{\an1}Heh.
+
+1339
+00:29:18,514 --> 00:29:21,014
+{\an1}And we're going to
+stop him,
+
+1340
+00:29:18,514 --> 00:29:21,014
+{\an1}Và chúng ta sẽ 
+ngăn chặn anh ta,
+
+1341
+00:29:21,016 --> 00:29:25,519
+{\an1}not out of guilt
+or vengeance, or regret.
+
+1342
+00:29:21,016 --> 00:29:25,519
+{\an1}không ra khỏi tội lỗi 
+hoặc trả thù, hay hối tiếc.
+
+1343
+00:29:25,521 --> 00:29:28,655
+{\an1}We are going to
+stop him because it's what we do.
+
+1344
+00:29:25,521 --> 00:29:28,655
+{\an1}Chúng tôi sẽ 
+ngăn chặn anh ta bởi vì đó là những gì chúng tôi làm.
+
+1345
+00:29:32,027 --> 00:29:33,894
+{\an1}That's who we are.
+
+1346
+00:29:32,027 --> 00:29:33,894
+{\an1}Đó là chúng ta là ai.
+
+1347
+00:29:36,499 --> 00:29:38,665
+{\an1}- That was a good speech.
+- Yeah.
+
+1348
+00:29:36,499 --> 00:29:38,665
+{\an1}- Đó là một bài phát biểu tốt 
+-. Yeah.
+
+1349
+00:29:38,667 --> 00:29:41,568
+{\an1}I'm very happy
+to hear it.
+
+1350
+00:29:38,667 --> 00:29:41,568
+{\an1}Tôi rất hạnh phúc 
+để nghe nó.
+
+1351
+00:29:47,543 --> 00:29:50,177
+{\an1}Uh, we're gonna need
+to get some ramps.
+
+1352
+00:29:47,543 --> 00:29:50,177
+{\an1}Uh, chúng ta sẽ cần 
+để có được một số đường dốc.
+
+1353
+00:29:53,582 --> 00:29:56,316
+{\an1}Argus has been
+compromised,
+
+1354
+00:29:53,582 --> 00:29:56,316
+{\an1}Argus đã được 
+tổn hại,
+
+1355
+00:29:56,318 --> 00:29:59,586
+{\an1}and Lyla's being
+held hostage.
+
+1356
+00:29:56,318 --> 00:29:59,586
+{\an1}và Lyla là 
+giữ làm con tin.
+
+1357
+00:29:59,588 --> 00:30:02,723
+{\an1}I found this
+in your office.
+
+1358
+00:29:59,588 --> 00:30:02,723
+{\an1}Tôi thấy điều này 
+trong văn phòng của bạn.
+
+1359
+00:30:02,725 --> 00:30:04,291
+{\an1}Hope you don't mind.
+
+1360
+00:30:02,725 --> 00:30:04,291
+{\an1}Hy vọng bạn không nhớ.
+
+1361
+00:30:06,195 --> 00:30:08,729
+{\an1}Lieutenant, we picked up an
+unauthorized comm
+
+1362
+00:30:06,195 --> 00:30:08,729
+{\an1}Trung úy, chúng tôi chọn một 
+comm trái phép
+
+1363
+00:30:08,731 --> 00:30:10,664
+{\an1}out of the detention
+area.
+
+1364
+00:30:08,731 --> 00:30:10,664
+{\an1}ra khỏi 
+khu vực giam giữ.
+
+1365
+00:30:10,666 --> 00:30:12,699
+{\an1}Take someone
+and look into it.
+
+1366
+00:30:10,666 --> 00:30:12,699
+{\an1}Mất một ai đó 
+và nhìn vào nó.
+
+1367
+00:30:19,041 --> 00:30:20,641
+{\an1}Go on.
+
+1368
+00:30:19,041 --> 00:30:20,641
+{\an1}Tiếp tục.
+
+1369
+00:30:20,643 --> 00:30:24,011
+{\an1}You might not get
+the chance to enjoy it again.
+
+1370
+00:30:20,643 --> 00:30:24,011
+{\an1}Bạn có thể không nhận được 
+cơ hội để thưởng thức nó một lần nữa.
+
+1371
+00:30:24,013 --> 00:30:26,847
+{\an1}It's been
+20 minutes.
+
+1372
+00:30:24,013 --> 00:30:26,847
+{\an1}Đã 
+20 phút.
+
+1373
+00:30:26,849 --> 00:30:28,415
+{\an1}Am I gonna have to
+downsize your
+
+1374
+00:30:26,849 --> 00:30:28,415
+{\an1}Tôi sẽ phải 
+giảm bớt của bạn
+
+1375
+00:30:28,417 --> 00:30:30,417
+{\an1}organization
+yet again?
+
+1376
+00:30:28,417 --> 00:30:30,417
+{\an1}tổ chức 
+một lần nữa?
+
+1377
+00:30:30,419 --> 00:30:31,785
+{\an1}Apparently.
+
+1378
+00:30:30,419 --> 00:30:31,785
+{\an1}Rõ ràng.
+
+1379
+00:30:31,787 --> 00:30:34,087
+{\an1}Well, that's rather
+cold-blooded.
+
+1380
+00:30:31,787 --> 00:30:34,087
+{\an1}Vâng, đó là thay vì 
+máu lạnh.
+
+1381
+00:30:34,089 --> 00:30:37,457
+{\an1}You really don't know her that well
+at all, do you?
+
+1382
+00:30:34,089 --> 00:30:37,457
+{\an1}Bạn thực sự không biết cô ấy mà cũng 
+ở tất cả, phải không?
+
+1383
+00:30:37,459 --> 00:30:40,294
+{\an1}Ms. Michaels is one
+of my most trusted agents.
+
+1384
+00:30:37,459 --> 00:30:40,294
+{\an1}Bà Michaels là một 
+các đại lý đáng tin cậy nhất của tôi.
+
+1385
+00:30:40,296 --> 00:30:41,728
+{\an1}She knows better
+than anyone
+
+1386
+00:30:40,296 --> 00:30:41,728
+{\an1}Cô biết tốt hơn 
+hơn bất cứ ai
+
+1387
+00:30:41,730 --> 00:30:43,463
+{\an1}that I'm perfectly
+capable of watching you
+
+1388
+00:30:41,730 --> 00:30:43,463
+{\an1}rằng tôi hoàn toàn 
+có khả năng theo dõi bạn
+
+1389
+00:30:43,465 --> 00:30:46,600
+{\an1}execute every person
+in this room,
+
+1390
+00:30:43,465 --> 00:30:46,600
+{\an1}thực hiện mỗi người 
+trong căn phòng này,
+
+1391
+00:30:46,603 --> 00:30:50,238
+{\an1}and I'll still never give you
+the Rubicon access codes.
+
+1392
+00:30:46,603 --> 00:30:50,238
+{\an1}và tôi vẫn sẽ không bao giờ cung cấp cho bạn 
+các mã truy cập Rubicon.
+
+1393
+00:30:52,474 --> 00:30:55,542
+{\an1}Hmm.
+
+1394
+00:30:52,474 --> 00:30:55,542
+{\an1}Hừm.
+
+1395
+00:30:55,544 --> 00:30:59,179
+{\an1}Is that right,
+Ms. Michaels?
+
+1396
+00:30:55,544 --> 00:30:59,179
+{\an1}Có đúng vậy không, 
+Ms. Michaels?
+
+1397
+00:30:59,181 --> 00:31:00,981
+{\an1}It's right.
+
+1398
+00:30:59,181 --> 00:31:00,981
+{\an1}Đúng rồi.
+
+1399
+00:31:00,983 --> 00:31:02,382
+{\an1}It's why I left.
+
+1400
+00:31:00,983 --> 00:31:02,382
+{\an1}Đó là lý do tại sao tôi rời.
+
+1401
+00:31:02,384 --> 00:31:04,484
+{\an1}Amanda Waller doesn't make
+decisions based
+
+1402
+00:31:02,384 --> 00:31:04,484
+{\an1}Amanda Waller không làm 
+quyết định dựa
+
+1403
+00:31:04,486 --> 00:31:07,955
+{\an1}on the value
+of human life.
+
+1404
+00:31:04,486 --> 00:31:07,955
+{\an1}trên giá trị 
+của đời sống con người.
+
+1405
+00:31:07,957 --> 00:31:10,257
+{\an1}Pity.
+
+1406
+00:31:07,957 --> 00:31:10,257
+{\an1}Lòng thương hại.
+
+1407
+00:31:10,259 --> 00:31:11,658
+{\an1}No!
+
+1408
+00:31:10,259 --> 00:31:11,658
+{\an1}Không!
+
+1409
+00:31:15,464 --> 00:31:20,334
+{\an1}Well, Ms. Michaels,
+most trusted agent,
+
+1410
+00:31:15,464 --> 00:31:20,334
+{\an1}Vâng, đại lý Bà Michaels, 
+đáng tin cậy nhất,
+
+1411
+00:31:20,336 --> 00:31:22,669
+{\an1}looks like you now
+have 20 minutes.
+
+1412
+00:31:20,336 --> 00:31:22,669
+{\an1}có vẻ như bạn bây giờ 
+có 20 phút.
+
+1413
+00:31:27,810 --> 00:31:30,277
+{\an1}John.
+
+1414
+00:31:27,810 --> 00:31:30,277
+{\an1}John.
+
+1415
+00:31:30,279 --> 00:31:32,846
+{\an1}Oh, my God. No. No!
+
+1416
+00:31:30,279 --> 00:31:32,846
+{\an1}Ôi trời ơi. Không không!
+
+1417
+00:31:32,848 --> 00:31:34,514
+{\an1}John, John, John.
+
+1418
+00:31:32,848 --> 00:31:34,514
+{\an1}John, John, John.
+
+1419
+00:31:34,516 --> 00:31:37,851
+{\an1}John, please!
+He's gonna kill her.
+
+1420
+00:31:34,516 --> 00:31:37,851
+{\an1}John, xin vui lòng! [Escapcode_n] Anh ấy sẽ giết cô.
+
+1421
+00:31:37,853 --> 00:31:40,087
+{\an1}You can't afford not
+to trust me.
+
+1422
+00:31:37,853 --> 00:31:40,087
+{\an1}Bạn không thể không 
+tin tưởng tôi.
+
+1423
+00:31:50,983 --> 00:31:52,683
+{\an1}Overwatch, we're on site.
+
+1424
+00:31:50,983 --> 00:31:52,683
+{\an1}Overwatch, chúng tôi đang ở trên trang web.
+
+1425
+00:31:52,685 --> 00:31:53,917
+{\an1}Excuse me?
+
+1426
+00:31:52,685 --> 00:31:53,917
+{\an1}Xin lỗi?
+
+1427
+00:31:53,919 --> 00:31:55,118
+{\an1}Well, I thought that
+it was time
+
+1428
+00:31:53,919 --> 00:31:55,118
+{\an1}Vâng, tôi nghĩ rằng 
+nó đã được thời gian
+
+1429
+00:31:55,120 --> 00:31:56,286
+{\an1}you got a code name.
+
+1430
+00:31:55,120 --> 00:31:56,286
+{\an1}bạn có một tên mã.
+
+1431
+00:31:56,288 --> 00:31:57,788
+{\an1}- What do you think?
+- It's perfect.
+
+1432
+00:31:56,288 --> 00:31:57,788
+{\an1}- Bạn nghĩ gì 
+- Đó là hoàn hảo.
+
+1433
+00:31:57,790 --> 00:31:59,756
+{\an1}Was gonna go with Oracle,
+but it's taken.
+
+1434
+00:31:57,790 --> 00:31:59,756
+{\an1}Là sẽ đi với Oracle, 
+nhưng mất.
+
+1435
+00:31:59,758 --> 00:32:01,425
+{\an1}Shadowspire's
+got the entire area
+
+1436
+00:31:59,758 --> 00:32:01,425
+{\an1}[Escapcode_n] của Shadowspire có toàn bộ khu vực
+
+1437
+00:32:01,427 --> 00:32:02,759
+{\an1}around C&C in lockdown.
+
+1438
+00:32:01,427 --> 00:32:02,759
+{\an1}xung quanh C
+
+1439
+00:32:02,761 --> 00:32:04,761
+{\an1}You guys are the only
+game in town.
+
+1440
+00:32:02,761 --> 00:32:04,761
+{\an1}Các bạn là 
+trò chơi duy nhất trong thị trấn.
+
+1441
+00:32:04,763 --> 00:32:05,962
+{\an1}Can you get us
+inside?
+
+1442
+00:32:04,763 --> 00:32:05,962
+{\an1}Bạn có thể nhận được chúng tôi 
+bên trong?
+
+1443
+00:32:09,134 --> 00:32:11,334
+{\an1}Like that you mean?
+
+1444
+00:32:09,134 --> 00:32:11,334
+{\an1}Giống như bạn nghĩa là gì?
+
+1445
+00:32:17,142 --> 00:32:19,176
+{\an1}Well, it's about time
+you guys came looking.
+
+1446
+00:32:17,142 --> 00:32:19,176
+{\an1}Vâng, đó là khoảng thời gian 
+các bạn đến tìm.
+
+1447
+00:32:19,178 --> 00:32:20,744
+{\an1}Who the hell are
+you supposed to be?
+
+1448
+00:32:19,178 --> 00:32:20,744
+{\an1}Ai quái 
+bạn có nghĩa vụ phải được?
+
+1449
+00:32:20,746 --> 00:32:23,513
+{\an1}Sergeant Andrew Diggle,
+52nd regiment, 5th battalion.
+
+1450
+00:32:20,746 --> 00:32:23,513
+{\an1}Trung sĩ Andrew Diggle, 
+52 trung đoàn, tiểu đoàn thứ 5.
+
+1451
+00:32:23,515 --> 00:32:24,781
+{\an1}What are you doing
+locked up here?
+
+1452
+00:32:23,515 --> 00:32:24,781
+{\an1}Bạn đang làm gì 
+bị nhốt ở đây?
+
+1453
+00:32:24,783 --> 00:32:26,249
+{\an1}It's a long story,
+
+1454
+00:32:24,783 --> 00:32:26,249
+{\an1}Đó là một câu chuyện dài,
+
+1455
+00:32:26,251 --> 00:32:28,118
+{\an1}shorter version being
+my brother's a jerk.
+
+1456
+00:32:26,251 --> 00:32:28,118
+{\an1}phiên bản ngắn hơn được 
+anh trai tôi là một thằng ngốc.
+
+1457
+00:32:28,120 --> 00:32:30,787
+{\an1}Lucky for me, though,
+your CO and I go way back.
+
+1458
+00:32:28,120 --> 00:32:30,787
+{\an1}May mắn cho tôi, mặc dù, 
+CO của bạn và tôi đi theo con đường trở lại.
+
+1459
+00:32:30,789 --> 00:32:32,422
+{\an1}If you're serious
+about Lyla Michaels
+
+1460
+00:32:30,789 --> 00:32:32,422
+{\an1}Nếu bạn nghiêm túc 
+về Lyla Michaels
+
+1461
+00:32:32,425 --> 00:32:33,958
+{\an1}giving up
+the Rubicon codes,
+
+1462
+00:32:32,425 --> 00:32:33,958
+{\an1}từ bỏ 
+mã Rubicon,
+
+1463
+00:32:33,959 --> 00:32:36,259
+{\an1}you will get on the radio
+and tell Lieutenant Joyner
+
+1464
+00:32:33,959 --> 00:32:36,259
+{\an1}bạn sẽ nhận được trên các đài phát thanh 
+và nói với Trung Joyner
+
+1465
+00:32:36,261 --> 00:32:38,361
+{\an1}the guy that taught him
+how to count cards is here
+
+1466
+00:32:36,261 --> 00:32:38,361
+{\an1}các chàng mà dạy anh 
+làm thế nào để đếm thẻ là đây
+
+1467
+00:32:38,363 --> 00:32:41,164
+{\an1}and, uh, wants to
+help him out.
+
+1468
+00:32:38,363 --> 00:32:41,164
+{\an1}và, uh, muốn 
+giúp anh ta ra.
+
+1469
+00:32:50,476 --> 00:32:53,176
+{\an1}Andy Diggle? You look
+pretty good for a dead man.
+
+1470
+00:32:50,476 --> 00:32:53,176
+{\an1}Andy Diggle? Bạn trông 
+khá tốt cho một người đàn ông đã chết.
+
+1471
+00:32:53,178 --> 00:32:56,012
+{\an1}Here I thought
+I put on weight.
+
+1472
+00:32:53,178 --> 00:32:56,012
+{\an1}Ở đây tôi nghĩ 
+Tôi đã tăng cân.
+
+1473
+00:32:56,014 --> 00:32:57,481
+{\an1}What are you doing
+at Argus,
+
+1474
+00:32:56,014 --> 00:32:57,481
+{\an1}Bạn đang làm gì 
+tại Argus,
+
+1475
+00:32:57,483 --> 00:32:58,949
+{\an1}much less alive?
+
+1476
+00:32:57,483 --> 00:32:58,949
+{\an1}ít nhiều còn sống?
+
+1477
+00:32:58,951 --> 00:33:00,517
+{\an1}Amanda Waller
+brought me in
+
+1478
+00:32:58,951 --> 00:33:00,517
+{\an1}Amanda Waller 
+đưa tôi trong
+
+1479
+00:33:00,519 --> 00:33:02,185
+{\an1}because of my former association
+with you guys,
+
+1480
+00:33:00,519 --> 00:33:02,185
+{\an1}vì hội cũ của tôi 
+với các bạn,
+
+1481
+00:33:02,187 --> 00:33:05,722
+{\an1}but, uh, small
+world, though.
+
+1482
+00:33:02,187 --> 00:33:05,722
+{\an1}nhưng, uh, nhỏ 
+thế giới, mặc dù.
+
+1483
+00:33:05,724 --> 00:33:07,891
+{\an1}Your friend
+Ms. Michaels--
+
+1484
+00:33:05,724 --> 00:33:07,891
+{\an1}bạn của bạn 
+Ms. Michaels--
+
+1485
+00:33:07,893 --> 00:33:09,192
+{\an1}she's my
+sister-in-law.
+
+1486
+00:33:07,893 --> 00:33:09,192
+{\an1}cô ấy là của tôi 
+chị dâu.
+
+1487
+00:33:09,194 --> 00:33:10,327
+{\an1}- Andy.
+- Point being,
+
+1488
+00:33:09,194 --> 00:33:10,327
+{\an1}- Andy 
+-. Điểm này,
+
+1489
+00:33:10,329 --> 00:33:12,229
+{\an1}her husband is
+crawling around
+
+1490
+00:33:10,329 --> 00:33:12,229
+{\an1}Chồng cô là 
+bò xung quanh
+
+1491
+00:33:12,231 --> 00:33:14,364
+{\an1}these ventilation
+shafts right now.
+
+1492
+00:33:12,231 --> 00:33:14,364
+{\an1}các thông gió 
+trục ngay bây giờ.
+
+1493
+00:33:14,366 --> 00:33:16,500
+{\an1}If you put a gun
+on him,
+
+1494
+00:33:14,366 --> 00:33:16,500
+{\an1}Nếu bạn đặt một khẩu súng 
+anh,
+
+1495
+00:33:16,502 --> 00:33:18,335
+{\an1}she'll tell you whatever you
+need to know.
+
+1496
+00:33:16,502 --> 00:33:18,335
+{\an1}cô ấy sẽ cho bạn biết bất cứ điều gì bạn 
+cần phải biết.
+
+1497
+00:33:18,337 --> 00:33:19,436
+{\an1}You son of a--
+
+1498
+00:33:18,337 --> 00:33:19,436
+{\an1}Bạn trai của a--
+
+1499
+00:33:19,438 --> 00:33:21,972
+{\an1}Hey.
+
+1500
+00:33:19,438 --> 00:33:21,972
+{\an1}Ê.
+
+1501
+00:33:21,974 --> 00:33:23,240
+{\an1}Turning on your
+own brother.
+
+1502
+00:33:21,974 --> 00:33:23,240
+{\an1}Bật 
+anh trai mình.
+
+1503
+00:33:23,242 --> 00:33:24,641
+{\an1}That's ice-cold.
+
+1504
+00:33:23,242 --> 00:33:24,641
+{\an1}Đó là nước đá lạnh.
+
+1505
+00:33:24,643 --> 00:33:26,009
+{\an1}Well, you know
+better than most.
+
+1506
+00:33:24,643 --> 00:33:26,009
+{\an1}Vâng, bạn biết 
+tốt hơn so với hầu hết.
+
+1507
+00:33:26,011 --> 00:33:30,313
+{\an1}John and I never
+saw eye to eye.
+
+1508
+00:33:26,011 --> 00:33:30,313
+{\an1}John và tôi không bao giờ 
+thấy mắt đối mắt.
+
+1509
+00:33:30,315 --> 00:33:33,517
+{\an1}Gentlemen, check
+the facility's ventilation shafts.
+
+1510
+00:33:30,315 --> 00:33:33,517
+{\an1}Quý vị, kiểm tra 
+trục thông gió của nhà máy.
+
+1511
+00:33:36,955 --> 00:33:38,388
+{\an1}Overwatch?
+
+1512
+00:33:36,955 --> 00:33:38,388
+{\an1}Overwatch?
+
+1513
+00:33:38,390 --> 00:33:39,856
+{\an1}C&C, 3 floors down,
+northeast corner.
+
+1514
+00:33:38,390 --> 00:33:39,856
+{\an1}C
+
+1515
+00:33:39,858 --> 00:33:42,125
+{\an1}Well, give us
+a few minutes.
+
+1516
+00:33:39,858 --> 00:33:42,125
+{\an1}Vâng, cho chúng ta 
+một vài phút.
+
+1517
+00:34:06,485 --> 00:34:08,618
+{\an1}The other Diggle brother.
+
+1518
+00:34:06,485 --> 00:34:08,618
+{\an1}Người anh Diggle khác.
+
+1519
+00:34:08,620 --> 00:34:10,053
+{\an1}Isn't this quaint?
+
+1520
+00:34:08,620 --> 00:34:10,053
+{\an1}Đó không phải là kỳ lạ?
+
+1521
+00:34:10,055 --> 00:34:11,254
+{\an1}I get out of these cuffs,
+and you'll see how quaint
+
+1522
+00:34:10,055 --> 00:34:11,254
+{\an1}Tôi có được ra khỏi những chiếc còng, 
+và bạn sẽ thấy cách kỳ lạ
+
+1523
+00:34:11,256 --> 00:34:13,056
+{\an1}you think I can be.
+
+1524
+00:34:11,256 --> 00:34:13,056
+{\an1}bạn nghĩ rằng tôi có thể được.
+
+1525
+00:34:13,058 --> 00:34:14,958
+{\an1}It's a shame you can't be
+more like the little Diggle.
+
+1526
+00:34:13,058 --> 00:34:14,958
+{\an1}Đó là một sự xấu hổ bạn không thể được 
+giống như Diggle chút.
+
+1527
+00:34:14,960 --> 00:34:17,794
+{\an1}His pragmatism has proven
+to be quite the asset.
+
+1528
+00:34:14,960 --> 00:34:17,794
+{\an1}chủ nghĩa thực dụng của ông đã chứng minh 
+để được khá tài sản.
+
+1529
+00:34:17,796 --> 00:34:20,630
+{\an1}Now if your brother's right,
+you should be able
+
+1530
+00:34:17,796 --> 00:34:20,630
+{\an1}Bây giờ nếu quyền của anh trai, 
+bạn sẽ có thể
+
+1531
+00:34:20,632 --> 00:34:24,000
+{\an1}to convince your wife
+to give me
+
+1532
+00:34:20,632 --> 00:34:24,000
+{\an1}để thuyết phục vợ của bạn 
+để cho tôi
+
+1533
+00:34:24,002 --> 00:34:25,602
+{\an1}what I want.
+
+1534
+00:34:24,002 --> 00:34:25,602
+{\an1}những gì tôi muốn.
+
+1535
+00:34:25,605 --> 00:34:27,805
+{\an1}Johnnie, if Rubicon
+ever got out in the open--
+
+1536
+00:34:25,605 --> 00:34:27,805
+{\an1}Johnnie, nếu Rubicon 
+có bao giờ ra trong open--
+
+1537
+00:34:27,806 --> 00:34:30,140
+{\an1}Ms. Michaels,
+in 5 seconds,
+
+1538
+00:34:27,806 --> 00:34:30,140
+{\an1}Bà Michaels, 
+trong 5 giây,
+
+1539
+00:34:30,142 --> 00:34:32,976
+{\an1}it's your husband's brains
+that will be out in the open.
+
+1540
+00:34:30,142 --> 00:34:32,976
+{\an1}đó là bộ não của chồng bạn 
+sẽ được mở ra trong.
+
+1541
+00:34:32,978 --> 00:34:34,845
+{\an1}4...
+
+1542
+00:34:32,978 --> 00:34:34,845
+{\an1}4...
+
+1543
+00:34:34,847 --> 00:34:36,780
+{\an1}3...
+
+1544
+00:34:34,847 --> 00:34:36,780
+{\an1}3 ...
+
+1545
+00:34:36,782 --> 00:34:38,481
+{\an1}2...
+
+1546
+00:34:36,782 --> 00:34:38,481
+{\an1}2 ...
+
+1547
+00:34:38,483 --> 00:34:39,649
+{\an1}Do it.
+
+1548
+00:34:38,483 --> 00:34:39,649
+{\an1}Làm đi.
+
+1549
+00:34:39,651 --> 00:34:43,153
+{\an1}Do it, Lyla.
+
+1550
+00:34:39,651 --> 00:34:43,153
+{\an1}Do đó, Lyla.
+
+1551
+00:34:43,155 --> 00:34:44,621
+{\an1}It's all right.
+
+1552
+00:34:43,155 --> 00:34:44,621
+{\an1}Đó là tất cả các quyền.
+
+1553
+00:34:50,495 --> 00:34:52,429
+{\an1}Excellent.
+
+1554
+00:34:50,495 --> 00:34:52,429
+{\an1}Xuất sắc.
+
+1555
+00:34:52,431 --> 00:34:53,897
+{\an1}Unh!
+
+1556
+00:34:52,431 --> 00:34:53,897
+{\an1}Unh!
+
+1557
+00:34:53,899 --> 00:34:55,131
+{\an1}If you've run out
+of guys to punch,
+
+1558
+00:34:53,899 --> 00:34:55,131
+{\an1}Nếu bạn đã chạy ra khỏi 
+chàng trai để đấm,
+
+1559
+00:34:55,133 --> 00:34:56,299
+{\an1}Spartan needs an assist,
+
+1560
+00:34:55,133 --> 00:34:56,299
+{\an1}Spartan cần sự trợ giúp,
+
+1561
+00:34:56,301 --> 00:34:57,801
+{\an1}two assists actually.
+
+1562
+00:34:56,301 --> 00:34:57,801
+{\an1}hai hỗ trợ thực sự.
+
+1563
+00:34:57,803 --> 00:34:59,236
+{\an1}Tell us what to do.
+
+1564
+00:34:57,803 --> 00:34:59,236
+{\an1}Hãy cho chúng tôi biết phải làm gì.
+
+1565
+00:34:59,238 --> 00:35:00,904
+{\an1}Shadowspire's getting
+the access codes
+
+1566
+00:34:59,238 --> 00:35:00,904
+{\an1}nhận được 
+các mã truy cập của Shadowspire
+
+1567
+00:35:00,906 --> 00:35:02,339
+{\an1}for a secure vault
+in the sublevel.
+
+1568
+00:35:00,906 --> 00:35:02,339
+{\an1}cho một hầm an toàn 
+ở cấp phụ.
+
+1569
+00:35:02,341 --> 00:35:03,940
+{\an1}I'm trying to stop
+the codes from working,
+
+1570
+00:35:02,341 --> 00:35:03,940
+{\an1}Tôi đang cố gắng để ngăn chặn 
+mã số từ làm việc,
+
+1571
+00:35:03,942 --> 00:35:05,675
+{\an1}but I'm going to need
+Canary and Speedy
+
+1572
+00:35:03,942 --> 00:35:05,675
+{\an1}nhưng tôi sẽ cần 
+Canary và Speedy
+
+1573
+00:35:05,677 --> 00:35:07,244
+{\an1}as my insurance policies.
+
+1574
+00:35:05,677 --> 00:35:07,244
+{\an1}như chính sách bảo hiểm của tôi.
+
+1575
+00:35:09,882 --> 00:35:11,314
+{\an1}Where do you want me?
+
+1576
+00:35:09,882 --> 00:35:11,314
+{\an1}Nơi nào bạn muốn tôi?
+
+1577
+00:35:17,489 --> 00:35:19,456
+{\an1}This is taking
+too long.
+
+1578
+00:35:17,489 --> 00:35:19,456
+{\an1}Ðó là 
+quá lâu.
+
+1579
+00:35:19,458 --> 00:35:20,757
+{\an1}Something's wrong.
+
+1580
+00:35:19,458 --> 00:35:20,757
+{\an1}Một cái gì đó sai.
+
+1581
+00:35:20,759 --> 00:35:23,126
+{\an1}Someone's locking me
+out of the system.
+
+1582
+00:35:20,759 --> 00:35:23,126
+{\an1}Có người khóa tôi 
+ra khỏi hệ thống.
+
+1583
+00:35:27,799 --> 00:35:29,633
+{\an1}Go away.
+
+1584
+00:35:27,799 --> 00:35:29,633
+{\an1}Biến đi.
+
+1585
+00:35:29,635 --> 00:35:30,934
+{\an1}I'm not you anymore.
+
+1586
+00:35:29,635 --> 00:35:30,934
+{\an1}Tôi không phải là bạn nữa.
+
+1587
+00:35:30,936 --> 00:35:34,337
+{\an1}I haven't been
+for a long time.
+
+1588
+00:35:30,936 --> 00:35:34,337
+{\an1}Tôi đã không được 
+trong một thời gian dài.
+
+1589
+00:35:38,510 --> 00:35:39,709
+{\an1}I can't get in.
+
+1590
+00:35:38,510 --> 00:35:39,709
+{\an1}Tôi không thể có được trong.
+
+1591
+00:35:39,711 --> 00:35:41,144
+{\an1}I have all
+the right codes,
+
+1592
+00:35:39,711 --> 00:35:41,144
+{\an1}Tôi có tất cả 
+đúng mã số,
+
+1593
+00:35:41,146 --> 00:35:42,679
+{\an1}but someone on the outside
+is preventing me
+
+1594
+00:35:41,146 --> 00:35:42,679
+{\an1}nhưng một người nào đó ở bên ngoài 
+đang ngăn tôi
+
+1595
+00:35:42,681 --> 00:35:44,648
+{\an1}from entering
+the sublevel vault.
+
+1596
+00:35:42,681 --> 00:35:44,648
+{\an1}xâm nhập vào 
+hầm cấp phụ.
+
+1597
+00:35:44,650 --> 00:35:46,850
+{\an1}That's extremely
+unfortunate.
+
+1598
+00:35:44,650 --> 00:35:46,850
+{\an1}Đó là cực kỳ 
+không may.
+
+1599
+00:36:43,408 --> 00:36:46,142
+{\an1}- You ok?
+- Yeah.
+
+1600
+00:36:43,408 --> 00:36:46,142
+{\an1}- Bạn ok 
+- Ừ.
+
+1601
+00:36:46,144 --> 00:36:47,544
+{\an1}You ok?
+
+1602
+00:36:46,144 --> 00:36:47,544
+{\an1}Bạn ổn không?
+
+1603
+00:36:47,546 --> 00:36:48,745
+{\an1}Yeah, we're fine.
+
+1604
+00:36:47,546 --> 00:36:48,745
+{\an1}Vâng, chúng tôi đang sử dụng tốt.
+
+1605
+00:36:51,616 --> 00:36:52,983
+{\an1}Good job.
+
+1606
+00:36:51,616 --> 00:36:52,983
+{\an1}Làm tốt lắm.
+
+1607
+00:36:52,985 --> 00:36:54,384
+{\an1}It was like you said.
+
+1608
+00:36:52,985 --> 00:36:54,384
+{\an1}Nó giống như bạn nói.
+
+1609
+00:36:54,386 --> 00:36:56,786
+{\an1}It was the only way
+to get us both in here.
+
+1610
+00:36:54,386 --> 00:36:56,786
+{\an1}Đó là cách duy nhất 
+để có được cả hai chúng tôi ở đây.
+
+1611
+00:36:56,788 --> 00:36:58,355
+{\an1}Just remember whose
+idea this was.
+
+1612
+00:36:56,788 --> 00:36:58,355
+{\an1}Chỉ cần nhớ có ý tưởng 
+này.
+
+1613
+00:36:58,357 --> 00:36:59,389
+{\an1}Eh, what were you
+expecting,
+
+1614
+00:36:58,357 --> 00:36:59,389
+{\an1}Eh, những gì đã được bạn 
+mong đợi,
+
+1615
+00:36:59,391 --> 00:37:01,057
+{\an1}a kiss
+from the president?
+
+1616
+00:36:59,391 --> 00:37:01,057
+{\an1}một nụ hôn 
+từ tổng thống?
+
+1617
+00:37:08,650 --> 00:37:09,916
+{\an1}To Amanda Waller?
+
+1618
+00:37:08,650 --> 00:37:09,916
+{\an1}Để Amanda Waller?
+
+1619
+00:37:11,920 --> 00:37:14,220
+{\an1}To Amanda Waller.
+
+1620
+00:37:11,920 --> 00:37:14,220
+{\an1}Để Amanda Waller.
+
+1621
+00:37:14,222 --> 00:37:15,956
+{\an1}You remember
+that time that she tried
+
+1622
+00:37:14,222 --> 00:37:15,956
+{\an1}Bạn nhớ 
+thời gian mà cô đã cố gắng
+
+1623
+00:37:15,958 --> 00:37:20,293
+{\an1}to take down the city
+with a drone strike?
+
+1624
+00:37:15,958 --> 00:37:20,293
+{\an1}đi xuống thành phố 
+với một cú sút bay không người lái?
+
+1625
+00:37:20,295 --> 00:37:22,062
+{\an1}Good times.
+
+1626
+00:37:20,295 --> 00:37:22,062
+{\an1}Thời gian vui vẻ.
+
+1627
+00:37:22,064 --> 00:37:23,930
+{\an1}Hey. Thanks for
+the assist tonight.
+
+1628
+00:37:22,064 --> 00:37:23,930
+{\an1}Ê. Thanks for 
+trợ tối nay.
+
+1629
+00:37:23,932 --> 00:37:26,266
+{\an1}I'm just glad to be useful.
+
+1630
+00:37:23,932 --> 00:37:26,266
+{\an1}Tôi chỉ là vui mừng để có ích.
+
+1631
+00:37:26,268 --> 00:37:28,234
+{\an1}Good job jury-rigging
+the security system, though.
+
+1632
+00:37:26,268 --> 00:37:28,234
+{\an1}Tốt công việc giám khảo gian lận 
+hệ thống an ninh, mặc dù.
+
+1633
+00:37:28,236 --> 00:37:30,236
+{\an1}Just trying to make
+you proud, Felicity.
+
+1634
+00:37:28,236 --> 00:37:30,236
+{\an1}Chỉ cần cố gắng để làm cho 
+bạn tự hào, Felicity.
+
+1635
+00:37:30,238 --> 00:37:32,605
+{\an1}You did.
+
+1636
+00:37:30,238 --> 00:37:32,605
+{\an1}Bạn đã làm.
+
+1637
+00:37:32,607 --> 00:37:35,442
+{\an1}What are you
+gonna do about Andy?
+
+1638
+00:37:32,607 --> 00:37:35,442
+{\an1}Thế nào là bạn 
+sẽ làm gì về Andy?
+
+1639
+00:37:35,444 --> 00:37:37,243
+{\an1}Still haven't made
+a decision on that.
+
+1640
+00:37:35,444 --> 00:37:37,243
+{\an1}Vẫn chưa thực hiện 
+quyết định đó.
+
+1641
+00:37:37,245 --> 00:37:40,513
+{\an1}You mean, even though
+he just saved you life?
+
+1642
+00:37:37,245 --> 00:37:40,513
+{\an1}You mean, even though
+he just saved you life?
+
+1643
+00:37:40,515 --> 00:37:43,750
+{\an1}Yeah, well, you guys
+had a whole lot to do with that,
+
+1644
+00:37:40,515 --> 00:37:43,750
+{\an1}Yeah, well, các bạn 
+đã có một toàn bộ rất nhiều để làm với điều đó,
+
+1645
+00:37:43,752 --> 00:37:44,884
+{\an1}but you're right.
+
+1646
+00:37:43,752 --> 00:37:44,884
+{\an1}nhưng bạn nói đúng.
+
+1647
+00:37:44,886 --> 00:37:46,086
+{\an1}This is the first
+time in 8 years
+
+1648
+00:37:44,886 --> 00:37:46,086
+{\an1}Đây là lần đầu tiên 
+lần trong 8 năm
+
+1649
+00:37:46,088 --> 00:37:47,620
+{\an1}I've seen shades
+of my old brother.
+
+1650
+00:37:46,088 --> 00:37:47,620
+{\an1}Tôi đã nhìn thấy màu 
+của anh trai cũ của tôi.
+
+1651
+00:37:56,765 --> 00:37:58,465
+{\an1}You wanted to see
+me, sir?
+
+1652
+00:37:56,765 --> 00:37:58,465
+{\an1}Bạn muốn xem 
+tôi, thưa ông?
+
+1653
+00:38:05,207 --> 00:38:06,873
+{\an1}Already got my cut.
+
+1654
+00:38:05,207 --> 00:38:06,873
+{\an1}Đã có cắt của tôi.
+
+1655
+00:38:06,875 --> 00:38:09,743
+{\an1}Eh, it's a token of appreciation
+from the boss.
+
+1656
+00:38:06,875 --> 00:38:09,743
+{\an1}Eh, đó là một dấu hiệu của sự đánh giá cao 
+từ ông chủ.
+
+1657
+00:38:09,745 --> 00:38:12,379
+{\an1}Traded the opium
+for something else.
+
+1658
+00:38:09,745 --> 00:38:12,379
+{\an1}Giao dịch thuốc phiện 
+cho cái gì khác.
+
+1659
+00:38:12,381 --> 00:38:13,980
+{\an1}Like what?
+
+1660
+00:38:12,381 --> 00:38:13,980
+{\an1}Như thế nào?
+
+1661
+00:38:13,982 --> 00:38:16,816
+{\an1}Ask him yourself.
+
+1662
+00:38:13,982 --> 00:38:16,816
+{\an1}Hỏi anh ta chính mình.
+
+1663
+00:38:16,818 --> 00:38:19,419
+{\an1}Thank you for your
+assistance, Mr. Diggle.
+
+1664
+00:38:16,818 --> 00:38:19,419
+{\an1}Cảm ơn bạn 
+giúp đỡ của bạn, ông Diggle.
+
+1665
+00:38:19,421 --> 00:38:21,521
+{\an1}Lieutenant Joyner sings
+your praises.
+
+1666
+00:38:19,421 --> 00:38:21,521
+{\an1}Trung úy Joyner hát 
+ngợi của bạn.
+
+1667
+00:38:21,523 --> 00:38:22,689
+{\an1}Happy to help.
+
+1668
+00:38:21,523 --> 00:38:22,689
+{\an1}Vui vẻ giúp đỡ.
+
+1669
+00:38:22,691 --> 00:38:24,124
+{\an1}What did you get
+for the opium?
+
+1670
+00:38:22,691 --> 00:38:24,124
+{\an1}bạn đã có được những gì 
+cho thuốc phiện?
+
+1671
+00:38:24,126 --> 00:38:26,993
+{\an1}Legend speaks of a place
+of immeasurable power.
+
+1672
+00:38:24,126 --> 00:38:26,993
+{\an1}Truyền thuyết nói về một nơi 
+quyền lực vô biên.
+
+1673
+00:38:26,995 --> 00:38:29,329
+{\an1}Many have disappeared
+searching for it,
+
+1674
+00:38:26,995 --> 00:38:29,329
+{\an1}Nhiều người đã biến mất 
+tìm kiếm nó,
+
+1675
+00:38:29,331 --> 00:38:31,798
+{\an1}so much so that the locals
+simply refer to it
+
+1676
+00:38:29,331 --> 00:38:31,798
+{\an1}vì vậy mà người dân địa phương 
+chỉ đơn giản đề cập đến nó
+
+1677
+00:38:31,800 --> 00:38:34,300
+{\an1}by one word--
+
+1678
+00:38:31,800 --> 00:38:34,300
+{\an1}bởi một word--
+
+1679
+00:38:34,302 --> 00:38:35,802
+{\an1}Purgatory.
+
+1680
+00:38:34,302 --> 00:38:35,802
+{\an1}Luyện Ngục.
+
+1681
+00:38:40,342 --> 00:38:43,376
+{\an1}I thought we were
+totally unpacked.
+
+1682
+00:38:40,342 --> 00:38:43,376
+{\an1}Tôi nghĩ chúng tôi đã 
+hoàn toàn giải nén.
+
+1683
+00:38:43,378 --> 00:38:44,978
+{\an1}Just humor me.
+
+1684
+00:38:43,378 --> 00:38:44,978
+{\an1}Chỉ cần hài hước tôi.
+
+1685
+00:38:44,980 --> 00:38:47,313
+{\an1}Ahem. What am I
+getting?
+
+1686
+00:38:44,980 --> 00:38:47,313
+{\an1}E hèm. Tôi 
+nhận được những gì?
+
+1687
+00:38:47,315 --> 00:38:49,816
+{\an1}Ah, yes.
+The white box.
+
+1688
+00:38:47,315 --> 00:38:49,816
+{\an1}Ah, vâng. [Escapcode_n] Hộp màu trắng.
+
+1689
+00:38:49,818 --> 00:38:52,118
+{\an1}Yeah, yeah, yeah.
+Yeah, yeah.
+
+1690
+00:38:49,818 --> 00:38:52,118
+{\an1}Yeah, yeah, yeah. [Escapcode_n] Yeah, yeah.
+
+1691
+00:38:55,257 --> 00:38:59,225
+{\an1}Ahh. You ready?
+
+1692
+00:38:55,257 --> 00:38:59,225
+{\an1}Ahh. Bạn sẵn sàng chưa?
+
+1693
+00:38:59,227 --> 00:39:01,294
+{\an1}Wow!
+
+1694
+00:38:59,227 --> 00:39:01,294
+{\an1}Wow!
+
+1695
+00:39:01,296 --> 00:39:02,862
+{\an1}When you said that
+you made some
+
+1696
+00:39:01,296 --> 00:39:02,862
+{\an1}Khi bạn nói rằng 
+bạn đã thực hiện một số
+
+1697
+00:39:02,864 --> 00:39:04,831
+{\an1}bad personal style
+choices,
+
+1698
+00:39:02,864 --> 00:39:04,831
+{\an1}phong cách cá nhân xấu 
+sự lựa chọn,
+
+1699
+00:39:04,833 --> 00:39:06,166
+{\an1}you weren't kidding.
+
+1700
+00:39:04,833 --> 00:39:06,166
+{\an1}bạn đã không đùa.
+
+1701
+00:39:06,168 --> 00:39:08,735
+{\an1}This is the old me,
+
+1702
+00:39:06,168 --> 00:39:08,735
+{\an1}Đây là tôi cũ,
+
+1703
+00:39:08,737 --> 00:39:10,503
+{\an1}a rebellious
+brunette hacker
+
+1704
+00:39:08,737 --> 00:39:10,503
+{\an1}một nổi loạn 
+brunette của hacker
+
+1705
+00:39:10,505 --> 00:39:12,906
+{\an1}who didn't listen to anyone
+else's rules but her own.
+
+1706
+00:39:10,505 --> 00:39:12,906
+{\an1}người không lắng nghe bất cứ ai 
+quy tắc của người khác nhưng riêng cô.
+
+1707
+00:39:12,908 --> 00:39:14,707
+{\an1}You're not that
+person anymore?
+
+1708
+00:39:12,908 --> 00:39:14,707
+{\an1}Bạn không phải là 
+người nữa?
+
+1709
+00:39:14,709 --> 00:39:16,309
+{\an1}Nope.
+
+1710
+00:39:14,709 --> 00:39:16,309
+{\an1}Nope.
+
+1711
+00:39:16,311 --> 00:39:19,412
+{\an1}What you did
+last night was amazing.
+
+1712
+00:39:16,311 --> 00:39:19,412
+{\an1}Những gì bạn đã làm 
+đêm qua là tuyệt vời.
+
+1713
+00:39:19,414 --> 00:39:22,215
+{\an1}- I was really badass.
+- Yeah.
+
+1714
+00:39:19,414 --> 00:39:22,215
+{\an1}- Tôi đã thực sự Badass 
+-. Yeah.
+
+1715
+00:39:22,217 --> 00:39:23,716
+{\an1}Though the old me
+probably would have stolen
+
+1716
+00:39:22,217 --> 00:39:23,716
+{\an1}Mặc dù tuổi tôi 
+có lẽ đã bị đánh cắp
+
+1717
+00:39:23,719 --> 00:39:25,252
+{\an1}the plans for Rubicon
+and released them
+
+1718
+00:39:23,719 --> 00:39:25,252
+{\an1}kế hoạch cho Rubicon 
+và thả chúng
+
+1719
+00:39:25,253 --> 00:39:26,753
+{\an1}as some sort
+of political statement.
+
+1720
+00:39:25,253 --> 00:39:26,753
+{\an1}như một số loại 
+của tuyên bố chính trị.
+
+1721
+00:39:26,755 --> 00:39:29,022
+{\an1}The old me would have
+snapped Joyner's neck.
+
+1722
+00:39:26,755 --> 00:39:29,022
+{\an1}Tuổi tôi sẽ có 
+gãy cổ Joyner của.
+
+1723
+00:39:29,024 --> 00:39:30,390
+{\an1}Yeah.
+
+1724
+00:39:29,024 --> 00:39:30,390
+{\an1}Yeah.
+
+1725
+00:39:30,392 --> 00:39:32,525
+{\an1}We've both grown.
+
+1726
+00:39:30,392 --> 00:39:32,525
+{\an1}Chúng tôi đã phát triển cả.
+
+1727
+00:39:32,527 --> 00:39:34,828
+{\an1}Thank you for always
+being on my side.
+
+1728
+00:39:32,527 --> 00:39:34,828
+{\an1}Cảm ơn các bạn đã luôn 
+đang đứng về phía tôi.
+
+1729
+00:39:34,830 --> 00:39:36,930
+{\an1}No place I'd
+rather be.
+
+1730
+00:39:34,830 --> 00:39:36,930
+{\an1}Không có nơi nào tôi muốn 
+thay được.
+
+1731
+00:39:39,067 --> 00:39:42,936
+{\an1}Hand me that garbage can
+and this lighter.
+
+1732
+00:39:39,067 --> 00:39:42,936
+{\an1}Hãy trao cho tôi rằng thùng rác 
+và nhẹ này.
+
+1733
+00:39:45,841 --> 00:39:48,441
+{\an1}Ahem. How much
+medication are you on?
+
+1734
+00:39:45,841 --> 00:39:48,441
+{\an1}E hèm. Làm thế nào nhiều 
+thuốc là bạn không?
+
+1735
+00:39:48,443 --> 00:39:49,776
+{\an1}Absolutely none.
+
+1736
+00:39:48,443 --> 00:39:49,776
+{\an1}Tuyệt đối không có.
+
+1737
+00:39:49,778 --> 00:39:51,177
+{\an1}Ok.
+
+1738
+00:39:49,778 --> 00:39:51,177
+{\an1}Được.
+
+1739
+00:39:53,515 --> 00:39:56,850
+{\an1}Just want to make sure
+that my past stays the past, you know?
+
+1740
+00:39:53,515 --> 00:39:56,850
+{\an1}Chỉ muốn chắc chắn 
+rằng quá khứ của tôi vẫn ở đây, bạn biết không?
+
+1741
+00:40:01,923 --> 00:40:03,690
+{\an1}Wha-pa!
+
+1742
+00:40:01,923 --> 00:40:03,690
+{\an1}Wha-pa!
+
+1743
+00:40:03,692 --> 00:40:06,759
+{\an1}One more thing
+from me.
+
+1744
+00:40:03,692 --> 00:40:06,759
+{\an1}Một điều nữa 
+từ tôi.
+
+1745
+00:40:06,761 --> 00:40:11,364
+{\an1}The doctor said your
+condition is permanent,
+
+1746
+00:40:06,761 --> 00:40:11,364
+{\an1}Các bác sĩ cho biết 
+tình trạng của bạn là vĩnh viễn,
+
+1747
+00:40:11,366 --> 00:40:14,267
+{\an1}and I don't think
+that it's healthy
+
+1748
+00:40:11,366 --> 00:40:14,267
+{\an1}và tôi không nghĩ rằng 
+mà nó khỏe mạnh
+
+1749
+00:40:14,269 --> 00:40:17,237
+{\an1}or productive
+for either of us
+
+1750
+00:40:14,269 --> 00:40:17,237
+{\an1}hoặc sản xuất 
+cho hai chúng tôi
+
+1751
+00:40:17,239 --> 00:40:22,208
+{\an1}to live in denial,
+
+1752
+00:40:17,239 --> 00:40:22,208
+{\an1}sống trong sự phủ nhận,
+
+1753
+00:40:22,210 --> 00:40:23,829
+{\an1}but...
+
+1754
+00:40:22,210 --> 00:40:23,829
+{\an1}nhưng...
+
+1755
+00:40:24,599 --> 00:40:29,701
+{\an1}I have seen people
+speed and shrink and fly.
+
+1756
+00:40:24,599 --> 00:40:29,701
+{\an1}Tôi đã thấy mọi người 
+tốc độ và co lại và bay.
+
+1757
+00:40:31,119 --> 00:40:34,120
+{\an1}We watched a friend
+of ours come back from the dead.
+
+1758
+00:40:31,119 --> 00:40:34,120
+{\an1}Chúng tôi đã xem một người bạn 
+của chúng ta trở lại từ cõi chết.
+
+1759
+00:40:34,122 --> 00:40:38,424
+{\an1}That is the world
+we live in now...
+
+1760
+00:40:34,122 --> 00:40:38,424
+{\an1}Đó là thế giới 
+chúng ta sống bây giờ ...
+
+1761
+00:40:41,263 --> 00:40:44,831
+{\an1}And I will not stop
+searching it
+
+1762
+00:40:41,263 --> 00:40:44,831
+{\an1}Và tôi sẽ không dừng lại 
+tìm kiếm nó
+
+1763
+00:40:44,833 --> 00:40:47,800
+{\an1}until we find a way
+to make you walk again.
+
+1764
+00:40:44,833 --> 00:40:47,800
+{\an1}cho đến khi chúng tôi tìm thấy một cách 
+để làm cho bạn đi lại được nữa.
+
+1765
+00:40:52,974 --> 00:40:54,440
+{\an1}Hey.
+
+1766
+00:40:52,974 --> 00:40:54,440
+{\an1}Ê.
+
+1767
+00:40:54,442 --> 00:40:56,276
+{\an1}Are you sure about this?
+Because I'm not.
+
+1768
+00:40:54,442 --> 00:40:56,276
+{\an1}Bạn có chắc chắn về điều này? [Escapcode_n] Bởi vì tôi không.
+
+1769
+00:40:56,278 --> 00:40:58,244
+{\an1}Better than being
+in that cage, right?
+
+1770
+00:40:56,278 --> 00:40:58,244
+{\an1}Tốt hơn là 
+trong lồng mà, phải không?
+
+1771
+00:40:58,246 --> 00:41:00,413
+{\an1}You might want to wait outside.
+I have it from here.
+
+1772
+00:40:58,246 --> 00:41:00,413
+{\an1}Bạn có thể muốn chờ bên ngoài. [Escapcode_n] Tôi có nó từ đây.
+
+1773
+00:41:02,918 --> 00:41:04,884
+{\an1}Make yourself
+comfortable.
+
+1774
+00:41:02,918 --> 00:41:04,884
+{\an1}Làm cho mình 
+thoải mái.
+
+1775
+00:41:04,886 --> 00:41:07,220
+{\an1}Lyla's cooking something.
+
+1776
+00:41:04,886 --> 00:41:07,220
+{\an1}Lyla của một cái gì đó nấu ăn.
+
+1777
+00:41:07,222 --> 00:41:08,955
+{\an1}Hey.
+
+1778
+00:41:07,222 --> 00:41:08,955
+{\an1}Ê.
+
+1779
+00:41:08,957 --> 00:41:10,356
+{\an1}If this is about
+reconnecting
+
+1780
+00:41:08,957 --> 00:41:10,356
+{\an1}Nếu đây là khoảng 
+kết nối lại
+
+1781
+00:41:10,358 --> 00:41:14,494
+{\an1}with Carly and Andy,
+as well, I, um...
+
+1782
+00:41:10,358 --> 00:41:14,494
+{\an1}với Carly và Andy, 
+là tốt, tôi, ừm ...
+
+1783
+00:41:14,496 --> 00:41:15,828
+{\an1}I get it, Andy.
+
+1784
+00:41:14,496 --> 00:41:15,828
+{\an1}Tôi có được nó, Andy.
+
+1785
+00:41:15,830 --> 00:41:18,698
+{\an1}Step by step, right?
+
+1786
+00:41:15,830 --> 00:41:18,698
+{\an1}Từng bước, phải không?
+
+1787
+00:41:18,700 --> 00:41:19,966
+{\an1}Andy.
+
+1788
+00:41:18,700 --> 00:41:19,966
+{\an1}Andy.
+
+1789
+00:41:19,968 --> 00:41:21,634
+{\an1}Hey.
+
+1790
+00:41:19,968 --> 00:41:21,634
+{\an1}Ê.
+
+1791
+00:41:21,636 --> 00:41:23,136
+{\an1}I'm making pork roast.
+
+1792
+00:41:21,636 --> 00:41:23,136
+{\an1}Tôi đang làm cho thịt lợn nướng.
+
+1793
+00:41:23,138 --> 00:41:24,470
+{\an1}Johnnie said it's
+your favorite.
+
+1794
+00:41:23,138 --> 00:41:24,470
+{\an1}Johnnie nói nó 
+yêu thích của bạn.
+
+1795
+00:41:24,472 --> 00:41:26,072
+{\an1}Yeah, yeah, it is.
+
+1796
+00:41:24,472 --> 00:41:26,072
+{\an1}Yeah, yeah, nó là.
+
+1797
+00:41:26,074 --> 00:41:27,473
+{\an1}I got another
+surprise for you, man.
+
+1798
+00:41:26,074 --> 00:41:27,473
+{\an1}Tôi có một 
+bất ngờ cho bạn, người đàn ông.
+
+1799
+00:41:27,475 --> 00:41:29,642
+{\an1}Just a second.
+
+1800
+00:41:27,475 --> 00:41:29,642
+{\an1}Chỉ một giây thôi.
+
+1801
+00:41:29,644 --> 00:41:30,710
+{\an1}Hey, Lyla. I, uh--
+
+1802
+00:41:29,644 --> 00:41:30,710
+{\an1}Hey, Lyla. I, uh--
+
+1803
+00:41:30,712 --> 00:41:32,845
+{\an1}not a word.
+
+1804
+00:41:30,712 --> 00:41:32,845
+{\an1}không phải là một từ.
+
+1805
+00:41:32,847 --> 00:41:34,180
+{\an1}John and I both
+agreed to this.
+
+1806
+00:41:32,847 --> 00:41:34,180
+{\an1}John và tôi cả hai 
+đồng ý điều này.
+
+1807
+00:41:34,182 --> 00:41:36,282
+{\an1}She's excited
+to meet you.
+
+1808
+00:41:34,182 --> 00:41:36,282
+{\an1}Cô hào hứng 
+để gặp bạn.
+
+1809
+00:41:38,353 --> 00:41:41,321
+{\an1}This is
+your niece...
+
+1810
+00:41:38,353 --> 00:41:41,321
+{\an1}Đây là 
+cháu gái của bạn ...
+
+1811
+00:41:41,323 --> 00:41:43,156
+{\an1}- Hey.
+- Sara...
+
+1812
+00:41:41,323 --> 00:41:43,156
+{\an1}- Hey 
+-. Sara ...
+
+1813
+00:41:43,158 --> 00:41:44,991
+{\an1}And that's your
+uncle Andy.
+
+1814
+00:41:43,158 --> 00:41:44,991
+{\an1}Và đó là của bạn 
+chú Andy.
+
+1815
+00:41:44,993 --> 00:41:46,159
+{\an1}Andy.
+
+1816
+00:41:44,993 --> 00:41:46,159
+{\an1}Andy.
+
+1817
+00:41:46,161 --> 00:41:48,428
+{\an1}Yeah.
+
+1818
+00:41:46,161 --> 00:41:48,428
+{\an1}Yeah.
+
+1819
+00:41:48,430 --> 00:41:51,731
+{\an1}She's got mom's eyes.
+
+1820
+00:41:48,430 --> 00:41:51,731
+{\an1}Cô ấy có đôi mắt của mẹ.
+
+1821
+00:41:51,733 --> 00:41:53,099
+{\an1}Welcome home, man.
+
+1822
+00:41:51,733 --> 00:41:53,099
+{\an1}nhà Chào mừng, người đàn ông.
+
+1823
+00:41:53,123 --> 00:41:59,623
+{\an1}== sync, corrected by <font color=#00FF00>elderman</font> ==
+<font color=#00FFFF>@elder_man</font>
+
+1824
+00:41:53,123 --> 00:41:59,623
+{\an1}== Đồng bộ, điều chỉnh bằng cách elderman == 
+elder_man
+
+1825
+00:42:19,521 --> 00:42:21,521
+{\an1}Greg!
+Move your head.
+
+1826
+00:42:19,521 --> 00:42:21,521
+{\an1}Greg! [Escapcode_n] Di chuyển đầu của bạn.
+
