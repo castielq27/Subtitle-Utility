@@ -55,6 +55,11 @@ public class Timer {
         this.eHour = this.eMin = "00";
         this.eSec = "00,000";
     }
+    /**
+     * 
+     * @param t String timer theo định dạng trong subtitle "00:00:02,276 --> 00:00:04,224"
+     * @throws java.io.IOException 
+     */
     public Timer(String t) throws java.io.IOException {
         if ( Timer.kiemtra(t) )
         {

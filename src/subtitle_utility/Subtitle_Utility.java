@@ -5,7 +5,7 @@
  */
 package subtitle_utility;
 
-import form1.Form;
+import form1.View;
 
 /**
  *
@@ -17,7 +17,7 @@ public class Subtitle_Utility {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        new Form().setVisible(true);
+        new View().setVisible(true);
     }
     
 }

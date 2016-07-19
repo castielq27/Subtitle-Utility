@@ -5,7 +5,9 @@
  */
 package googletranslate;
 
+import com.sun.istack.internal.logging.Logger;
 import httprequest.httprequest;
+import java.util.Random;
 import java.util.regex.Matcher;
 
 /**
@@ -18,6 +20,8 @@ public class GoogleTranslate {
      * Ngon ngu nguon en = english
      */
     private String source_lang = null ;
+    public final static String[] lang_code = { "af", "sq", "ar", "az", "eu", "bn", "be", "bg", "ca", "zh-CN", "zh-TW", "hr", "cs", "da", "nl", "en", "eo", "et", "tl", "fi", "fr", "gl", "ka", "de", "el", "gu", "ht", "iw", "hi", "hu", "is", "id", "ga", "it", "ja", "kn", "ko", "la", "lv", "lt", "mk", "ms", "mt", "no", "fa", "pl", "pt", "ro", "ru", "sr", "sk", "sl", "es", "sw", "sv", "ta", "te", "th", "tr", "uk", "ur", "vi", "cy", "yi" };
+    public final static String[] lang_label = { "Afrikaans", "Albanian", "Arabic", "Azerbaijani", "Basque", "Bengali", "Belarusian", "Bulgarian", "Catalan", "Chinese Simplified", "Chinese Traditional", "Croatian", "Czech", "Danish", "Dutch", "English", "Esperanto", "Estonian", "Filipino", "Finnish", "French", "Galician", "Georgian", "German", "Greek", "Gujarati", "Haitian Creole", "Hebrew", "Hindi", "Hungarian", "Icelandic", "Indonesian", "Irish", "Italian", "Japanese", "Kannada", "Korean", "Latin", "Latvian", "Lithuanian", "Macedonian", "Malay", "Maltese", "Norwegian", "Persian", "Polish", "Portuguese", "Romanian", "Russian", "Serbian", "Slovak", "Slovenian", "Spanish", "Swahili", "Swedish", "Tamil", "Telugu", "Thai", "Turkish", "Ukrainian", "Urdu", "Vietnamese", "Welsh", "Yiddish" };
     /**
      * Ngon ngu dich vi = vietnam
      */
@@ -38,10 +42,23 @@ public class GoogleTranslate {
      */
     private boolean haveEscapeCode = false;
     
-    private String[] escapeCode = {"\n", "\t", "\b" };
-    private String[] replaceEscapeCode = {"[escapcode_n]", "[escapcode_t]", "[escapcode_b]" };
+    private String[] escapeCode;// = {"\n", "\t", "\b" };
+    private String[] replaceEscapeCode;// = {"[escapcode_n]", "[escapcode_t]", "[escapcode_b]" };
     
     private httprequest con = new httprequest();
+
+    public GoogleTranslate() {
+        Random r = new Random();
+        escapeCode = new String[]{"\n", "\t", "\b", "\"" };
+        this.replaceEscapeCode = new String[this.escapeCode.length];
+        for ( int i = 0; i<this.replaceEscapeCode.length; i++ ){
+            this.replaceEscapeCode[i] = r.nextLong()+"";
+            Logger.getLogger(this.getClass()).finest(this.escapeCode[i] + ":" +this.replaceEscapeCode[i]);
+        }
+    }
+    
+    
+    
     
     
     private void setSourceLang(String lang){
@@ -67,23 +84,27 @@ public class GoogleTranslate {
                     t.deleteCharAt(i);
                 }
                 t.deleteCharAt(i);
+                i--;
             }
         }
         return t.toString();        
     }
+    
     private void setContent(String content){
         
         content = this.removeTag(content);
         //
         this.haveEscapeCodeEnter(content);
         if ( this.haveEscapeCode )
-            content = this.escapeCodeEnterConvertTo(content);
+            content = this.escapeCodeConvertTo(content);
         this.content = content;
     }
+    
     private void setInput(String source, String targe, String content){
         this.setLang(source, targe);
         this.setContent(content);
     }
+    
     private boolean genlink(){
         if ( this.source_lang == null || this.targe_lang == null || this.content == null )
             return false;
@@ -132,7 +153,7 @@ public class GoogleTranslate {
                 break;
         }
         if ( this.haveEscapeCode )
-            return this.escapeCodeEnterConvertBack( this.contentTranslated );
+            return this.escapeCodeConvertBack( this.contentTranslated );
         else
             return this.contentTranslated;
     }
@@ -142,48 +163,37 @@ public class GoogleTranslate {
      * @return true false co hoac ko co \n
      */
     private boolean haveEscapeCodeEnter(String s){
-        if ( s.indexOf("\n") >= 0 ){
-            this.haveEscapeCode = true;
-            return true;
+        for ( int i = 0; i<this.escapeCode.length; i++ ){
+            if ( s.indexOf(this.escapeCode[i]) >= 0 ){
+                this.haveEscapeCode = true;
+                return true;                
+            }
         }
-        else{
-            this.haveEscapeCode = false;
-            return false;
-        }
+        this.haveEscapeCode = false;
+        return false;
     }
     /**
-     * Convert escapeCodeEnter neu ton tai "\n" change to "#escapcode_n"
+     * Convert escapeCodeEnter VD : neu ton tai "escapeCode[i]" change to "replaceEscapeCode[i]"
      * @param s
      * @return string after convert
      */
-    private String escapeCodeEnterConvertTo(String s){
-        /*StringBuilder tmp = new StringBuilder( s );
-        for ( int i = 0; i<tmp.length(); i++ ){
-            if ( tmp.charAt(i) == '\n' ){
-                tmp.delete(i, i+1);
-                tmp.insert(i, "|n|");
-            }
-        }*/
-        return s.replaceAll("\n", "[escapcode_n]");
-        //return tmp.toString();
+    private String escapeCodeConvertTo(String s){
+        for ( int i = 0; i<this.escapeCode.length; i++ ){
+            s = s.replaceAll(this.escapeCode[i], " "+this.replaceEscapeCode[i] + " ");
+        }
+        return s;
     }
     /**
      * 
-     * Convert nguoc lai neu co "#escapcode_n" --> chuyen thanh "\n"
+     * Convert nguoc lai neu co "replaceEscapeCode[i]" --> chuyen thanh "escapeCode[i]"
      * * @param s content
      * @return STring after convert
      */
-    private String escapeCodeEnterConvertBack(String s){
-        StringBuilder tmp = new StringBuilder( s );
-        int pos;
-        while ( tmp.indexOf("[escapcode_n]") >= 0 ){
-            pos = tmp.indexOf("[escapcode_n]");
-            if ( pos+13 < tmp.length() && tmp.charAt(pos+13) == ' ' )
-                tmp.replace(pos, pos+14, "\n");
-            else
-                tmp.replace(pos, pos+13, "\n");
+    private String escapeCodeConvertBack(String s){
+        for ( int i = 0; i<this.escapeCode.length; i++ ){
+            s = s.replaceAll(this.replaceEscapeCode[i], this.escapeCode[i]);
         }
-        return tmp.toString();
+        return s;
 
     }
     /**
@@ -191,12 +201,11 @@ public class GoogleTranslate {
      */
     public static void main(String[] args) throws Exception {
         GoogleTranslate g = new GoogleTranslate();
-        //g.Translate("en", "vi", "Good night!");
-        
-        //System.out.println( g.escapeCodeConvertTo("Hello \n I am John") );
-        //System.out.println( g.escapeCodeConvertBack("Hello | n | I am John") );
-        System.out.println( g.Translate("en", "vi", "Hello\nI am John") );
+    
+        System.out.println( g.Translate("en", "vi", "Hello\nI \tam John") );
         System.out.println( g.getResponseData() );
+        
+        
     }
     
 }

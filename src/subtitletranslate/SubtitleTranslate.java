@@ -44,7 +44,7 @@ public class SubtitleTranslate {
         }
         catch(Exception e){
             if ( e.getMessage().compareTo(Srt.errorEncodeUTF8_UTF16) == 0 ){
-                System.out.println("Try with other encode : UTF16 " + this.file );
+                Logger.getLogger(this.getClass().getName()).info("Try with other encode : UTF16 " + this.file);
                 sub = new Srt(this.file,"UTF16");
             }
             else

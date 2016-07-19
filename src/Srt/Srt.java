@@ -56,9 +56,13 @@ public class Srt {
         f.close();
         this.genData();
     }
+    /**
+     * 
+     * @param file path VD : "/home/castiel/subtitle.srt
+     * @throws java.lang.Exception khi bi loi input hoac encode sai !
+     */
     public Srt(String file) throws java.lang.Exception {
         Scanner f = new Scanner(new InputStreamReader(new FileInputStream(file) ));
-        //, "UTF-8"));
         
 
         while(f.hasNextLine()){
@@ -66,17 +70,20 @@ public class Srt {
         }
         f.close();
         if ( Raw.length() > 0 && (int)Raw.charAt(0) == (int)Raw.charAt(1) && (int)Raw.charAt(0) == 65533 ){
-            throw new Exception("Srt.Srt(file)|encode_problem_utf8_or_utf16?");
+            throw new Exception(Srt.errorEncodeUTF8_UTF16);// loi encode throw
         }
         this.genData();
     }
-    public void genData() throws Exception{
+    /**
+     * Doc Du Lieu Vua Nhap
+     * @throws Exception 
+     */
+    private void genData() throws Exception{
         char first = Raw.charAt(0);
-        while ( !( first >= '0' && first <= '9' ) ){
+        while ( !( first >= '0' && first <= '9' ) ){// Srt format char dau tien luon la number ID
             Raw.delete(0,1);// Delete first char
             first = Raw.charAt(0);
         }
-        //System.out.println(Raw);
    
         if ( Raw.lastIndexOf("\n") >= 1 && Raw.charAt( Raw.lastIndexOf("\n") -1 ) != '\n' )// dam bao ky tu cuoi cung gom 2 char \n\n
             Raw.insert( Raw.length(), "\n" );
@@ -174,6 +181,10 @@ public class Srt {
         w.write(tmp);
         w.close();
     }
+    /**
+     * 
+     * @param tag --> Vi tri hien thi tren video, vlc tang an1, an2, ... , an9
+     */
     public void setTag(String tag){
         for ( Point e : lPoint ){
             e.addTag(tag);

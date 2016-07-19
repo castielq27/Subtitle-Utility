@@ -6,6 +6,7 @@
 package mergesubtitle;
 
 import Srt.*;
+import com.sun.istack.internal.logging.Logger;
 import java.io.File;
 
 
@@ -15,6 +16,13 @@ import java.io.File;
  */
 public class MergeSubtitle {
 
+    public final static String[] Tag_code = { "{\\an1}", "{\\an2}", "{\\an3}", 
+                                                "{\\an4}", "{\\an5}", "{\\an6}", 
+                                                 "{\\an7}", "{\\an8}", "{\\an9}" };
+    public final static String[] Tag_Label = { "bottom-left", "bottom-center", "bottom-right",
+                                                "center-left", "center", "center-right",
+                                                "top-left", "top-center", "top-right" };
+    
     /**
      * @param args the command line arguments
      */
@@ -24,6 +32,7 @@ public class MergeSubtitle {
     private String file2;
     private String tag2;
     
+   
     private String fileOut;
     
     private Srt sub1;
@@ -57,7 +66,7 @@ public class MergeSubtitle {
         }
         catch(Exception e){
             if ( e.getMessage().compareTo(Srt.errorEncodeUTF8_UTF16) == 0 ){
-                System.out.println("Try with other encode : UTF16 " + file1 );
+                Logger.getLogger(this.getClass()).info("Try with other encode : UTF16 " + file1);
                 sub1 = new Srt(file1,"UTF16");
             }
             else
@@ -69,7 +78,7 @@ public class MergeSubtitle {
         }
         catch(Exception e){
             if ( e.getMessage().compareTo(Srt.errorEncodeUTF8_UTF16) == 0 ){
-                System.out.println("Try with other encode : UTF16 " + file1 );
+                Logger.getLogger(this.getClass()).info("Try with other encode : UTF16 " + file1);
                 sub2 = new Srt(file2,"UTF16");
             }
             else
@@ -139,7 +148,7 @@ public class MergeSubtitle {
                 else
                     this.fileOut = tmp + count + ".srt";// new Path + count + .srt
                 f = new File( this.fileOut );
-                System.out.println("File exists --> new Path" + this.fileOut );
+                Logger.getLogger(this.getClass()).info("File exists --> new Path" + this.fileOut);
             }
             
             subOut.outFile(fileOut);
@@ -160,7 +169,7 @@ public class MergeSubtitle {
 
         }
         catch( java.lang.Exception e ){
-            System.out.println( e.toString() + "Main" );
+            Logger.getLogger(MergeSubtitle.class).info(e.toString() + "Main");
             throw e;
         }
         

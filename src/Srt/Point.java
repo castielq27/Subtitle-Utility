@@ -5,6 +5,8 @@
  */
 package Srt;
 
+import com.sun.istack.internal.logging.Logger;
+
 /**
  *
  * @author castiel
@@ -15,7 +17,16 @@ public class Point {
     private Timer time;
     private String caption;
     
-    public Point(String o) throws Exception {
+    /**
+     * 
+     * @param o một mẩu hội thoại trong subtitle theo format :
+     * [00:00:02,276 --> 00:00:04,224
+     * I was told\nonce that a man
+     * 
+     * ]
+     * 
+     */
+    public Point(String o) {
         StringBuilder tmp = new StringBuilder( o );
         
         try{
@@ -23,8 +34,8 @@ public class Point {
             tmp.delete(0, tmp.indexOf("\n") + 1);            
         }
         catch(Exception e){
-            System.out.println( "Point : ID input wrong !");
-            ID = 0;
+            Logger.getLogger(this.getClass()).info("Point : ID input wrong! Set ID = default ");
+            ID = 0; // error --> set default : ID = 0
         }
 
         try{
@@ -32,16 +43,16 @@ public class Point {
             tmp.delete(0, tmp.indexOf("\n") + 1);            
         }
         catch(Exception e ){
-            System.out.println( "Point : time input wrong !");
-            time = new Timer();// Timer Zero 00:00:00,000
+            Logger.getLogger(this.getClass()).info("Point : time input wrong! Set Time = default ");
+            time = new Timer();// error --> set default : Timer Zero 00:00:00,000
         }
 
         try{
             caption = new String( tmp.substring(0,tmp.indexOf("\n\n")));
         }
         catch(Exception e){
-            System.out.println( "Point : caption input wrong !");
-            caption = "MERGESUBTITLE.POINT : CAPTION INPUT WRONG !";
+            Logger.getLogger(this.getClass()).info("Point : caption input wrong! Set Caption = \"MERGESUBTITLE.POINT : CAPTION INPUT WRONG !\" ");
+            caption = "MERGESUBTITLE.POINT : CAPTION INPUT WRONG !"; // error --> set default caption 
         }
         
     }
@@ -69,14 +80,8 @@ public class Point {
         return this;
     }
     public static void main(String[] args){
-        try{
-            Point p = new Point("2\n00:00:02,276 --> 00:00:04,224\nI was told\nonce that a man\n\n");
-            System.out.println( p.toString() );
-        }
-        catch( Exception e){
-            System.out.println( e.toString() );
-        }
-        
+        Point p = new Point("2\n00:00:02,276 --> 00:00:04,224\nI was told\nonce that a man\n\n");
+        System.out.println( p.toString() );
         
     }
     
