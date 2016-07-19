@@ -3,9 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Srt;
+package subtitle_srt;
 
-import com.sun.istack.internal.logging.Logger;
+import java.util.logging.Logger;
+
 
 /**
  *
@@ -34,7 +35,7 @@ public class Point {
             tmp.delete(0, tmp.indexOf("\n") + 1);            
         }
         catch(Exception e){
-            Logger.getLogger(this.getClass()).info("Point : ID input wrong! Set ID = default ");
+            Logger.getLogger(this.getClass().getName()).info("Point : ID input wrong! Set ID = default ");
             ID = 0; // error --> set default : ID = 0
         }
 
@@ -43,7 +44,7 @@ public class Point {
             tmp.delete(0, tmp.indexOf("\n") + 1);            
         }
         catch(Exception e ){
-            Logger.getLogger(this.getClass()).info("Point : time input wrong! Set Time = default ");
+            Logger.getLogger(this.getClass().getName()).info("Point : time input wrong! Set Time = default ");
             time = new Timer();// error --> set default : Timer Zero 00:00:00,000
         }
 
@@ -51,7 +52,7 @@ public class Point {
             caption = new String( tmp.substring(0,tmp.indexOf("\n\n")));
         }
         catch(Exception e){
-            Logger.getLogger(this.getClass()).info("Point : caption input wrong! Set Caption = \"MERGESUBTITLE.POINT : CAPTION INPUT WRONG !\" ");
+            Logger.getLogger(this.getClass().getName()).info("Point : caption input wrong! Set Caption = \"MERGESUBTITLE.POINT : CAPTION INPUT WRONG !\" ");
             caption = "MERGESUBTITLE.POINT : CAPTION INPUT WRONG !"; // error --> set default caption 
         }
         

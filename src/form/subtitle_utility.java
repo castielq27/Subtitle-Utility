@@ -3,15 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package subtitle_utility;
-
-import form1.View;
+package form;
 
 /**
  *
  * @author castiel
  */
-public class Subtitle_Utility {
+public class subtitle_utility {
 
     /**
      * @param args the command line arguments

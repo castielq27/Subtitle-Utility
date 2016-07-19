@@ -3,11 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package mergesubtitle;
+package merge_subtitle;
 
-import Srt.*;
-import com.sun.istack.internal.logging.Logger;
+import subtitle_srt.Srt;
+import subtitle_srt.Point;
 import java.io.File;
+import java.util.logging.Logger;
 
 
 /**
@@ -66,7 +67,7 @@ public class MergeSubtitle {
         }
         catch(Exception e){
             if ( e.getMessage().compareTo(Srt.errorEncodeUTF8_UTF16) == 0 ){
-                Logger.getLogger(this.getClass()).info("Try with other encode : UTF16 " + file1);
+                Logger.getLogger(this.getClass().getName()).info("Try with other encode : UTF16 " + file1);
                 sub1 = new Srt(file1,"UTF16");
             }
             else
@@ -78,7 +79,7 @@ public class MergeSubtitle {
         }
         catch(Exception e){
             if ( e.getMessage().compareTo(Srt.errorEncodeUTF8_UTF16) == 0 ){
-                Logger.getLogger(this.getClass()).info("Try with other encode : UTF16 " + file1);
+                Logger.getLogger(this.getClass().getName()).info("Try with other encode : UTF16 " + file1);
                 sub2 = new Srt(file2,"UTF16");
             }
             else
@@ -148,7 +149,7 @@ public class MergeSubtitle {
                 else
                     this.fileOut = tmp + count + ".srt";// new Path + count + .srt
                 f = new File( this.fileOut );
-                Logger.getLogger(this.getClass()).info("File exists --> new Path" + this.fileOut);
+                Logger.getLogger(this.getClass().getName()).info("File exists --> new Path" + this.fileOut);
             }
             
             subOut.outFile(fileOut);
@@ -169,7 +170,7 @@ public class MergeSubtitle {
 
         }
         catch( java.lang.Exception e ){
-            Logger.getLogger(MergeSubtitle.class).info(e.toString() + "Main");
+            Logger.getLogger(MergeSubtitle.class.getName()).info(e.toString() + "Main");
             throw e;
         }
         

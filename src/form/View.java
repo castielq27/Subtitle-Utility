@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package form1;
+package form;
 
-import googletranslate.GoogleTranslate;
+import google_translate.GoogleTranslate;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.File;
@@ -21,8 +21,8 @@ import java.util.logging.LogRecord;
 import java.util.logging.Logger;
 import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
-import mergesubtitle.MergeSubtitle;
-import subtitletranslate.SubtitleTranslate;
+import merge_subtitle.MergeSubtitle;
+import subtitle_translate.SubtitleTranslate;
 
 /**
  *
@@ -95,6 +95,7 @@ public class View extends javax.swing.JFrame {
         jComboBox5 = new javax.swing.JComboBox<>();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setResizable(false);
 
         jPanel1.setBorder(javax.swing.BorderFactory.createTitledBorder("The first subtitle"));
 
@@ -108,11 +109,6 @@ public class View extends javax.swing.JFrame {
         });
 
         jComboBox1.setModel(new javax.swing.DefaultComboBoxModel(MergeSubtitle.Tag_Label));
-        jComboBox1.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jComboBox1ActionPerformed(evt);
-            }
-        });
 
         jButton1.setText("Choose Subtitle");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
@@ -185,7 +181,7 @@ public class View extends javax.swing.JFrame {
             .addComponent(jScrollPane1)
         );
 
-        jPanel4.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        jPanel4.setBorder(javax.swing.BorderFactory.createTitledBorder("Output"));
 
         jButton3.setText("Merge");
         jButton3.addActionListener(new java.awt.event.ActionListener() {
@@ -216,18 +212,8 @@ public class View extends javax.swing.JFrame {
         );
 
         jTabbedPane1.setBorder(javax.swing.BorderFactory.createTitledBorder("The second subtitle"));
-        jTabbedPane1.addChangeListener(new javax.swing.event.ChangeListener() {
-            public void stateChanged(javax.swing.event.ChangeEvent evt) {
-                jTabbedPane1StateChanged(evt);
-            }
-        });
 
         jComboBox2.setModel(new javax.swing.DefaultComboBoxModel(MergeSubtitle.Tag_Label));
-        jComboBox2.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jComboBox2ActionPerformed(evt);
-            }
-        });
 
         jLabel5.setText("Position");
 
@@ -289,11 +275,11 @@ public class View extends javax.swing.JFrame {
                     .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                         .addComponent(jLabel5)
                         .addComponent(jComboBox2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                .addContainerGap(17, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
-        jTabbedPane1.addTab("Merge Two Subtitle ", jPanel2);
-        jPanel2.getAccessibleContext().setAccessibleName("Merge Two Subtitle ");
+        jTabbedPane1.addTab("The second subtitle", jPanel2);
+        jPanel2.getAccessibleContext().setAccessibleName("The second subtitle");
 
         jComboBox3.setModel(new javax.swing.DefaultComboBoxModel<>(GoogleTranslate.lang_label));
 
@@ -341,11 +327,11 @@ public class View extends javax.swing.JFrame {
                 .addGroup(jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox5, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(jLabel3))
-                .addContainerGap(25, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
-        jTabbedPane1.addTab("Translate the first subtitle and Merge", jPanel5);
-        jPanel5.getAccessibleContext().setAccessibleName("Translate the first subtitle and Merge");
+        jTabbedPane1.addTab(" Use content translated from first subtitle", jPanel5);
+        jPanel5.getAccessibleContext().setAccessibleName(" Use content translated from the first subtitle ");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -480,6 +466,7 @@ public class View extends javax.swing.JFrame {
                     this.jComboBox3.setEnabled(true);
                     this.jComboBox4.setEnabled(true);
                     this.jComboBox5.setEnabled(true);
+                    Logger.getLogger(View.this.getName()).log(Level.INFO, "Finished!");
                 }
             else
                 Logger.getLogger(View.this.getName()).log(Level.WARNING, "File Input");
@@ -551,18 +538,6 @@ public class View extends javax.swing.JFrame {
             this.jTextField3.setText(this.jTextField2.getText().substring(0, this.jTextField2.getText().lastIndexOf("/")) + "/Merge.srt");
         }
     }//GEN-LAST:event_jButton2ActionPerformed
-
-    private void jComboBox2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jComboBox2ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jComboBox2ActionPerformed
-
-    private void jTabbedPane1StateChanged(javax.swing.event.ChangeEvent evt) {//GEN-FIRST:event_jTabbedPane1StateChanged
-        
-    }//GEN-LAST:event_jTabbedPane1StateChanged
-
-    private void jComboBox1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jComboBox1ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jComboBox1ActionPerformed
 
     /**
      * @param args the command line arguments

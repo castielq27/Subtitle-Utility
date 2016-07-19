@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package googletranslate;
+package google_translate;
 
-import com.sun.istack.internal.logging.Logger;
 import httprequest.httprequest;
 import java.util.Random;
+import java.util.logging.Logger;
 import java.util.regex.Matcher;
 
 /**
@@ -53,7 +53,7 @@ public class GoogleTranslate {
         this.replaceEscapeCode = new String[this.escapeCode.length];
         for ( int i = 0; i<this.replaceEscapeCode.length; i++ ){
             this.replaceEscapeCode[i] = r.nextLong()+"";
-            Logger.getLogger(this.getClass()).finest(this.escapeCode[i] + ":" +this.replaceEscapeCode[i]);
+            Logger.getLogger(this.getClass().getName()).finest(this.escapeCode[i] + ":" +this.replaceEscapeCode[i]);
         }
     }
     

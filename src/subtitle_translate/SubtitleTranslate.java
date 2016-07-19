@@ -3,10 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package subtitletranslate;
+package subtitle_translate;
 
-import Srt.*;
-import googletranslate.GoogleTranslate;
+import subtitle_srt.Srt;
+import subtitle_srt.Point;
+import google_translate.GoogleTranslate;
 import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
