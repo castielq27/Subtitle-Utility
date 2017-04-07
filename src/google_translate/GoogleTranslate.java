@@ -141,10 +141,10 @@ public class GoogleTranslate {
         
         StringBuilder tmp = new StringBuilder( this.responseData );
         while( tmp.length() > 0 ){
-            while( tmp.charAt(0) != '\"' ){
+            while( tmp.charAt(0) != '\"' ){//remove unused char
                 tmp.deleteCharAt(0);
             }            
-            tmp.deleteCharAt(0);
+            tmp.deleteCharAt(0);// remove char \"
             this.contentTranslated = this.contentTranslated + tmp.substring(0, tmp.indexOf("\"") );
             pos = tmp.indexOf(",[\"");
             if ( pos > -1 )
@@ -201,9 +201,10 @@ public class GoogleTranslate {
      */
     public static void main(String[] args) throws Exception {
         GoogleTranslate g = new GoogleTranslate();
-    
-        System.out.println( g.Translate("en", "vi", "Hello\nI \tam John") );
-        System.out.println( g.getResponseData() );
+        g.Translate("en", "vi", "Hello\nI \tam John");
+//                
+//        System.out.println( g.Translate("en", "vi", "Hello\nI \tam John") );
+//        System.out.println( g.getResponseData() );
         
         
     }

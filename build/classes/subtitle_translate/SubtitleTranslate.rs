@@ -1,3 +1,0 @@
-subtitle_translate.SubtitleTranslate
-subtitle_translate.threadWork$translateThread
-subtitle_translate.threadWork
